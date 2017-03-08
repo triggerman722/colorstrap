@@ -1,0 +1,1333 @@
+.alert-aliceblue, .bg-aliceblue, .btn-aliceblue, .label-aliceblue, .panel-aliceblue > .panel-heading, .progress-bar-aliceblue, .list-group-item-aliceblue{
+   background-image: -webkit-linear-gradient(top, #F0F8FF0%, #D8DFE5 100%);
+   background-image:      -o-linear-gradient(top, #F0F8FF 0%, #D8DFE5 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#F0F8FF), to(#D8DFE5));
+   background-image:         linear-gradient(to bottom, #F0F8FF 0%, #D8DFE5 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#F0F8FF', endColorstr='#ff#D8DFE5', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #C0C6CC;
+}
+.alert-antiquewhite, .bg-antiquewhite, .btn-antiquewhite, .label-antiquewhite, .panel-antiquewhite > .panel-heading, .progress-bar-antiquewhite, .list-group-item-antiquewhite{
+   background-image: -webkit-linear-gradient(top, #FAEBD70%, #E1D3C1 100%);
+   background-image:      -o-linear-gradient(top, #FAEBD7 0%, #E1D3C1 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FAEBD7), to(#E1D3C1));
+   background-image:         linear-gradient(to bottom, #FAEBD7 0%, #E1D3C1 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FAEBD7', endColorstr='#ff#E1D3C1', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #C8BCAC;
+}
+.alert-aqua, .bg-aqua, .btn-aqua, .label-aqua, .panel-aqua > .panel-heading, .progress-bar-aqua, .list-group-item-aqua{
+   background-image: -webkit-linear-gradient(top, #00FFFF0%, #00E5E5 100%);
+   background-image:      -o-linear-gradient(top, #00FFFF 0%, #00E5E5 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#00FFFF), to(#00E5E5));
+   background-image:         linear-gradient(to bottom, #00FFFF 0%, #00E5E5 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#00FFFF', endColorstr='#ff#00E5E5', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #00CCCC;
+}
+.alert-aquamarine, .bg-aquamarine, .btn-aquamarine, .label-aquamarine, .panel-aquamarine > .panel-heading, .progress-bar-aquamarine, .list-group-item-aquamarine{
+   background-image: -webkit-linear-gradient(top, #7FFFD40%, #72E5BE 100%);
+   background-image:      -o-linear-gradient(top, #7FFFD4 0%, #72E5BE 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#7FFFD4), to(#72E5BE));
+   background-image:         linear-gradient(to bottom, #7FFFD4 0%, #72E5BE 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#7FFFD4', endColorstr='#ff#72E5BE', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #65CCA9;
+}
+.alert-azure, .bg-azure, .btn-azure, .label-azure, .panel-azure > .panel-heading, .progress-bar-azure, .list-group-item-azure{
+   background-image: -webkit-linear-gradient(top, #F0FFFF0%, #D8E5E5 100%);
+   background-image:      -o-linear-gradient(top, #F0FFFF 0%, #D8E5E5 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#F0FFFF), to(#D8E5E5));
+   background-image:         linear-gradient(to bottom, #F0FFFF 0%, #D8E5E5 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#F0FFFF', endColorstr='#ff#D8E5E5', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #C0CCCC;
+}
+.alert-beige, .bg-beige, .btn-beige, .label-beige, .panel-beige > .panel-heading, .progress-bar-beige, .list-group-item-beige{
+   background-image: -webkit-linear-gradient(top, #F5F5DC0%, #DCDCC6 100%);
+   background-image:      -o-linear-gradient(top, #F5F5DC 0%, #DCDCC6 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#F5F5DC), to(#DCDCC6));
+   background-image:         linear-gradient(to bottom, #F5F5DC 0%, #DCDCC6 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#F5F5DC', endColorstr='#ff#DCDCC6', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #C4C4B0;
+}
+.alert-bisque, .bg-bisque, .btn-bisque, .label-bisque, .panel-bisque > .panel-heading, .progress-bar-bisque, .list-group-item-bisque{
+   background-image: -webkit-linear-gradient(top, #FFE4C40%, #E5CDB0 100%);
+   background-image:      -o-linear-gradient(top, #FFE4C4 0%, #E5CDB0 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FFE4C4), to(#E5CDB0));
+   background-image:         linear-gradient(to bottom, #FFE4C4 0%, #E5CDB0 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FFE4C4', endColorstr='#ff#E5CDB0', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CCB69C;
+}
+.alert-black, .bg-black, .btn-black, .label-black, .panel-black > .panel-heading, .progress-bar-black, .list-group-item-black{
+   background-image: -webkit-linear-gradient(top, #0000000%, #000000 100%);
+   background-image:      -o-linear-gradient(top, #000000 0%, #000000 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#000000), to(#000000));
+   background-image:         linear-gradient(to bottom, #000000 0%, #000000 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#000000', endColorstr='#ff#000000', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #000000;
+}
+.alert-blanchedalmond, .bg-blanchedalmond, .btn-blanchedalmond, .label-blanchedalmond, .panel-blanchedalmond > .panel-heading, .progress-bar-blanchedalmond, .list-group-item-blanchedalmond{
+   background-image: -webkit-linear-gradient(top, #FFEBCD0%, #E5D3B8 100%);
+   background-image:      -o-linear-gradient(top, #FFEBCD 0%, #E5D3B8 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FFEBCD), to(#E5D3B8));
+   background-image:         linear-gradient(to bottom, #FFEBCD 0%, #E5D3B8 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FFEBCD', endColorstr='#ff#E5D3B8', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CCBCA4;
+}
+.alert-blue, .bg-blue, .btn-blue, .label-blue, .panel-blue > .panel-heading, .progress-bar-blue, .list-group-item-blue{
+   background-image: -webkit-linear-gradient(top, #0000FF0%, #0000E5 100%);
+   background-image:      -o-linear-gradient(top, #0000FF 0%, #0000E5 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#0000FF), to(#0000E5));
+   background-image:         linear-gradient(to bottom, #0000FF 0%, #0000E5 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#0000FF', endColorstr='#ff#0000E5', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #0000CC;
+}
+.alert-blueviolet, .bg-blueviolet, .btn-blueviolet, .label-blueviolet, .panel-blueviolet > .panel-heading, .progress-bar-blueviolet, .list-group-item-blueviolet{
+   background-image: -webkit-linear-gradient(top, #8A2BE20%, #7C26CB 100%);
+   background-image:      -o-linear-gradient(top, #8A2BE2 0%, #7C26CB 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#8A2BE2), to(#7C26CB));
+   background-image:         linear-gradient(to bottom, #8A2BE2 0%, #7C26CB 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#8A2BE2', endColorstr='#ff#7C26CB', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #6E22B4;
+}
+.alert-brown, .bg-brown, .btn-brown, .label-brown, .panel-brown > .panel-heading, .progress-bar-brown, .list-group-item-brown{
+   background-image: -webkit-linear-gradient(top, #A52A2A0%, #942525 100%);
+   background-image:      -o-linear-gradient(top, #A52A2A 0%, #942525 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#A52A2A), to(#942525));
+   background-image:         linear-gradient(to bottom, #A52A2A 0%, #942525 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#A52A2A', endColorstr='#ff#942525', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #842121;
+}
+.alert-burlywood, .bg-burlywood, .btn-burlywood, .label-burlywood, .panel-burlywood > .panel-heading, .progress-bar-burlywood, .list-group-item-burlywood{
+   background-image: -webkit-linear-gradient(top, #DEB8870%, #C7A579 100%);
+   background-image:      -o-linear-gradient(top, #DEB887 0%, #C7A579 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#DEB887), to(#C7A579));
+   background-image:         linear-gradient(to bottom, #DEB887 0%, #C7A579 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#DEB887', endColorstr='#ff#C7A579', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #B1936C;
+}
+.alert-cadetblue, .bg-cadetblue, .btn-cadetblue, .label-cadetblue, .panel-cadetblue > .panel-heading, .progress-bar-cadetblue, .list-group-item-cadetblue{
+   background-image: -webkit-linear-gradient(top, #5F9EA00%, #558E90 100%);
+   background-image:      -o-linear-gradient(top, #5F9EA0 0%, #558E90 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#5F9EA0), to(#558E90));
+   background-image:         linear-gradient(to bottom, #5F9EA0 0%, #558E90 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#5F9EA0', endColorstr='#ff#558E90', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #4C7E80;
+}
+.alert-chartreuse, .bg-chartreuse, .btn-chartreuse, .label-chartreuse, .panel-chartreuse > .panel-heading, .progress-bar-chartreuse, .list-group-item-chartreuse{
+   background-image: -webkit-linear-gradient(top, #7FFF000%, #72E500 100%);
+   background-image:      -o-linear-gradient(top, #7FFF00 0%, #72E500 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#7FFF00), to(#72E500));
+   background-image:         linear-gradient(to bottom, #7FFF00 0%, #72E500 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#7FFF00', endColorstr='#ff#72E500', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #65CC00;
+}
+.alert-chocolate, .bg-chocolate, .btn-chocolate, .label-chocolate, .panel-chocolate > .panel-heading, .progress-bar-chocolate, .list-group-item-chocolate{
+   background-image: -webkit-linear-gradient(top, #D2691E0%, #BD5E1B 100%);
+   background-image:      -o-linear-gradient(top, #D2691E 0%, #BD5E1B 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#D2691E), to(#BD5E1B));
+   background-image:         linear-gradient(to bottom, #D2691E 0%, #BD5E1B 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#D2691E', endColorstr='#ff#BD5E1B', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #A85418;
+}
+.alert-coral, .bg-coral, .btn-coral, .label-coral, .panel-coral > .panel-heading, .progress-bar-coral, .list-group-item-coral{
+   background-image: -webkit-linear-gradient(top, #FF7F500%, #E57248 100%);
+   background-image:      -o-linear-gradient(top, #FF7F50 0%, #E57248 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FF7F50), to(#E57248));
+   background-image:         linear-gradient(to bottom, #FF7F50 0%, #E57248 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FF7F50', endColorstr='#ff#E57248', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CC6540;
+}
+.alert-cornflowerblue, .bg-cornflowerblue, .btn-cornflowerblue, .label-cornflowerblue, .panel-cornflowerblue > .panel-heading, .progress-bar-cornflowerblue, .list-group-item-cornflowerblue{
+   background-image: -webkit-linear-gradient(top, #6495ED0%, #5A86D5 100%);
+   background-image:      -o-linear-gradient(top, #6495ED 0%, #5A86D5 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#6495ED), to(#5A86D5));
+   background-image:         linear-gradient(to bottom, #6495ED 0%, #5A86D5 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#6495ED', endColorstr='#ff#5A86D5', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #5077BD;
+}
+.alert-cornsilk, .bg-cornsilk, .btn-cornsilk, .label-cornsilk, .panel-cornsilk > .panel-heading, .progress-bar-cornsilk, .list-group-item-cornsilk{
+   background-image: -webkit-linear-gradient(top, #FFF8DC0%, #E5DFC6 100%);
+   background-image:      -o-linear-gradient(top, #FFF8DC 0%, #E5DFC6 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FFF8DC), to(#E5DFC6));
+   background-image:         linear-gradient(to bottom, #FFF8DC 0%, #E5DFC6 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FFF8DC', endColorstr='#ff#E5DFC6', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CCC6B0;
+}
+.alert-crimson, .bg-crimson, .btn-crimson, .label-crimson, .panel-crimson > .panel-heading, .progress-bar-crimson, .list-group-item-crimson{
+   background-image: -webkit-linear-gradient(top, #DC143C0%, #C61236 100%);
+   background-image:      -o-linear-gradient(top, #DC143C 0%, #C61236 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#DC143C), to(#C61236));
+   background-image:         linear-gradient(to bottom, #DC143C 0%, #C61236 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#DC143C', endColorstr='#ff#C61236', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #B01030;
+}
+.alert-cyan, .bg-cyan, .btn-cyan, .label-cyan, .panel-cyan > .panel-heading, .progress-bar-cyan, .list-group-item-cyan{
+   background-image: -webkit-linear-gradient(top, #00FFFF0%, #00E5E5 100%);
+   background-image:      -o-linear-gradient(top, #00FFFF 0%, #00E5E5 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#00FFFF), to(#00E5E5));
+   background-image:         linear-gradient(to bottom, #00FFFF 0%, #00E5E5 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#00FFFF', endColorstr='#ff#00E5E5', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #00CCCC;
+}
+.alert-darkblue, .bg-darkblue, .btn-darkblue, .label-darkblue, .panel-darkblue > .panel-heading, .progress-bar-darkblue, .list-group-item-darkblue{
+   background-image: -webkit-linear-gradient(top, #00008B0%, #00007D 100%);
+   background-image:      -o-linear-gradient(top, #00008B 0%, #00007D 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#00008B), to(#00007D));
+   background-image:         linear-gradient(to bottom, #00008B 0%, #00007D 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#00008B', endColorstr='#ff#00007D', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #00006F;
+}
+.alert-darkcyan, .bg-darkcyan, .btn-darkcyan, .label-darkcyan, .panel-darkcyan > .panel-heading, .progress-bar-darkcyan, .list-group-item-darkcyan{
+   background-image: -webkit-linear-gradient(top, #008B8B0%, #007D7D 100%);
+   background-image:      -o-linear-gradient(top, #008B8B 0%, #007D7D 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#008B8B), to(#007D7D));
+   background-image:         linear-gradient(to bottom, #008B8B 0%, #007D7D 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#008B8B', endColorstr='#ff#007D7D', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #006F6F;
+}
+.alert-darkgoldenrod, .bg-darkgoldenrod, .btn-darkgoldenrod, .label-darkgoldenrod, .panel-darkgoldenrod > .panel-heading, .progress-bar-darkgoldenrod, .list-group-item-darkgoldenrod{
+   background-image: -webkit-linear-gradient(top, #B8860B0%, #A57809 100%);
+   background-image:      -o-linear-gradient(top, #B8860B 0%, #A57809 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#B8860B), to(#A57809));
+   background-image:         linear-gradient(to bottom, #B8860B 0%, #A57809 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#B8860B', endColorstr='#ff#A57809', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #936B08;
+}
+.alert-darkgray, .bg-darkgray, .btn-darkgray, .label-darkgray, .panel-darkgray > .panel-heading, .progress-bar-darkgray, .list-group-item-darkgray{
+   background-image: -webkit-linear-gradient(top, #A9A9A90%, #989898 100%);
+   background-image:      -o-linear-gradient(top, #A9A9A9 0%, #989898 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#A9A9A9), to(#989898));
+   background-image:         linear-gradient(to bottom, #A9A9A9 0%, #989898 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#A9A9A9', endColorstr='#ff#989898', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #878787;
+}
+.alert-darkgrey, .bg-darkgrey, .btn-darkgrey, .label-darkgrey, .panel-darkgrey > .panel-heading, .progress-bar-darkgrey, .list-group-item-darkgrey{
+   background-image: -webkit-linear-gradient(top, #A9A9A90%, #989898 100%);
+   background-image:      -o-linear-gradient(top, #A9A9A9 0%, #989898 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#A9A9A9), to(#989898));
+   background-image:         linear-gradient(to bottom, #A9A9A9 0%, #989898 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#A9A9A9', endColorstr='#ff#989898', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #878787;
+}
+.alert-darkgreen, .bg-darkgreen, .btn-darkgreen, .label-darkgreen, .panel-darkgreen > .panel-heading, .progress-bar-darkgreen, .list-group-item-darkgreen{
+   background-image: -webkit-linear-gradient(top, #0064000%, #005A00 100%);
+   background-image:      -o-linear-gradient(top, #006400 0%, #005A00 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#006400), to(#005A00));
+   background-image:         linear-gradient(to bottom, #006400 0%, #005A00 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#006400', endColorstr='#ff#005A00', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #005000;
+}
+.alert-darkkhaki, .bg-darkkhaki, .btn-darkkhaki, .label-darkkhaki, .panel-darkkhaki > .panel-heading, .progress-bar-darkkhaki, .list-group-item-darkkhaki{
+   background-image: -webkit-linear-gradient(top, #BDB76B0%, #AAA460 100%);
+   background-image:      -o-linear-gradient(top, #BDB76B 0%, #AAA460 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#BDB76B), to(#AAA460));
+   background-image:         linear-gradient(to bottom, #BDB76B 0%, #AAA460 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#BDB76B', endColorstr='#ff#AAA460', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #979255;
+}
+.alert-darkmagenta, .bg-darkmagenta, .btn-darkmagenta, .label-darkmagenta, .panel-darkmagenta > .panel-heading, .progress-bar-darkmagenta, .list-group-item-darkmagenta{
+   background-image: -webkit-linear-gradient(top, #8B008B0%, #7D007D 100%);
+   background-image:      -o-linear-gradient(top, #8B008B 0%, #7D007D 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#8B008B), to(#7D007D));
+   background-image:         linear-gradient(to bottom, #8B008B 0%, #7D007D 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#8B008B', endColorstr='#ff#7D007D', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #6F006F;
+}
+.alert-darkolivegreen, .bg-darkolivegreen, .btn-darkolivegreen, .label-darkolivegreen, .panel-darkolivegreen > .panel-heading, .progress-bar-darkolivegreen, .list-group-item-darkolivegreen{
+   background-image: -webkit-linear-gradient(top, #556B2F0%, #4C602A 100%);
+   background-image:      -o-linear-gradient(top, #556B2F 0%, #4C602A 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#556B2F), to(#4C602A));
+   background-image:         linear-gradient(to bottom, #556B2F 0%, #4C602A 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#556B2F', endColorstr='#ff#4C602A', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #445525;
+}
+.alert-darkorange, .bg-darkorange, .btn-darkorange, .label-darkorange, .panel-darkorange > .panel-heading, .progress-bar-darkorange, .list-group-item-darkorange{
+   background-image: -webkit-linear-gradient(top, #FF8C000%, #E57E00 100%);
+   background-image:      -o-linear-gradient(top, #FF8C00 0%, #E57E00 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FF8C00), to(#E57E00));
+   background-image:         linear-gradient(to bottom, #FF8C00 0%, #E57E00 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FF8C00', endColorstr='#ff#E57E00', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CC7000;
+}
+.alert-darkorchid, .bg-darkorchid, .btn-darkorchid, .label-darkorchid, .panel-darkorchid > .panel-heading, .progress-bar-darkorchid, .list-group-item-darkorchid{
+   background-image: -webkit-linear-gradient(top, #9932CC0%, #892DB7 100%);
+   background-image:      -o-linear-gradient(top, #9932CC 0%, #892DB7 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#9932CC), to(#892DB7));
+   background-image:         linear-gradient(to bottom, #9932CC 0%, #892DB7 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#9932CC', endColorstr='#ff#892DB7', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #7A28A3;
+}
+.alert-darkred, .bg-darkred, .btn-darkred, .label-darkred, .panel-darkred > .panel-heading, .progress-bar-darkred, .list-group-item-darkred{
+   background-image: -webkit-linear-gradient(top, #8B00000%, #7D0000 100%);
+   background-image:      -o-linear-gradient(top, #8B0000 0%, #7D0000 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#8B0000), to(#7D0000));
+   background-image:         linear-gradient(to bottom, #8B0000 0%, #7D0000 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#8B0000', endColorstr='#ff#7D0000', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #6F0000;
+}
+.alert-darksalmon, .bg-darksalmon, .btn-darksalmon, .label-darksalmon, .panel-darksalmon > .panel-heading, .progress-bar-darksalmon, .list-group-item-darksalmon{
+   background-image: -webkit-linear-gradient(top, #E9967A0%, #D1876D 100%);
+   background-image:      -o-linear-gradient(top, #E9967A 0%, #D1876D 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#E9967A), to(#D1876D));
+   background-image:         linear-gradient(to bottom, #E9967A 0%, #D1876D 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#E9967A', endColorstr='#ff#D1876D', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #BA7861;
+}
+.alert-darkseagreen, .bg-darkseagreen, .btn-darkseagreen, .label-darkseagreen, .panel-darkseagreen > .panel-heading, .progress-bar-darkseagreen, .list-group-item-darkseagreen{
+   background-image: -webkit-linear-gradient(top, #8FBC8F0%, #80A980 100%);
+   background-image:      -o-linear-gradient(top, #8FBC8F 0%, #80A980 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#8FBC8F), to(#80A980));
+   background-image:         linear-gradient(to bottom, #8FBC8F 0%, #80A980 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#8FBC8F', endColorstr='#ff#80A980', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #729672;
+}
+.alert-darkslateblue, .bg-darkslateblue, .btn-darkslateblue, .label-darkslateblue, .panel-darkslateblue > .panel-heading, .progress-bar-darkslateblue, .list-group-item-darkslateblue{
+   background-image: -webkit-linear-gradient(top, #483D8B0%, #40367D 100%);
+   background-image:      -o-linear-gradient(top, #483D8B 0%, #40367D 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#483D8B), to(#40367D));
+   background-image:         linear-gradient(to bottom, #483D8B 0%, #40367D 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#483D8B', endColorstr='#ff#40367D', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #39306F;
+}
+.alert-darkslategray, .bg-darkslategray, .btn-darkslategray, .label-darkslategray, .panel-darkslategray > .panel-heading, .progress-bar-darkslategray, .list-group-item-darkslategray{
+   background-image: -webkit-linear-gradient(top, #2F4F4F0%, #2A4747 100%);
+   background-image:      -o-linear-gradient(top, #2F4F4F 0%, #2A4747 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#2F4F4F), to(#2A4747));
+   background-image:         linear-gradient(to bottom, #2F4F4F 0%, #2A4747 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#2F4F4F', endColorstr='#ff#2A4747', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #253F3F;
+}
+.alert-darkslategrey, .bg-darkslategrey, .btn-darkslategrey, .label-darkslategrey, .panel-darkslategrey > .panel-heading, .progress-bar-darkslategrey, .list-group-item-darkslategrey{
+   background-image: -webkit-linear-gradient(top, #2F4F4F0%, #2A4747 100%);
+   background-image:      -o-linear-gradient(top, #2F4F4F 0%, #2A4747 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#2F4F4F), to(#2A4747));
+   background-image:         linear-gradient(to bottom, #2F4F4F 0%, #2A4747 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#2F4F4F', endColorstr='#ff#2A4747', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #253F3F;
+}
+.alert-darkturquoise, .bg-darkturquoise, .btn-darkturquoise, .label-darkturquoise, .panel-darkturquoise > .panel-heading, .progress-bar-darkturquoise, .list-group-item-darkturquoise{
+   background-image: -webkit-linear-gradient(top, #00CED10%, #00B9BC 100%);
+   background-image:      -o-linear-gradient(top, #00CED1 0%, #00B9BC 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#00CED1), to(#00B9BC));
+   background-image:         linear-gradient(to bottom, #00CED1 0%, #00B9BC 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#00CED1', endColorstr='#ff#00B9BC', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #00A4A7;
+}
+.alert-darkviolet, .bg-darkviolet, .btn-darkviolet, .label-darkviolet, .panel-darkviolet > .panel-heading, .progress-bar-darkviolet, .list-group-item-darkviolet{
+   background-image: -webkit-linear-gradient(top, #9400D30%, #8500BD 100%);
+   background-image:      -o-linear-gradient(top, #9400D3 0%, #8500BD 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#9400D3), to(#8500BD));
+   background-image:         linear-gradient(to bottom, #9400D3 0%, #8500BD 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#9400D3', endColorstr='#ff#8500BD', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #7600A8;
+}
+.alert-deeppink, .bg-deeppink, .btn-deeppink, .label-deeppink, .panel-deeppink > .panel-heading, .progress-bar-deeppink, .list-group-item-deeppink{
+   background-image: -webkit-linear-gradient(top, #FF14930%, #E51284 100%);
+   background-image:      -o-linear-gradient(top, #FF1493 0%, #E51284 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FF1493), to(#E51284));
+   background-image:         linear-gradient(to bottom, #FF1493 0%, #E51284 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FF1493', endColorstr='#ff#E51284', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CC1075;
+}
+.alert-deepskyblue, .bg-deepskyblue, .btn-deepskyblue, .label-deepskyblue, .panel-deepskyblue > .panel-heading, .progress-bar-deepskyblue, .list-group-item-deepskyblue{
+   background-image: -webkit-linear-gradient(top, #00BFFF0%, #00ABE5 100%);
+   background-image:      -o-linear-gradient(top, #00BFFF 0%, #00ABE5 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#00BFFF), to(#00ABE5));
+   background-image:         linear-gradient(to bottom, #00BFFF 0%, #00ABE5 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#00BFFF', endColorstr='#ff#00ABE5', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #0098CC;
+}
+.alert-dimgray, .bg-dimgray, .btn-dimgray, .label-dimgray, .panel-dimgray > .panel-heading, .progress-bar-dimgray, .list-group-item-dimgray{
+   background-image: -webkit-linear-gradient(top, #6969690%, #5E5E5E 100%);
+   background-image:      -o-linear-gradient(top, #696969 0%, #5E5E5E 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#696969), to(#5E5E5E));
+   background-image:         linear-gradient(to bottom, #696969 0%, #5E5E5E 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#696969', endColorstr='#ff#5E5E5E', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #545454;
+}
+.alert-dimgrey, .bg-dimgrey, .btn-dimgrey, .label-dimgrey, .panel-dimgrey > .panel-heading, .progress-bar-dimgrey, .list-group-item-dimgrey{
+   background-image: -webkit-linear-gradient(top, #6969690%, #5E5E5E 100%);
+   background-image:      -o-linear-gradient(top, #696969 0%, #5E5E5E 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#696969), to(#5E5E5E));
+   background-image:         linear-gradient(to bottom, #696969 0%, #5E5E5E 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#696969', endColorstr='#ff#5E5E5E', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #545454;
+}
+.alert-dodgerblue, .bg-dodgerblue, .btn-dodgerblue, .label-dodgerblue, .panel-dodgerblue > .panel-heading, .progress-bar-dodgerblue, .list-group-item-dodgerblue{
+   background-image: -webkit-linear-gradient(top, #1E90FF0%, #1B81E5 100%);
+   background-image:      -o-linear-gradient(top, #1E90FF 0%, #1B81E5 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#1E90FF), to(#1B81E5));
+   background-image:         linear-gradient(to bottom, #1E90FF 0%, #1B81E5 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#1E90FF', endColorstr='#ff#1B81E5', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #1873CC;
+}
+.alert-firebrick, .bg-firebrick, .btn-firebrick, .label-firebrick, .panel-firebrick > .panel-heading, .progress-bar-firebrick, .list-group-item-firebrick{
+   background-image: -webkit-linear-gradient(top, #B222220%, #A01E1E 100%);
+   background-image:      -o-linear-gradient(top, #B22222 0%, #A01E1E 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#B22222), to(#A01E1E));
+   background-image:         linear-gradient(to bottom, #B22222 0%, #A01E1E 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#B22222', endColorstr='#ff#A01E1E', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #8E1B1B;
+}
+.alert-floralwhite, .bg-floralwhite, .btn-floralwhite, .label-floralwhite, .panel-floralwhite > .panel-heading, .progress-bar-floralwhite, .list-group-item-floralwhite{
+   background-image: -webkit-linear-gradient(top, #FFFAF00%, #E5E1D8 100%);
+   background-image:      -o-linear-gradient(top, #FFFAF0 0%, #E5E1D8 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FFFAF0), to(#E5E1D8));
+   background-image:         linear-gradient(to bottom, #FFFAF0 0%, #E5E1D8 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FFFAF0', endColorstr='#ff#E5E1D8', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CCC8C0;
+}
+.alert-forestgreen, .bg-forestgreen, .btn-forestgreen, .label-forestgreen, .panel-forestgreen > .panel-heading, .progress-bar-forestgreen, .list-group-item-forestgreen{
+   background-image: -webkit-linear-gradient(top, #228B220%, #1E7D1E 100%);
+   background-image:      -o-linear-gradient(top, #228B22 0%, #1E7D1E 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#228B22), to(#1E7D1E));
+   background-image:         linear-gradient(to bottom, #228B22 0%, #1E7D1E 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#228B22', endColorstr='#ff#1E7D1E', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #1B6F1B;
+}
+.alert-fuchsia, .bg-fuchsia, .btn-fuchsia, .label-fuchsia, .panel-fuchsia > .panel-heading, .progress-bar-fuchsia, .list-group-item-fuchsia{
+   background-image: -webkit-linear-gradient(top, #FF00FF0%, #E500E5 100%);
+   background-image:      -o-linear-gradient(top, #FF00FF 0%, #E500E5 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FF00FF), to(#E500E5));
+   background-image:         linear-gradient(to bottom, #FF00FF 0%, #E500E5 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FF00FF', endColorstr='#ff#E500E5', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CC00CC;
+}
+.alert-gainsboro, .bg-gainsboro, .btn-gainsboro, .label-gainsboro, .panel-gainsboro > .panel-heading, .progress-bar-gainsboro, .list-group-item-gainsboro{
+   background-image: -webkit-linear-gradient(top, #DCDCDC0%, #C6C6C6 100%);
+   background-image:      -o-linear-gradient(top, #DCDCDC 0%, #C6C6C6 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#DCDCDC), to(#C6C6C6));
+   background-image:         linear-gradient(to bottom, #DCDCDC 0%, #C6C6C6 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#DCDCDC', endColorstr='#ff#C6C6C6', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #B0B0B0;
+}
+.alert-ghostwhite, .bg-ghostwhite, .btn-ghostwhite, .label-ghostwhite, .panel-ghostwhite > .panel-heading, .progress-bar-ghostwhite, .list-group-item-ghostwhite{
+   background-image: -webkit-linear-gradient(top, #F8F8FF0%, #DFDFE5 100%);
+   background-image:      -o-linear-gradient(top, #F8F8FF 0%, #DFDFE5 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#F8F8FF), to(#DFDFE5));
+   background-image:         linear-gradient(to bottom, #F8F8FF 0%, #DFDFE5 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#F8F8FF', endColorstr='#ff#DFDFE5', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #C6C6CC;
+}
+.alert-gold, .bg-gold, .btn-gold, .label-gold, .panel-gold > .panel-heading, .progress-bar-gold, .list-group-item-gold{
+   background-image: -webkit-linear-gradient(top, #FFD7000%, #E5C100 100%);
+   background-image:      -o-linear-gradient(top, #FFD700 0%, #E5C100 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FFD700), to(#E5C100));
+   background-image:         linear-gradient(to bottom, #FFD700 0%, #E5C100 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FFD700', endColorstr='#ff#E5C100', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CCAC00;
+}
+.alert-goldenrod, .bg-goldenrod, .btn-goldenrod, .label-goldenrod, .panel-goldenrod > .panel-heading, .progress-bar-goldenrod, .list-group-item-goldenrod{
+   background-image: -webkit-linear-gradient(top, #DAA5200%, #C4941C 100%);
+   background-image:      -o-linear-gradient(top, #DAA520 0%, #C4941C 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#DAA520), to(#C4941C));
+   background-image:         linear-gradient(to bottom, #DAA520 0%, #C4941C 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#DAA520', endColorstr='#ff#C4941C', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #AE8419;
+}
+.alert-gray, .bg-gray, .btn-gray, .label-gray, .panel-gray > .panel-heading, .progress-bar-gray, .list-group-item-gray{
+   background-image: -webkit-linear-gradient(top, #8080800%, #737373 100%);
+   background-image:      -o-linear-gradient(top, #808080 0%, #737373 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#808080), to(#737373));
+   background-image:         linear-gradient(to bottom, #808080 0%, #737373 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#808080', endColorstr='#ff#737373', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #666666;
+}
+.alert-grey, .bg-grey, .btn-grey, .label-grey, .panel-grey > .panel-heading, .progress-bar-grey, .list-group-item-grey{
+   background-image: -webkit-linear-gradient(top, #8080800%, #737373 100%);
+   background-image:      -o-linear-gradient(top, #808080 0%, #737373 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#808080), to(#737373));
+   background-image:         linear-gradient(to bottom, #808080 0%, #737373 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#808080', endColorstr='#ff#737373', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #666666;
+}
+.alert-green, .bg-green, .btn-green, .label-green, .panel-green > .panel-heading, .progress-bar-green, .list-group-item-green{
+   background-image: -webkit-linear-gradient(top, #0080000%, #007300 100%);
+   background-image:      -o-linear-gradient(top, #008000 0%, #007300 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#008000), to(#007300));
+   background-image:         linear-gradient(to bottom, #008000 0%, #007300 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#008000', endColorstr='#ff#007300', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #006600;
+}
+.alert-greenyellow, .bg-greenyellow, .btn-greenyellow, .label-greenyellow, .panel-greenyellow > .panel-heading, .progress-bar-greenyellow, .list-group-item-greenyellow{
+   background-image: -webkit-linear-gradient(top, #ADFF2F0%, #9BE52A 100%);
+   background-image:      -o-linear-gradient(top, #ADFF2F 0%, #9BE52A 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#ADFF2F), to(#9BE52A));
+   background-image:         linear-gradient(to bottom, #ADFF2F 0%, #9BE52A 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#ADFF2F', endColorstr='#ff#9BE52A', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #8ACC25;
+}
+.alert-honeydew, .bg-honeydew, .btn-honeydew, .label-honeydew, .panel-honeydew > .panel-heading, .progress-bar-honeydew, .list-group-item-honeydew{
+   background-image: -webkit-linear-gradient(top, #F0FFF00%, #D8E5D8 100%);
+   background-image:      -o-linear-gradient(top, #F0FFF0 0%, #D8E5D8 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#F0FFF0), to(#D8E5D8));
+   background-image:         linear-gradient(to bottom, #F0FFF0 0%, #D8E5D8 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#F0FFF0', endColorstr='#ff#D8E5D8', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #C0CCC0;
+}
+.alert-hotpink, .bg-hotpink, .btn-hotpink, .label-hotpink, .panel-hotpink > .panel-heading, .progress-bar-hotpink, .list-group-item-hotpink{
+   background-image: -webkit-linear-gradient(top, #FF69B40%, #E55EA2 100%);
+   background-image:      -o-linear-gradient(top, #FF69B4 0%, #E55EA2 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FF69B4), to(#E55EA2));
+   background-image:         linear-gradient(to bottom, #FF69B4 0%, #E55EA2 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FF69B4', endColorstr='#ff#E55EA2', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CC5490;
+}
+.alert-indianred, .bg-indianred, .btn-indianred, .label-indianred, .panel-indianred > .panel-heading, .progress-bar-indianred, .list-group-item-indianred{
+   background-image: -webkit-linear-gradient(top, #CD5C5C0%, #B85252 100%);
+   background-image:      -o-linear-gradient(top, #CD5C5C 0%, #B85252 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#CD5C5C), to(#B85252));
+   background-image:         linear-gradient(to bottom, #CD5C5C 0%, #B85252 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#CD5C5C', endColorstr='#ff#B85252', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #A44949;
+}
+.alert-indigo, .bg-indigo, .btn-indigo, .label-indigo, .panel-indigo > .panel-heading, .progress-bar-indigo, .list-group-item-indigo{
+   background-image: -webkit-linear-gradient(top, #4B00820%, #430075 100%);
+   background-image:      -o-linear-gradient(top, #4B0082 0%, #430075 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#4B0082), to(#430075));
+   background-image:         linear-gradient(to bottom, #4B0082 0%, #430075 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#4B0082', endColorstr='#ff#430075', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #3C0068;
+}
+.alert-ivory, .bg-ivory, .btn-ivory, .label-ivory, .panel-ivory > .panel-heading, .progress-bar-ivory, .list-group-item-ivory{
+   background-image: -webkit-linear-gradient(top, #FFFFF00%, #E5E5D8 100%);
+   background-image:      -o-linear-gradient(top, #FFFFF0 0%, #E5E5D8 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FFFFF0), to(#E5E5D8));
+   background-image:         linear-gradient(to bottom, #FFFFF0 0%, #E5E5D8 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FFFFF0', endColorstr='#ff#E5E5D8', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CCCCC0;
+}
+.alert-khaki, .bg-khaki, .btn-khaki, .label-khaki, .panel-khaki > .panel-heading, .progress-bar-khaki, .list-group-item-khaki{
+   background-image: -webkit-linear-gradient(top, #F0E68C0%, #D8CF7E 100%);
+   background-image:      -o-linear-gradient(top, #F0E68C 0%, #D8CF7E 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#F0E68C), to(#D8CF7E));
+   background-image:         linear-gradient(to bottom, #F0E68C 0%, #D8CF7E 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#F0E68C', endColorstr='#ff#D8CF7E', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #C0B870;
+}
+.alert-lavender, .bg-lavender, .btn-lavender, .label-lavender, .panel-lavender > .panel-heading, .progress-bar-lavender, .list-group-item-lavender{
+   background-image: -webkit-linear-gradient(top, #E6E6FA0%, #CFCFE1 100%);
+   background-image:      -o-linear-gradient(top, #E6E6FA 0%, #CFCFE1 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#E6E6FA), to(#CFCFE1));
+   background-image:         linear-gradient(to bottom, #E6E6FA 0%, #CFCFE1 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#E6E6FA', endColorstr='#ff#CFCFE1', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #B8B8C8;
+}
+.alert-lavenderblush, .bg-lavenderblush, .btn-lavenderblush, .label-lavenderblush, .panel-lavenderblush > .panel-heading, .progress-bar-lavenderblush, .list-group-item-lavenderblush{
+   background-image: -webkit-linear-gradient(top, #FFF0F50%, #E5D8DC 100%);
+   background-image:      -o-linear-gradient(top, #FFF0F5 0%, #E5D8DC 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FFF0F5), to(#E5D8DC));
+   background-image:         linear-gradient(to bottom, #FFF0F5 0%, #E5D8DC 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FFF0F5', endColorstr='#ff#E5D8DC', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CCC0C4;
+}
+.alert-lawngreen, .bg-lawngreen, .btn-lawngreen, .label-lawngreen, .panel-lawngreen > .panel-heading, .progress-bar-lawngreen, .list-group-item-lawngreen{
+   background-image: -webkit-linear-gradient(top, #7CFC000%, #6FE200 100%);
+   background-image:      -o-linear-gradient(top, #7CFC00 0%, #6FE200 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#7CFC00), to(#6FE200));
+   background-image:         linear-gradient(to bottom, #7CFC00 0%, #6FE200 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#7CFC00', endColorstr='#ff#6FE200', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #63C900;
+}
+.alert-lemonchiffon, .bg-lemonchiffon, .btn-lemonchiffon, .label-lemonchiffon, .panel-lemonchiffon > .panel-heading, .progress-bar-lemonchiffon, .list-group-item-lemonchiffon{
+   background-image: -webkit-linear-gradient(top, #FFFACD0%, #E5E1B8 100%);
+   background-image:      -o-linear-gradient(top, #FFFACD 0%, #E5E1B8 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FFFACD), to(#E5E1B8));
+   background-image:         linear-gradient(to bottom, #FFFACD 0%, #E5E1B8 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FFFACD', endColorstr='#ff#E5E1B8', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CCC8A4;
+}
+.alert-lightblue, .bg-lightblue, .btn-lightblue, .label-lightblue, .panel-lightblue > .panel-heading, .progress-bar-lightblue, .list-group-item-lightblue{
+   background-image: -webkit-linear-gradient(top, #ADD8E60%, #9BC2CF 100%);
+   background-image:      -o-linear-gradient(top, #ADD8E6 0%, #9BC2CF 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#ADD8E6), to(#9BC2CF));
+   background-image:         linear-gradient(to bottom, #ADD8E6 0%, #9BC2CF 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#ADD8E6', endColorstr='#ff#9BC2CF', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #8AACB8;
+}
+.alert-lightcoral, .bg-lightcoral, .btn-lightcoral, .label-lightcoral, .panel-lightcoral > .panel-heading, .progress-bar-lightcoral, .list-group-item-lightcoral{
+   background-image: -webkit-linear-gradient(top, #F080800%, #D87373 100%);
+   background-image:      -o-linear-gradient(top, #F08080 0%, #D87373 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#F08080), to(#D87373));
+   background-image:         linear-gradient(to bottom, #F08080 0%, #D87373 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#F08080', endColorstr='#ff#D87373', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #C06666;
+}
+.alert-lightcyan, .bg-lightcyan, .btn-lightcyan, .label-lightcyan, .panel-lightcyan > .panel-heading, .progress-bar-lightcyan, .list-group-item-lightcyan{
+   background-image: -webkit-linear-gradient(top, #E0FFFF0%, #C9E5E5 100%);
+   background-image:      -o-linear-gradient(top, #E0FFFF 0%, #C9E5E5 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#E0FFFF), to(#C9E5E5));
+   background-image:         linear-gradient(to bottom, #E0FFFF 0%, #C9E5E5 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#E0FFFF', endColorstr='#ff#C9E5E5', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #B3CCCC;
+}
+.alert-lightgoldenrodyellow, .bg-lightgoldenrodyellow, .btn-lightgoldenrodyellow, .label-lightgoldenrodyellow, .panel-lightgoldenrodyellow > .panel-heading, .progress-bar-lightgoldenrodyellow, .list-group-item-lightgoldenrodyellow{
+   background-image: -webkit-linear-gradient(top, #FAFAD20%, #E1E1BD 100%);
+   background-image:      -o-linear-gradient(top, #FAFAD2 0%, #E1E1BD 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FAFAD2), to(#E1E1BD));
+   background-image:         linear-gradient(to bottom, #FAFAD2 0%, #E1E1BD 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FAFAD2', endColorstr='#ff#E1E1BD', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #C8C8A8;
+}
+.alert-lightgray, .bg-lightgray, .btn-lightgray, .label-lightgray, .panel-lightgray > .panel-heading, .progress-bar-lightgray, .list-group-item-lightgray{
+   background-image: -webkit-linear-gradient(top, #D3D3D30%, #BDBDBD 100%);
+   background-image:      -o-linear-gradient(top, #D3D3D3 0%, #BDBDBD 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#D3D3D3), to(#BDBDBD));
+   background-image:         linear-gradient(to bottom, #D3D3D3 0%, #BDBDBD 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#D3D3D3', endColorstr='#ff#BDBDBD', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #A8A8A8;
+}
+.alert-lightgrey, .bg-lightgrey, .btn-lightgrey, .label-lightgrey, .panel-lightgrey > .panel-heading, .progress-bar-lightgrey, .list-group-item-lightgrey{
+   background-image: -webkit-linear-gradient(top, #D3D3D30%, #BDBDBD 100%);
+   background-image:      -o-linear-gradient(top, #D3D3D3 0%, #BDBDBD 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#D3D3D3), to(#BDBDBD));
+   background-image:         linear-gradient(to bottom, #D3D3D3 0%, #BDBDBD 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#D3D3D3', endColorstr='#ff#BDBDBD', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #A8A8A8;
+}
+.alert-lightgreen, .bg-lightgreen, .btn-lightgreen, .label-lightgreen, .panel-lightgreen > .panel-heading, .progress-bar-lightgreen, .list-group-item-lightgreen{
+   background-image: -webkit-linear-gradient(top, #90EE900%, #81D681 100%);
+   background-image:      -o-linear-gradient(top, #90EE90 0%, #81D681 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#90EE90), to(#81D681));
+   background-image:         linear-gradient(to bottom, #90EE90 0%, #81D681 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#90EE90', endColorstr='#ff#81D681', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #73BE73;
+}
+.alert-lightpink, .bg-lightpink, .btn-lightpink, .label-lightpink, .panel-lightpink > .panel-heading, .progress-bar-lightpink, .list-group-item-lightpink{
+   background-image: -webkit-linear-gradient(top, #FFB6C10%, #E5A3AD 100%);
+   background-image:      -o-linear-gradient(top, #FFB6C1 0%, #E5A3AD 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FFB6C1), to(#E5A3AD));
+   background-image:         linear-gradient(to bottom, #FFB6C1 0%, #E5A3AD 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FFB6C1', endColorstr='#ff#E5A3AD', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CC919A;
+}
+.alert-lightsalmon, .bg-lightsalmon, .btn-lightsalmon, .label-lightsalmon, .panel-lightsalmon > .panel-heading, .progress-bar-lightsalmon, .list-group-item-lightsalmon{
+   background-image: -webkit-linear-gradient(top, #FFA07A0%, #E5906D 100%);
+   background-image:      -o-linear-gradient(top, #FFA07A 0%, #E5906D 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FFA07A), to(#E5906D));
+   background-image:         linear-gradient(to bottom, #FFA07A 0%, #E5906D 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FFA07A', endColorstr='#ff#E5906D', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CC8061;
+}
+.alert-lightseagreen, .bg-lightseagreen, .btn-lightseagreen, .label-lightseagreen, .panel-lightseagreen > .panel-heading, .progress-bar-lightseagreen, .list-group-item-lightseagreen{
+   background-image: -webkit-linear-gradient(top, #20B2AA0%, #1CA099 100%);
+   background-image:      -o-linear-gradient(top, #20B2AA 0%, #1CA099 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#20B2AA), to(#1CA099));
+   background-image:         linear-gradient(to bottom, #20B2AA 0%, #1CA099 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#20B2AA', endColorstr='#ff#1CA099', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #198E88;
+}
+.alert-lightskyblue, .bg-lightskyblue, .btn-lightskyblue, .label-lightskyblue, .panel-lightskyblue > .panel-heading, .progress-bar-lightskyblue, .list-group-item-lightskyblue{
+   background-image: -webkit-linear-gradient(top, #87CEFA0%, #79B9E1 100%);
+   background-image:      -o-linear-gradient(top, #87CEFA 0%, #79B9E1 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#87CEFA), to(#79B9E1));
+   background-image:         linear-gradient(to bottom, #87CEFA 0%, #79B9E1 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#87CEFA', endColorstr='#ff#79B9E1', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #6CA4C8;
+}
+.alert-lightslategray, .bg-lightslategray, .btn-lightslategray, .label-lightslategray, .panel-lightslategray > .panel-heading, .progress-bar-lightslategray, .list-group-item-lightslategray{
+   background-image: -webkit-linear-gradient(top, #7788990%, #6B7A89 100%);
+   background-image:      -o-linear-gradient(top, #778899 0%, #6B7A89 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#778899), to(#6B7A89));
+   background-image:         linear-gradient(to bottom, #778899 0%, #6B7A89 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#778899', endColorstr='#ff#6B7A89', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #5F6C7A;
+}
+.alert-lightslategrey, .bg-lightslategrey, .btn-lightslategrey, .label-lightslategrey, .panel-lightslategrey > .panel-heading, .progress-bar-lightslategrey, .list-group-item-lightslategrey{
+   background-image: -webkit-linear-gradient(top, #7788990%, #6B7A89 100%);
+   background-image:      -o-linear-gradient(top, #778899 0%, #6B7A89 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#778899), to(#6B7A89));
+   background-image:         linear-gradient(to bottom, #778899 0%, #6B7A89 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#778899', endColorstr='#ff#6B7A89', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #5F6C7A;
+}
+.alert-lightsteelblue, .bg-lightsteelblue, .btn-lightsteelblue, .label-lightsteelblue, .panel-lightsteelblue > .panel-heading, .progress-bar-lightsteelblue, .list-group-item-lightsteelblue{
+   background-image: -webkit-linear-gradient(top, #B0C4DE0%, #9EB0C7 100%);
+   background-image:      -o-linear-gradient(top, #B0C4DE 0%, #9EB0C7 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#B0C4DE), to(#9EB0C7));
+   background-image:         linear-gradient(to bottom, #B0C4DE 0%, #9EB0C7 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#B0C4DE', endColorstr='#ff#9EB0C7', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #8C9CB1;
+}
+.alert-lightyellow, .bg-lightyellow, .btn-lightyellow, .label-lightyellow, .panel-lightyellow > .panel-heading, .progress-bar-lightyellow, .list-group-item-lightyellow{
+   background-image: -webkit-linear-gradient(top, #FFFFE00%, #E5E5C9 100%);
+   background-image:      -o-linear-gradient(top, #FFFFE0 0%, #E5E5C9 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FFFFE0), to(#E5E5C9));
+   background-image:         linear-gradient(to bottom, #FFFFE0 0%, #E5E5C9 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FFFFE0', endColorstr='#ff#E5E5C9', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CCCCB3;
+}
+.alert-lime, .bg-lime, .btn-lime, .label-lime, .panel-lime > .panel-heading, .progress-bar-lime, .list-group-item-lime{
+   background-image: -webkit-linear-gradient(top, #00FF000%, #00E500 100%);
+   background-image:      -o-linear-gradient(top, #00FF00 0%, #00E500 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#00FF00), to(#00E500));
+   background-image:         linear-gradient(to bottom, #00FF00 0%, #00E500 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#00FF00', endColorstr='#ff#00E500', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #00CC00;
+}
+.alert-limegreen, .bg-limegreen, .btn-limegreen, .label-limegreen, .panel-limegreen > .panel-heading, .progress-bar-limegreen, .list-group-item-limegreen{
+   background-image: -webkit-linear-gradient(top, #32CD320%, #2DB82D 100%);
+   background-image:      -o-linear-gradient(top, #32CD32 0%, #2DB82D 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#32CD32), to(#2DB82D));
+   background-image:         linear-gradient(to bottom, #32CD32 0%, #2DB82D 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#32CD32', endColorstr='#ff#2DB82D', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #28A428;
+}
+.alert-linen, .bg-linen, .btn-linen, .label-linen, .panel-linen > .panel-heading, .progress-bar-linen, .list-group-item-linen{
+   background-image: -webkit-linear-gradient(top, #FAF0E60%, #E1D8CF 100%);
+   background-image:      -o-linear-gradient(top, #FAF0E6 0%, #E1D8CF 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FAF0E6), to(#E1D8CF));
+   background-image:         linear-gradient(to bottom, #FAF0E6 0%, #E1D8CF 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FAF0E6', endColorstr='#ff#E1D8CF', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #C8C0B8;
+}
+.alert-magenta, .bg-magenta, .btn-magenta, .label-magenta, .panel-magenta > .panel-heading, .progress-bar-magenta, .list-group-item-magenta{
+   background-image: -webkit-linear-gradient(top, #FF00FF0%, #E500E5 100%);
+   background-image:      -o-linear-gradient(top, #FF00FF 0%, #E500E5 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FF00FF), to(#E500E5));
+   background-image:         linear-gradient(to bottom, #FF00FF 0%, #E500E5 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FF00FF', endColorstr='#ff#E500E5', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CC00CC;
+}
+.alert-maroon, .bg-maroon, .btn-maroon, .label-maroon, .panel-maroon > .panel-heading, .progress-bar-maroon, .list-group-item-maroon{
+   background-image: -webkit-linear-gradient(top, #8000000%, #730000 100%);
+   background-image:      -o-linear-gradient(top, #800000 0%, #730000 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#800000), to(#730000));
+   background-image:         linear-gradient(to bottom, #800000 0%, #730000 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#800000', endColorstr='#ff#730000', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #660000;
+}
+.alert-mediumaquamarine, .bg-mediumaquamarine, .btn-mediumaquamarine, .label-mediumaquamarine, .panel-mediumaquamarine > .panel-heading, .progress-bar-mediumaquamarine, .list-group-item-mediumaquamarine{
+   background-image: -webkit-linear-gradient(top, #66CDAA0%, #5BB899 100%);
+   background-image:      -o-linear-gradient(top, #66CDAA 0%, #5BB899 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#66CDAA), to(#5BB899));
+   background-image:         linear-gradient(to bottom, #66CDAA 0%, #5BB899 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#66CDAA', endColorstr='#ff#5BB899', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #51A488;
+}
+.alert-mediumblue, .bg-mediumblue, .btn-mediumblue, .label-mediumblue, .panel-mediumblue > .panel-heading, .progress-bar-mediumblue, .list-group-item-mediumblue{
+   background-image: -webkit-linear-gradient(top, #0000CD0%, #0000B8 100%);
+   background-image:      -o-linear-gradient(top, #0000CD 0%, #0000B8 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#0000CD), to(#0000B8));
+   background-image:         linear-gradient(to bottom, #0000CD 0%, #0000B8 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#0000CD', endColorstr='#ff#0000B8', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #0000A4;
+}
+.alert-mediumorchid, .bg-mediumorchid, .btn-mediumorchid, .label-mediumorchid, .panel-mediumorchid > .panel-heading, .progress-bar-mediumorchid, .list-group-item-mediumorchid{
+   background-image: -webkit-linear-gradient(top, #BA55D30%, #A74CBD 100%);
+   background-image:      -o-linear-gradient(top, #BA55D3 0%, #A74CBD 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#BA55D3), to(#A74CBD));
+   background-image:         linear-gradient(to bottom, #BA55D3 0%, #A74CBD 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#BA55D3', endColorstr='#ff#A74CBD', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #9444A8;
+}
+.alert-mediumpurple, .bg-mediumpurple, .btn-mediumpurple, .label-mediumpurple, .panel-mediumpurple > .panel-heading, .progress-bar-mediumpurple, .list-group-item-mediumpurple{
+   background-image: -webkit-linear-gradient(top, #9370DB0%, #8464C5 100%);
+   background-image:      -o-linear-gradient(top, #9370DB 0%, #8464C5 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#9370DB), to(#8464C5));
+   background-image:         linear-gradient(to bottom, #9370DB 0%, #8464C5 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#9370DB', endColorstr='#ff#8464C5', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #7559AF;
+}
+.alert-mediumseagreen, .bg-mediumseagreen, .btn-mediumseagreen, .label-mediumseagreen, .panel-mediumseagreen > .panel-heading, .progress-bar-mediumseagreen, .list-group-item-mediumseagreen{
+   background-image: -webkit-linear-gradient(top, #3CB3710%, #36A165 100%);
+   background-image:      -o-linear-gradient(top, #3CB371 0%, #36A165 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#3CB371), to(#36A165));
+   background-image:         linear-gradient(to bottom, #3CB371 0%, #36A165 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#3CB371', endColorstr='#ff#36A165', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #308F5A;
+}
+.alert-mediumslateblue, .bg-mediumslateblue, .btn-mediumslateblue, .label-mediumslateblue, .panel-mediumslateblue > .panel-heading, .progress-bar-mediumslateblue, .list-group-item-mediumslateblue{
+   background-image: -webkit-linear-gradient(top, #7B68EE0%, #6E5DD6 100%);
+   background-image:      -o-linear-gradient(top, #7B68EE 0%, #6E5DD6 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#7B68EE), to(#6E5DD6));
+   background-image:         linear-gradient(to bottom, #7B68EE 0%, #6E5DD6 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#7B68EE', endColorstr='#ff#6E5DD6', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #6253BE;
+}
+.alert-mediumspringgreen, .bg-mediumspringgreen, .btn-mediumspringgreen, .label-mediumspringgreen, .panel-mediumspringgreen > .panel-heading, .progress-bar-mediumspringgreen, .list-group-item-mediumspringgreen{
+   background-image: -webkit-linear-gradient(top, #00FA9A0%, #00E18A 100%);
+   background-image:      -o-linear-gradient(top, #00FA9A 0%, #00E18A 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#00FA9A), to(#00E18A));
+   background-image:         linear-gradient(to bottom, #00FA9A 0%, #00E18A 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#00FA9A', endColorstr='#ff#00E18A', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #00C87B;
+}
+.alert-mediumturquoise, .bg-mediumturquoise, .btn-mediumturquoise, .label-mediumturquoise, .panel-mediumturquoise > .panel-heading, .progress-bar-mediumturquoise, .list-group-item-mediumturquoise{
+   background-image: -webkit-linear-gradient(top, #48D1CC0%, #40BCB7 100%);
+   background-image:      -o-linear-gradient(top, #48D1CC 0%, #40BCB7 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#48D1CC), to(#40BCB7));
+   background-image:         linear-gradient(to bottom, #48D1CC 0%, #40BCB7 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#48D1CC', endColorstr='#ff#40BCB7', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #39A7A3;
+}
+.alert-mediumvioletred, .bg-mediumvioletred, .btn-mediumvioletred, .label-mediumvioletred, .panel-mediumvioletred > .panel-heading, .progress-bar-mediumvioletred, .list-group-item-mediumvioletred{
+   background-image: -webkit-linear-gradient(top, #C715850%, #B31277 100%);
+   background-image:      -o-linear-gradient(top, #C71585 0%, #B31277 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#C71585), to(#B31277));
+   background-image:         linear-gradient(to bottom, #C71585 0%, #B31277 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#C71585', endColorstr='#ff#B31277', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #9F106A;
+}
+.alert-midnightblue, .bg-midnightblue, .btn-midnightblue, .label-midnightblue, .panel-midnightblue > .panel-heading, .progress-bar-midnightblue, .list-group-item-midnightblue{
+   background-image: -webkit-linear-gradient(top, #1919700%, #161664 100%);
+   background-image:      -o-linear-gradient(top, #191970 0%, #161664 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#191970), to(#161664));
+   background-image:         linear-gradient(to bottom, #191970 0%, #161664 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#191970', endColorstr='#ff#161664', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #141459;
+}
+.alert-mintcream, .bg-mintcream, .btn-mintcream, .label-mintcream, .panel-mintcream > .panel-heading, .progress-bar-mintcream, .list-group-item-mintcream{
+   background-image: -webkit-linear-gradient(top, #F5FFFA0%, #DCE5E1 100%);
+   background-image:      -o-linear-gradient(top, #F5FFFA 0%, #DCE5E1 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#F5FFFA), to(#DCE5E1));
+   background-image:         linear-gradient(to bottom, #F5FFFA 0%, #DCE5E1 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#F5FFFA', endColorstr='#ff#DCE5E1', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #C4CCC8;
+}
+.alert-mistyrose, .bg-mistyrose, .btn-mistyrose, .label-mistyrose, .panel-mistyrose > .panel-heading, .progress-bar-mistyrose, .list-group-item-mistyrose{
+   background-image: -webkit-linear-gradient(top, #FFE4E10%, #E5CDCA 100%);
+   background-image:      -o-linear-gradient(top, #FFE4E1 0%, #E5CDCA 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FFE4E1), to(#E5CDCA));
+   background-image:         linear-gradient(to bottom, #FFE4E1 0%, #E5CDCA 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FFE4E1', endColorstr='#ff#E5CDCA', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CCB6B4;
+}
+.alert-moccasin, .bg-moccasin, .btn-moccasin, .label-moccasin, .panel-moccasin > .panel-heading, .progress-bar-moccasin, .list-group-item-moccasin{
+   background-image: -webkit-linear-gradient(top, #FFE4B50%, #E5CDA2 100%);
+   background-image:      -o-linear-gradient(top, #FFE4B5 0%, #E5CDA2 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FFE4B5), to(#E5CDA2));
+   background-image:         linear-gradient(to bottom, #FFE4B5 0%, #E5CDA2 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FFE4B5', endColorstr='#ff#E5CDA2', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CCB690;
+}
+.alert-navajowhite, .bg-navajowhite, .btn-navajowhite, .label-navajowhite, .panel-navajowhite > .panel-heading, .progress-bar-navajowhite, .list-group-item-navajowhite{
+   background-image: -webkit-linear-gradient(top, #FFDEAD0%, #E5C79B 100%);
+   background-image:      -o-linear-gradient(top, #FFDEAD 0%, #E5C79B 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FFDEAD), to(#E5C79B));
+   background-image:         linear-gradient(to bottom, #FFDEAD 0%, #E5C79B 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FFDEAD', endColorstr='#ff#E5C79B', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CCB18A;
+}
+.alert-navy, .bg-navy, .btn-navy, .label-navy, .panel-navy > .panel-heading, .progress-bar-navy, .list-group-item-navy{
+   background-image: -webkit-linear-gradient(top, #0000800%, #000073 100%);
+   background-image:      -o-linear-gradient(top, #000080 0%, #000073 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#000080), to(#000073));
+   background-image:         linear-gradient(to bottom, #000080 0%, #000073 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#000080', endColorstr='#ff#000073', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #000066;
+}
+.alert-oldlace, .bg-oldlace, .btn-oldlace, .label-oldlace, .panel-oldlace > .panel-heading, .progress-bar-oldlace, .list-group-item-oldlace{
+   background-image: -webkit-linear-gradient(top, #FDF5E60%, #E3DCCF 100%);
+   background-image:      -o-linear-gradient(top, #FDF5E6 0%, #E3DCCF 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FDF5E6), to(#E3DCCF));
+   background-image:         linear-gradient(to bottom, #FDF5E6 0%, #E3DCCF 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FDF5E6', endColorstr='#ff#E3DCCF', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CAC4B8;
+}
+.alert-olive, .bg-olive, .btn-olive, .label-olive, .panel-olive > .panel-heading, .progress-bar-olive, .list-group-item-olive{
+   background-image: -webkit-linear-gradient(top, #8080000%, #737300 100%);
+   background-image:      -o-linear-gradient(top, #808000 0%, #737300 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#808000), to(#737300));
+   background-image:         linear-gradient(to bottom, #808000 0%, #737300 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#808000', endColorstr='#ff#737300', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #666600;
+}
+.alert-olivedrab, .bg-olivedrab, .btn-olivedrab, .label-olivedrab, .panel-olivedrab > .panel-heading, .progress-bar-olivedrab, .list-group-item-olivedrab{
+   background-image: -webkit-linear-gradient(top, #6B8E230%, #607F1F 100%);
+   background-image:      -o-linear-gradient(top, #6B8E23 0%, #607F1F 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#6B8E23), to(#607F1F));
+   background-image:         linear-gradient(to bottom, #6B8E23 0%, #607F1F 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#6B8E23', endColorstr='#ff#607F1F', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #55711C;
+}
+.alert-orange, .bg-orange, .btn-orange, .label-orange, .panel-orange > .panel-heading, .progress-bar-orange, .list-group-item-orange{
+   background-image: -webkit-linear-gradient(top, #FFA5000%, #E59400 100%);
+   background-image:      -o-linear-gradient(top, #FFA500 0%, #E59400 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FFA500), to(#E59400));
+   background-image:         linear-gradient(to bottom, #FFA500 0%, #E59400 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FFA500', endColorstr='#ff#E59400', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CC8400;
+}
+.alert-orangered, .bg-orangered, .btn-orangered, .label-orangered, .panel-orangered > .panel-heading, .progress-bar-orangered, .list-group-item-orangered{
+   background-image: -webkit-linear-gradient(top, #FF45000%, #E53E00 100%);
+   background-image:      -o-linear-gradient(top, #FF4500 0%, #E53E00 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FF4500), to(#E53E00));
+   background-image:         linear-gradient(to bottom, #FF4500 0%, #E53E00 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FF4500', endColorstr='#ff#E53E00', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CC3700;
+}
+.alert-orchid, .bg-orchid, .btn-orchid, .label-orchid, .panel-orchid > .panel-heading, .progress-bar-orchid, .list-group-item-orchid{
+   background-image: -webkit-linear-gradient(top, #DA70D60%, #C464C0 100%);
+   background-image:      -o-linear-gradient(top, #DA70D6 0%, #C464C0 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#DA70D6), to(#C464C0));
+   background-image:         linear-gradient(to bottom, #DA70D6 0%, #C464C0 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#DA70D6', endColorstr='#ff#C464C0', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #AE59AB;
+}
+.alert-palegoldenrod, .bg-palegoldenrod, .btn-palegoldenrod, .label-palegoldenrod, .panel-palegoldenrod > .panel-heading, .progress-bar-palegoldenrod, .list-group-item-palegoldenrod{
+   background-image: -webkit-linear-gradient(top, #EEE8AA0%, #D6D099 100%);
+   background-image:      -o-linear-gradient(top, #EEE8AA 0%, #D6D099 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#EEE8AA), to(#D6D099));
+   background-image:         linear-gradient(to bottom, #EEE8AA 0%, #D6D099 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#EEE8AA', endColorstr='#ff#D6D099', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #BEB988;
+}
+.alert-palegreen, .bg-palegreen, .btn-palegreen, .label-palegreen, .panel-palegreen > .panel-heading, .progress-bar-palegreen, .list-group-item-palegreen{
+   background-image: -webkit-linear-gradient(top, #98FB980%, #88E188 100%);
+   background-image:      -o-linear-gradient(top, #98FB98 0%, #88E188 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#98FB98), to(#88E188));
+   background-image:         linear-gradient(to bottom, #98FB98 0%, #88E188 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#98FB98', endColorstr='#ff#88E188', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #79C879;
+}
+.alert-paleturquoise, .bg-paleturquoise, .btn-paleturquoise, .label-paleturquoise, .panel-paleturquoise > .panel-heading, .progress-bar-paleturquoise, .list-group-item-paleturquoise{
+   background-image: -webkit-linear-gradient(top, #AFEEEE0%, #9DD6D6 100%);
+   background-image:      -o-linear-gradient(top, #AFEEEE 0%, #9DD6D6 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#AFEEEE), to(#9DD6D6));
+   background-image:         linear-gradient(to bottom, #AFEEEE 0%, #9DD6D6 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#AFEEEE', endColorstr='#ff#9DD6D6', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #8CBEBE;
+}
+.alert-palevioletred, .bg-palevioletred, .btn-palevioletred, .label-palevioletred, .panel-palevioletred > .panel-heading, .progress-bar-palevioletred, .list-group-item-palevioletred{
+   background-image: -webkit-linear-gradient(top, #DB70930%, #C56484 100%);
+   background-image:      -o-linear-gradient(top, #DB7093 0%, #C56484 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#DB7093), to(#C56484));
+   background-image:         linear-gradient(to bottom, #DB7093 0%, #C56484 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#DB7093', endColorstr='#ff#C56484', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #AF5975;
+}
+.alert-papayawhip, .bg-papayawhip, .btn-papayawhip, .label-papayawhip, .panel-papayawhip > .panel-heading, .progress-bar-papayawhip, .list-group-item-papayawhip{
+   background-image: -webkit-linear-gradient(top, #FFEFD50%, #E5D7BF 100%);
+   background-image:      -o-linear-gradient(top, #FFEFD5 0%, #E5D7BF 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FFEFD5), to(#E5D7BF));
+   background-image:         linear-gradient(to bottom, #FFEFD5 0%, #E5D7BF 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FFEFD5', endColorstr='#ff#E5D7BF', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CCBFAA;
+}
+.alert-peachpuff, .bg-peachpuff, .btn-peachpuff, .label-peachpuff, .panel-peachpuff > .panel-heading, .progress-bar-peachpuff, .list-group-item-peachpuff{
+   background-image: -webkit-linear-gradient(top, #FFDAB90%, #E5C4A6 100%);
+   background-image:      -o-linear-gradient(top, #FFDAB9 0%, #E5C4A6 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FFDAB9), to(#E5C4A6));
+   background-image:         linear-gradient(to bottom, #FFDAB9 0%, #E5C4A6 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FFDAB9', endColorstr='#ff#E5C4A6', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CCAE94;
+}
+.alert-peru, .bg-peru, .btn-peru, .label-peru, .panel-peru > .panel-heading, .progress-bar-peru, .list-group-item-peru{
+   background-image: -webkit-linear-gradient(top, #CD853F0%, #B87738 100%);
+   background-image:      -o-linear-gradient(top, #CD853F 0%, #B87738 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#CD853F), to(#B87738));
+   background-image:         linear-gradient(to bottom, #CD853F 0%, #B87738 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#CD853F', endColorstr='#ff#B87738', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #A46A32;
+}
+.alert-pink, .bg-pink, .btn-pink, .label-pink, .panel-pink > .panel-heading, .progress-bar-pink, .list-group-item-pink{
+   background-image: -webkit-linear-gradient(top, #FFC0CB0%, #E5ACB6 100%);
+   background-image:      -o-linear-gradient(top, #FFC0CB 0%, #E5ACB6 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FFC0CB), to(#E5ACB6));
+   background-image:         linear-gradient(to bottom, #FFC0CB 0%, #E5ACB6 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FFC0CB', endColorstr='#ff#E5ACB6', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CC99A2;
+}
+.alert-plum, .bg-plum, .btn-plum, .label-plum, .panel-plum > .panel-heading, .progress-bar-plum, .list-group-item-plum{
+   background-image: -webkit-linear-gradient(top, #DDA0DD0%, #C690C6 100%);
+   background-image:      -o-linear-gradient(top, #DDA0DD 0%, #C690C6 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#DDA0DD), to(#C690C6));
+   background-image:         linear-gradient(to bottom, #DDA0DD 0%, #C690C6 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#DDA0DD', endColorstr='#ff#C690C6', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #B080B0;
+}
+.alert-powderblue, .bg-powderblue, .btn-powderblue, .label-powderblue, .panel-powderblue > .panel-heading, .progress-bar-powderblue, .list-group-item-powderblue{
+   background-image: -webkit-linear-gradient(top, #B0E0E60%, #9EC9CF 100%);
+   background-image:      -o-linear-gradient(top, #B0E0E6 0%, #9EC9CF 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#B0E0E6), to(#9EC9CF));
+   background-image:         linear-gradient(to bottom, #B0E0E6 0%, #9EC9CF 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#B0E0E6', endColorstr='#ff#9EC9CF', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #8CB3B8;
+}
+.alert-purple, .bg-purple, .btn-purple, .label-purple, .panel-purple > .panel-heading, .progress-bar-purple, .list-group-item-purple{
+   background-image: -webkit-linear-gradient(top, #8000800%, #730073 100%);
+   background-image:      -o-linear-gradient(top, #800080 0%, #730073 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#800080), to(#730073));
+   background-image:         linear-gradient(to bottom, #800080 0%, #730073 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#800080', endColorstr='#ff#730073', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #660066;
+}
+.alert-rebeccapurple, .bg-rebeccapurple, .btn-rebeccapurple, .label-rebeccapurple, .panel-rebeccapurple > .panel-heading, .progress-bar-rebeccapurple, .list-group-item-rebeccapurple{
+   background-image: -webkit-linear-gradient(top, #6633990%, #5B2D89 100%);
+   background-image:      -o-linear-gradient(top, #663399 0%, #5B2D89 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#663399), to(#5B2D89));
+   background-image:         linear-gradient(to bottom, #663399 0%, #5B2D89 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#663399', endColorstr='#ff#5B2D89', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #51287A;
+}
+.alert-red, .bg-red, .btn-red, .label-red, .panel-red > .panel-heading, .progress-bar-red, .list-group-item-red{
+   background-image: -webkit-linear-gradient(top, #FF00000%, #E50000 100%);
+   background-image:      -o-linear-gradient(top, #FF0000 0%, #E50000 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FF0000), to(#E50000));
+   background-image:         linear-gradient(to bottom, #FF0000 0%, #E50000 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FF0000', endColorstr='#ff#E50000', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CC0000;
+}
+.alert-rosybrown, .bg-rosybrown, .btn-rosybrown, .label-rosybrown, .panel-rosybrown > .panel-heading, .progress-bar-rosybrown, .list-group-item-rosybrown{
+   background-image: -webkit-linear-gradient(top, #BC8F8F0%, #A98080 100%);
+   background-image:      -o-linear-gradient(top, #BC8F8F 0%, #A98080 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#BC8F8F), to(#A98080));
+   background-image:         linear-gradient(to bottom, #BC8F8F 0%, #A98080 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#BC8F8F', endColorstr='#ff#A98080', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #967272;
+}
+.alert-royalblue, .bg-royalblue, .btn-royalblue, .label-royalblue, .panel-royalblue > .panel-heading, .progress-bar-royalblue, .list-group-item-royalblue{
+   background-image: -webkit-linear-gradient(top, #4169E10%, #3A5ECA 100%);
+   background-image:      -o-linear-gradient(top, #4169E1 0%, #3A5ECA 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#4169E1), to(#3A5ECA));
+   background-image:         linear-gradient(to bottom, #4169E1 0%, #3A5ECA 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#4169E1', endColorstr='#ff#3A5ECA', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #3454B4;
+}
+.alert-saddlebrown, .bg-saddlebrown, .btn-saddlebrown, .label-saddlebrown, .panel-saddlebrown > .panel-heading, .progress-bar-saddlebrown, .list-group-item-saddlebrown{
+   background-image: -webkit-linear-gradient(top, #8B45130%, #7D3E11 100%);
+   background-image:      -o-linear-gradient(top, #8B4513 0%, #7D3E11 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#8B4513), to(#7D3E11));
+   background-image:         linear-gradient(to bottom, #8B4513 0%, #7D3E11 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#8B4513', endColorstr='#ff#7D3E11', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #6F370F;
+}
+.alert-salmon, .bg-salmon, .btn-salmon, .label-salmon, .panel-salmon > .panel-heading, .progress-bar-salmon, .list-group-item-salmon{
+   background-image: -webkit-linear-gradient(top, #FA80720%, #E17366 100%);
+   background-image:      -o-linear-gradient(top, #FA8072 0%, #E17366 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FA8072), to(#E17366));
+   background-image:         linear-gradient(to bottom, #FA8072 0%, #E17366 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FA8072', endColorstr='#ff#E17366', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #C8665B;
+}
+.alert-sandybrown, .bg-sandybrown, .btn-sandybrown, .label-sandybrown, .panel-sandybrown > .panel-heading, .progress-bar-sandybrown, .list-group-item-sandybrown{
+   background-image: -webkit-linear-gradient(top, #F4A4600%, #DB9356 100%);
+   background-image:      -o-linear-gradient(top, #F4A460 0%, #DB9356 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#F4A460), to(#DB9356));
+   background-image:         linear-gradient(to bottom, #F4A460 0%, #DB9356 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#F4A460', endColorstr='#ff#DB9356', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #C3834C;
+}
+.alert-seagreen, .bg-seagreen, .btn-seagreen, .label-seagreen, .panel-seagreen > .panel-heading, .progress-bar-seagreen, .list-group-item-seagreen{
+   background-image: -webkit-linear-gradient(top, #2E8B570%, #297D4E 100%);
+   background-image:      -o-linear-gradient(top, #2E8B57 0%, #297D4E 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#2E8B57), to(#297D4E));
+   background-image:         linear-gradient(to bottom, #2E8B57 0%, #297D4E 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#2E8B57', endColorstr='#ff#297D4E', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #246F45;
+}
+.alert-seashell, .bg-seashell, .btn-seashell, .label-seashell, .panel-seashell > .panel-heading, .progress-bar-seashell, .list-group-item-seashell{
+   background-image: -webkit-linear-gradient(top, #FFF5EE0%, #E5DCD6 100%);
+   background-image:      -o-linear-gradient(top, #FFF5EE 0%, #E5DCD6 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FFF5EE), to(#E5DCD6));
+   background-image:         linear-gradient(to bottom, #FFF5EE 0%, #E5DCD6 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FFF5EE', endColorstr='#ff#E5DCD6', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CCC4BE;
+}
+.alert-sienna, .bg-sienna, .btn-sienna, .label-sienna, .panel-sienna > .panel-heading, .progress-bar-sienna, .list-group-item-sienna{
+   background-image: -webkit-linear-gradient(top, #A0522D0%, #904928 100%);
+   background-image:      -o-linear-gradient(top, #A0522D 0%, #904928 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#A0522D), to(#904928));
+   background-image:         linear-gradient(to bottom, #A0522D 0%, #904928 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#A0522D', endColorstr='#ff#904928', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #804124;
+}
+.alert-silver, .bg-silver, .btn-silver, .label-silver, .panel-silver > .panel-heading, .progress-bar-silver, .list-group-item-silver{
+   background-image: -webkit-linear-gradient(top, #C0C0C00%, #ACACAC 100%);
+   background-image:      -o-linear-gradient(top, #C0C0C0 0%, #ACACAC 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#C0C0C0), to(#ACACAC));
+   background-image:         linear-gradient(to bottom, #C0C0C0 0%, #ACACAC 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#C0C0C0', endColorstr='#ff#ACACAC', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #999999;
+}
+.alert-skyblue, .bg-skyblue, .btn-skyblue, .label-skyblue, .panel-skyblue > .panel-heading, .progress-bar-skyblue, .list-group-item-skyblue{
+   background-image: -webkit-linear-gradient(top, #87CEEB0%, #79B9D3 100%);
+   background-image:      -o-linear-gradient(top, #87CEEB 0%, #79B9D3 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#87CEEB), to(#79B9D3));
+   background-image:         linear-gradient(to bottom, #87CEEB 0%, #79B9D3 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#87CEEB', endColorstr='#ff#79B9D3', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #6CA4BC;
+}
+.alert-slateblue, .bg-slateblue, .btn-slateblue, .label-slateblue, .panel-slateblue > .panel-heading, .progress-bar-slateblue, .list-group-item-slateblue{
+   background-image: -webkit-linear-gradient(top, #6A5ACD0%, #5F51B8 100%);
+   background-image:      -o-linear-gradient(top, #6A5ACD 0%, #5F51B8 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#6A5ACD), to(#5F51B8));
+   background-image:         linear-gradient(to bottom, #6A5ACD 0%, #5F51B8 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#6A5ACD', endColorstr='#ff#5F51B8', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #5448A4;
+}
+.alert-slategray, .bg-slategray, .btn-slategray, .label-slategray, .panel-slategray > .panel-heading, .progress-bar-slategray, .list-group-item-slategray{
+   background-image: -webkit-linear-gradient(top, #7080900%, #647381 100%);
+   background-image:      -o-linear-gradient(top, #708090 0%, #647381 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#708090), to(#647381));
+   background-image:         linear-gradient(to bottom, #708090 0%, #647381 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#708090', endColorstr='#ff#647381', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #596673;
+}
+.alert-slategrey, .bg-slategrey, .btn-slategrey, .label-slategrey, .panel-slategrey > .panel-heading, .progress-bar-slategrey, .list-group-item-slategrey{
+   background-image: -webkit-linear-gradient(top, #7080900%, #647381 100%);
+   background-image:      -o-linear-gradient(top, #708090 0%, #647381 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#708090), to(#647381));
+   background-image:         linear-gradient(to bottom, #708090 0%, #647381 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#708090', endColorstr='#ff#647381', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #596673;
+}
+.alert-snow, .bg-snow, .btn-snow, .label-snow, .panel-snow > .panel-heading, .progress-bar-snow, .list-group-item-snow{
+   background-image: -webkit-linear-gradient(top, #FFFAFA0%, #E5E1E1 100%);
+   background-image:      -o-linear-gradient(top, #FFFAFA 0%, #E5E1E1 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FFFAFA), to(#E5E1E1));
+   background-image:         linear-gradient(to bottom, #FFFAFA 0%, #E5E1E1 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FFFAFA', endColorstr='#ff#E5E1E1', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CCC8C8;
+}
+.alert-springgreen, .bg-springgreen, .btn-springgreen, .label-springgreen, .panel-springgreen > .panel-heading, .progress-bar-springgreen, .list-group-item-springgreen{
+   background-image: -webkit-linear-gradient(top, #00FF7F0%, #00E572 100%);
+   background-image:      -o-linear-gradient(top, #00FF7F 0%, #00E572 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#00FF7F), to(#00E572));
+   background-image:         linear-gradient(to bottom, #00FF7F 0%, #00E572 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#00FF7F', endColorstr='#ff#00E572', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #00CC65;
+}
+.alert-steelblue, .bg-steelblue, .btn-steelblue, .label-steelblue, .panel-steelblue > .panel-heading, .progress-bar-steelblue, .list-group-item-steelblue{
+   background-image: -webkit-linear-gradient(top, #4682B40%, #3F75A2 100%);
+   background-image:      -o-linear-gradient(top, #4682B4 0%, #3F75A2 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#4682B4), to(#3F75A2));
+   background-image:         linear-gradient(to bottom, #4682B4 0%, #3F75A2 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#4682B4', endColorstr='#ff#3F75A2', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #386890;
+}
+.alert-tan, .bg-tan, .btn-tan, .label-tan, .panel-tan > .panel-heading, .progress-bar-tan, .list-group-item-tan{
+   background-image: -webkit-linear-gradient(top, #D2B48C0%, #BDA27E 100%);
+   background-image:      -o-linear-gradient(top, #D2B48C 0%, #BDA27E 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#D2B48C), to(#BDA27E));
+   background-image:         linear-gradient(to bottom, #D2B48C 0%, #BDA27E 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#D2B48C', endColorstr='#ff#BDA27E', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #A89070;
+}
+.alert-teal, .bg-teal, .btn-teal, .label-teal, .panel-teal > .panel-heading, .progress-bar-teal, .list-group-item-teal{
+   background-image: -webkit-linear-gradient(top, #0080800%, #007373 100%);
+   background-image:      -o-linear-gradient(top, #008080 0%, #007373 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#008080), to(#007373));
+   background-image:         linear-gradient(to bottom, #008080 0%, #007373 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#008080', endColorstr='#ff#007373', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #006666;
+}
+.alert-thistle, .bg-thistle, .btn-thistle, .label-thistle, .panel-thistle > .panel-heading, .progress-bar-thistle, .list-group-item-thistle{
+   background-image: -webkit-linear-gradient(top, #D8BFD80%, #C2ABC2 100%);
+   background-image:      -o-linear-gradient(top, #D8BFD8 0%, #C2ABC2 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#D8BFD8), to(#C2ABC2));
+   background-image:         linear-gradient(to bottom, #D8BFD8 0%, #C2ABC2 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#D8BFD8', endColorstr='#ff#C2ABC2', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #AC98AC;
+}
+.alert-tomato, .bg-tomato, .btn-tomato, .label-tomato, .panel-tomato > .panel-heading, .progress-bar-tomato, .list-group-item-tomato{
+   background-image: -webkit-linear-gradient(top, #FF63470%, #E5593F 100%);
+   background-image:      -o-linear-gradient(top, #FF6347 0%, #E5593F 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FF6347), to(#E5593F));
+   background-image:         linear-gradient(to bottom, #FF6347 0%, #E5593F 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FF6347', endColorstr='#ff#E5593F', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CC4F38;
+}
+.alert-turquoise, .bg-turquoise, .btn-turquoise, .label-turquoise, .panel-turquoise > .panel-heading, .progress-bar-turquoise, .list-group-item-turquoise{
+   background-image: -webkit-linear-gradient(top, #40E0D00%, #39C9BB 100%);
+   background-image:      -o-linear-gradient(top, #40E0D0 0%, #39C9BB 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#40E0D0), to(#39C9BB));
+   background-image:         linear-gradient(to bottom, #40E0D0 0%, #39C9BB 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#40E0D0', endColorstr='#ff#39C9BB', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #33B3A6;
+}
+.alert-violet, .bg-violet, .btn-violet, .label-violet, .panel-violet > .panel-heading, .progress-bar-violet, .list-group-item-violet{
+   background-image: -webkit-linear-gradient(top, #EE82EE0%, #D675D6 100%);
+   background-image:      -o-linear-gradient(top, #EE82EE 0%, #D675D6 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#EE82EE), to(#D675D6));
+   background-image:         linear-gradient(to bottom, #EE82EE 0%, #D675D6 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#EE82EE', endColorstr='#ff#D675D6', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #BE68BE;
+}
+.alert-wheat, .bg-wheat, .btn-wheat, .label-wheat, .panel-wheat > .panel-heading, .progress-bar-wheat, .list-group-item-wheat{
+   background-image: -webkit-linear-gradient(top, #F5DEB30%, #DCC7A1 100%);
+   background-image:      -o-linear-gradient(top, #F5DEB3 0%, #DCC7A1 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#F5DEB3), to(#DCC7A1));
+   background-image:         linear-gradient(to bottom, #F5DEB3 0%, #DCC7A1 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#F5DEB3', endColorstr='#ff#DCC7A1', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #C4B18F;
+}
+.alert-white, .bg-white, .btn-white, .label-white, .panel-white > .panel-heading, .progress-bar-white, .list-group-item-white{
+   background-image: -webkit-linear-gradient(top, #FFFFFF0%, #E5E5E5 100%);
+   background-image:      -o-linear-gradient(top, #FFFFFF 0%, #E5E5E5 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#E5E5E5));
+   background-image:         linear-gradient(to bottom, #FFFFFF 0%, #E5E5E5 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FFFFFF', endColorstr='#ff#E5E5E5', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CCCCCC;
+}
+.alert-whitesmoke, .bg-whitesmoke, .btn-whitesmoke, .label-whitesmoke, .panel-whitesmoke > .panel-heading, .progress-bar-whitesmoke, .list-group-item-whitesmoke{
+   background-image: -webkit-linear-gradient(top, #F5F5F50%, #DCDCDC 100%);
+   background-image:      -o-linear-gradient(top, #F5F5F5 0%, #DCDCDC 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#F5F5F5), to(#DCDCDC));
+   background-image:         linear-gradient(to bottom, #F5F5F5 0%, #DCDCDC 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#F5F5F5', endColorstr='#ff#DCDCDC', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #C4C4C4;
+}
+.alert-yellow, .bg-yellow, .btn-yellow, .label-yellow, .panel-yellow > .panel-heading, .progress-bar-yellow, .list-group-item-yellow{
+   background-image: -webkit-linear-gradient(top, #FFFF000%, #E5E500 100%);
+   background-image:      -o-linear-gradient(top, #FFFF00 0%, #E5E500 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#FFFF00), to(#E5E500));
+   background-image:         linear-gradient(to bottom, #FFFF00 0%, #E5E500 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#FFFF00', endColorstr='#ff#E5E500', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #CCCC00;
+}
+.alert-yellowgreen, .bg-yellowgreen, .btn-yellowgreen, .label-yellowgreen, .panel-yellowgreen > .panel-heading, .progress-bar-yellowgreen, .list-group-item-yellowgreen{
+   background-image: -webkit-linear-gradient(top, #9ACD320%, #8AB82D 100%);
+   background-image:      -o-linear-gradient(top, #9ACD32 0%, #8AB82D 100%);
+   background-image: -webkit-gradient(linear, left top, left bottom, from(#9ACD32), to(#8AB82D));
+   background-image:         linear-gradient(to bottom, #9ACD32 0%, #8AB82D 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#9ACD32', endColorstr='#ff#8AB82D', GradientType=0);
+   background-repeat: repeat-x;
+   border-color: #7BA428;
+}
+
