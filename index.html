@@ -6,11 +6,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Tests how to render stuff well.">
 	<meta name="author" content="Greg Martin">
-<!--	<link href='http://fonts.googleapis.com/css?family=PT+Sans|Montserrat' rel='stylesheet' type='text/css'>
+<!--	<link href='http://fonts.googleapis.com/css?family=PT+Sans|Montserrat:800' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 -->
 	<link href="ref/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-	<link href="ref/colorstrap/css/colorstrap.css" rel="stylesheet">
+	<link href="ref/colorstrap/css/main.min.css" rel="stylesheet">
 	<link href="../marginstrap/ref/marginstrap/css/marginstrap.css" rel="stylesheet">
 
 
@@ -26,225 +26,76 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="#/" ><img class="img img-responsive" src="data/img/brand.png"></a>
+			<a class="navbar-brand" href="#/" ><img class="img img-responsive" src="data/img/brandlogo.png"></a>
 			<a class="navbar-brand" href="#/" >Colorstrap</a>
 		</div>
-		<div class="collapse navbar-collapse" id="mainnavbar">	
-			<div class="btn-group">
-				<button type="button" class="navbar-btn colorstrap-outline btn btn-orange dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-				Components <span class="caret"></span>
-				</button>
-				<ul class="dropdown-menu">
-					<li><a href="#/alerts">Alerts</a></li>
-					<li><a href="#/backgrounds">Backgrounds</a></li>
-					<li><a href="#/buttons">Buttons</a></li>
-					<li><a href="#/jumbotrons">Jumbotrons</a></li>
-					<li><a href="#/labels">Labels</a></li>
-					<li><a href="#/list-groups">List-groups</a></li>
-					<li><a href="#/modals">Modals</a></li>
-					<li><a href="#/panels">Panels</a></li>
-					<li><a href="#/progress-bars">Progress Bars</a></li>
-					<li><a href="#/text">Text</a></li>
-				</ul>
-			</div>
-			<div class="btn-group">
-				<button type="button" class="navbar-btn colorstrap-outline btn btn-orange dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-				Stripes <span class="caret"></span>
-				</button>
-				<ul class="dropdown-menu">
-					<li><a href="#/alerts-striped">Alerts Striped</a></li>
-					<li><a href="#/buttons-striped">Buttons Striped</a></li>
-					<li><a href="#/labels-striped">Labels Striped</a></li>
-					<li><a href="#/list-groups-striped">List-groups Striped</a></li>
-					<li><a href="#/jumbotrons-striped">Jumbotrons Striped</a></li>
-					<li><a href="#/modals-striped">Modals Striped</a></li>
-					<li><a href="#/panels-striped">Panels Striped</a></li>
-					<li><a href="#/progress-bars-striped">Progress Bars Striped</a></li>
-					<li><a href="#/backgrounds-striped">Backgrounds Striped</a></li>
-				</ul>
-			</div>
-			<div class="btn-group">
-				<button type="button" class="navbar-btn colorstrap-outline btn btn-orange dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-				Themes <span class="caret"></span>
-				</button>
-				<ul class="dropdown-menu">					
-					<li><a href="#/alerts-theme">Alerts-theme</a></li>
-					<li><a href="#/buttons-theme">Buttons-theme</a></li>
-					<li><a href="#/labels-theme">Labels-theme</a></li>
-					<li><a href="#/list-groups-theme">List-groups theme</a></li>
-					<li><a href="#/jumbotrons-theme">Jumbotrons-theme</a></li>
-					<li><a href="#/panels-theme">Panels-theme</a></li>
-				</ul>
-			</div>
-			<div class="btn-group">
-				<button type="button" class="navbar-btn colorstrap-outline btn btn-orange dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-				Outlines <span class="caret"></span>
-				</button>
-				<ul class="dropdown-menu">					
-					<li><a href="#/alerts-outline">Alerts-outline</a></li>
-					<li><a href="#/buttons-outline">Buttons-outline</a></li>
-					<li><a href="#/jumbotrons-outline">Jumbotrons-outline</a></li>
-					<li><a href="#/labels-outline">Labels-outline</a></li>
-					<li><a href="#/list-groups-outline">List-groups-outline</a></li>
-					<li><a href="#/panels-outline">Panels-outline</a></li>
-				</ul>
-			</div>
-<!--
-			<div class="btn-group">
-				<button type="button" class="navbar-btn btn btn-limegreen dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-				Colors <span class="caret"></span>
-				</button>
-				<ul class="dropdown-menu">
-					<li><a href="#/aliceblue">AliceBlue</a></li>
-					<li><a href="#/antiquewhite">AntiqueWhite</a></li>
-					<li><a href="#/aqua">Aqua</a></li>
-					<li><a href="#/aquamarine">Aquamarine</a></li>
-					<li><a href="#/azure">Azure</a></li>
-					<li><a href="#/beige">Beige</a></li>
-					<li><a href="#/bisque">Bisque</a></li>
-					<li><a href="#/black">Black</a></li>
-					<li><a href="#/blanchedalmond">BlanchedAlmond</a></li>
-					<li><a href="#/blue">Blue</a></li>
-					<li><a href="#/blueviolet">BlueViolet</a></li>
-					<li><a href="#/brown">Brown</a></li>
-					<li><a href="#/burlywood">BurlyWood</a></li>
-					<li><a href="#/cadetblue">CadetBlue</a></li>
-					<li><a href="#/chartreuse">Chartreuse</a></li>
-					<li><a href="#/chocolate">Chocolate</a></li>
-					<li><a href="#/coral">Coral</a></li>
-					<li><a href="#/cornflowerblue">CornflowerBlue</a></li>
-					<li><a href="#/cornsilk">Cornsilk</a></li>
-					<li><a href="#/crimson">Crimson</a></li>
-					<li><a href="#/cyan">Cyan</a></li>
-					<li><a href="#/darkblue">DarkBlue</a></li>
-					<li><a href="#/darkcyan">DarkCyan</a></li>
-					<li><a href="#/darkgoldenrod">DarkGoldenRod</a></li>
-					<li><a href="#/darkgray">DarkGray</a></li>
-					<li><a href="#/darkgrey">DarkGrey</a></li>
-					<li><a href="#/darkgreen">DarkGreen</a></li>
-					<li><a href="#/darkkhaki">DarkKhaki</a></li>
-					<li><a href="#/darkmagenta">DarkMagenta</a></li>
-					<li><a href="#/darkolivegreen">DarkOliveGreen</a></li>
-					<li><a href="#/darkorange">DarkOrange</a></li>
-					<li><a href="#/darkorchid">DarkOrchid</a></li>
-					<li><a href="#/darkred">DarkRed</a></li>
-					<li><a href="#/darksalmon">DarkSalmon</a></li>
-					<li><a href="#/darkseagreen">DarkSeaGreen</a></li>
-					<li><a href="#/darkslateblue">DarkSlateBlue</a></li>
-					<li><a href="#/darkslategray">DarkSlateGray</a></li>
-					<li><a href="#/darkslategrey">DarkSlateGrey</a></li>
-					<li><a href="#/darkturquoise">DarkTurquoise</a></li>
-					<li><a href="#/darkviolet">DarkViolet</a></li>
-					<li><a href="#/deeppink">DeepPink</a></li>
-					<li><a href="#/deepskyblue">DeepSkyBlue</a></li>
-					<li><a href="#/dimgray">DimGray</a></li>
-					<li><a href="#/dimgrey">DimGrey</a></li>
-					<li><a href="#/dodgerblue">DodgerBlue</a></li>
-					<li><a href="#/firebrick">FireBrick</a></li>
-					<li><a href="#/floralwhite">FloralWhite</a></li>
-					<li><a href="#/forestgreen">ForestGreen</a></li>
-					<li><a href="#/fuchsia">Fuchsia</a></li>
-					<li><a href="#/gainsboro">Gainsboro</a></li>
-					<li><a href="#/ghostwhite">GhostWhite</a></li>
-					<li><a href="#/gold">Gold</a></li>
-					<li><a href="#/goldenrod">GoldenRod</a></li>
-					<li><a href="#/gray">Gray</a></li>
-					<li><a href="#/grey">Grey</a></li>
-					<li><a href="#/green">Green</a></li>
-					<li><a href="#/greenyellow">GreenYellow</a></li>
-					<li><a href="#/honeydew">HoneyDew</a></li>
-					<li><a href="#/hotpink">HotPink</a></li>
-					<li><a href="#/indianred">IndianRed</a></li>
-					<li><a href="#/indigo">Indigo</a></li>
-					<li><a href="#/ivory">Ivory</a></li>
-					<li><a href="#/khaki">Khaki</a></li>
-					<li><a href="#/lavender">Lavender</a></li>
-					<li><a href="#/lavenderblush">LavenderBlush</a></li>
-					<li><a href="#/lawngreen">LawnGreen</a></li>
-					<li><a href="#/lemonchiffon">LemonChiffon</a></li>
-					<li><a href="#/lightblue">LightBlue</a></li>
-					<li><a href="#/lightcoral">LightCoral</a></li>
-					<li><a href="#/lightcyan">LightCyan</a></li>
-					<li><a href="#/lightgoldenrodyellow">LightGoldenRodYellow</a></li>
-					<li><a href="#/lightgray">LightGray</a></li>
-					<li><a href="#/lightgrey">LightGrey</a></li>
-					<li><a href="#/lightgreen">LightGreen</a></li>
-					<li><a href="#/lightpink">LightPink</a></li>
-					<li><a href="#/lightsalmon">LightSalmon</a></li>
-					<li><a href="#/lightseagreen">LightSeaGreen</a></li>
-					<li><a href="#/lightskyblue">LightSkyBlue</a></li>
-					<li><a href="#/lightslategray">LightSlateGray</a></li>
-					<li><a href="#/lightslategrey">LightSlateGrey</a></li>
-					<li><a href="#/lightsteelblue">LightSteelBlue</a></li>
-					<li><a href="#/lightyellow">LightYellow</a></li>
-					<li><a href="#/lime">Lime</a></li>
-					<li><a href="#/limegreen">LimeGreen</a></li>
-					<li><a href="#/linen">Linen</a></li>
-					<li><a href="#/magenta">Magenta</a></li>
-					<li><a href="#/maroon">Maroon</a></li>
-					<li><a href="#/mediumaquamarine">MediumAquaMarine</a></li>
-					<li><a href="#/mediumblue">MediumBlue</a></li>
-					<li><a href="#/mediumorchid">MediumOrchid</a></li>
-					<li><a href="#/mediumpurple">MediumPurple</a></li>
-					<li><a href="#/mediumseagreen">MediumSeaGreen</a></li>
-					<li><a href="#/mediumslateblue">MediumSlateBlue</a></li>
-					<li><a href="#/mediumspringgreen">MediumSpringGreen</a></li>
-					<li><a href="#/mediumturquoise">MediumTurquoise</a></li>
-					<li><a href="#/mediumvioletred">MediumVioletRed</a></li>
-					<li><a href="#/midnightblue">MidnightBlue</a></li>
-					<li><a href="#/mintcream">MintCream</a></li>
-					<li><a href="#/mistyrose">MistyRose</a></li>
-					<li><a href="#/moccasin">Moccasin</a></li>
-					<li><a href="#/navajowhite">NavajoWhite</a></li>
-					<li><a href="#/navy">Navy</a></li>
-					<li><a href="#/oldlace">OldLace</a></li>
-					<li><a href="#/olive">Olive</a></li>
-					<li><a href="#/olivedrab">OliveDrab</a></li>
-					<li><a href="#/orange">Orange</a></li>
-					<li><a href="#/orangered">OrangeRed</a></li>
-					<li><a href="#/orchid">Orchid</a></li>
-					<li><a href="#/palegoldenrod">PaleGoldenRod</a></li>
-					<li><a href="#/palegreen">PaleGreen</a></li>
-					<li><a href="#/paleturquoise">PaleTurquoise</a></li>
-					<li><a href="#/palevioletred">PaleVioletRed</a></li>
-					<li><a href="#/papayawhip">PapayaWhip</a></li>
-					<li><a href="#/peachpuff">PeachPuff</a></li>
-					<li><a href="#/peru">Peru</a></li>
-					<li><a href="#/pink">Pink</a></li>
-					<li><a href="#/plum">Plum</a></li>
-					<li><a href="#/powderblue">PowderBlue</a></li>
-					<li><a href="#/purple">Purple</a></li>
-					<li><a href="#/rebeccapurple">RebeccaPurple</a></li>
-					<li><a href="#/red">Red</a></li>
-					<li><a href="#/rosybrown">RosyBrown</a></li>
-					<li><a href="#/royalblue">RoyalBlue</a></li>
-					<li><a href="#/saddlebrown">SaddleBrown</a></li>
-					<li><a href="#/salmon">Salmon</a></li>
-					<li><a href="#/sandybrown">SandyBrown</a></li>
-					<li><a href="#/seagreen">SeaGreen</a></li>
-					<li><a href="#/seashell">SeaShell</a></li>
-					<li><a href="#/sienna">Sienna</a></li>
-					<li><a href="#/silver">Silver</a></li>
-					<li><a href="#/skyblue">SkyBlue</a></li>
-					<li><a href="#/slateblue">SlateBlue</a></li>
-					<li><a href="#/slategray">SlateGray</a></li>
-					<li><a href="#/slategrey">SlateGrey</a></li>
-					<li><a href="#/snow">Snow</a></li>
-					<li><a href="#/springgreen">SpringGreen</a></li>
-					<li><a href="#/steelblue">SteelBlue</a></li>
-					<li><a href="#/tan">Tan</a></li>
-					<li><a href="#/teal">Teal</a></li>
-					<li><a href="#/thistle">Thistle</a></li>
-					<li><a href="#/tomato">Tomato</a></li>
-					<li><a href="#/turquoise">Turquoise</a></li>
-					<li><a href="#/violet">Violet</a></li>
-					<li><a href="#/wheat">Wheat</a></li>
-					<li><a href="#/white">White</a></li>
-					<li><a href="#/whitesmoke">WhiteSmoke</a></li>
-					<li><a href="#/yellow">Yellow</a></li>
-					<li><a href="#/yellowgreen">YellowGreen</a></li>
-				</ul>
-			</div>	-->			 
+
+		<div class="collapse navbar-collapse" id="mainnavbar">
+			<ul class="nav navbar-nav">
+				<li class="dropdown">
+					<a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Components <span class="caret"></span></a>
+					<ul class="dropdown-menu">
+						<li><a href="#/alerts">Alerts</a></li>
+						<li><a href="#/backgrounds">Backgrounds</a></li>
+						<li><a href="#/buttons">Buttons</a></li>
+						<li><a href="#/jumbotrons">Jumbotrons</a></li>
+						<li><a href="#/inputs">Inputs</a></li>
+						<li><a href="#/labels">Labels</a></li>
+						<li><a href="#/list-groups">List-groups</a></li>
+						<li><a href="#/modals">Modals</a></li>
+						<li><a href="#/panels">Panels</a></li>
+						<li><a href="#/progress-bars">Progress Bars</a></li>
+						<li><a href="#/text">Text</a></li>
+					</ul>
+				</li>
+				<li class="dropdown">
+					<a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Stripes <span class="caret"></span></a>
+					<ul class="dropdown-menu">
+						<li><a href="#/alerts-striped">Alerts Striped</a></li>
+						<li><a href="#/buttons-striped">Buttons Striped</a></li>
+						<li><a href="#/labels-striped">Labels Striped</a></li>
+						<li><a href="#/list-groups-striped">List-groups Striped</a></li>
+						<li><a href="#/jumbotrons-striped">Jumbotrons Striped</a></li>
+						<li><a href="#/modals-striped">Modals Striped</a></li>
+						<li><a href="#/panels-striped">Panels Striped</a></li>
+						<li><a href="#/progress-bars-striped">Progress Bars Striped</a></li>
+						<li><a href="#/backgrounds-striped">Backgrounds Striped</a></li>
+					</ul>
+				</li>
+				<li class="dropdown">
+					<a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Themes <span class="caret"></span></a>
+					<ul class="dropdown-menu">
+						<li><a href="#/alerts-theme">Alerts-theme</a></li>
+						<li><a href="#/buttons-theme">Buttons-theme</a></li>
+						<li><a href="#/labels-theme">Labels-theme</a></li>
+						<li><a href="#/list-groups-theme">List-groups theme</a></li>
+						<li><a href="#/jumbotrons-theme">Jumbotrons-theme</a></li>
+						<li><a href="#/panels-theme">Panels-theme</a></li>
+					</ul>
+				</li>
+				<li class="dropdown">
+					<a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Outlines <span class="caret"></span></a>
+					<ul class="dropdown-menu">
+						<li><a href="#/alerts-outline">Alerts-outline</a></li>
+						<li><a href="#/buttons-outline">Buttons-outline</a></li>
+						<li><a href="#/jumbotrons-outline">Jumbotrons-outline</a></li>
+						<li><a href="#/labels-outline">Labels-outline</a></li>
+						<li><a href="#/list-groups-outline">List-groups-outline</a></li>
+						<li><a href="#/panels-outline">Panels-outline</a></li>
+					</ul>
+				</li>
+				<li class="dropdown">
+					<a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Glows <span class="caret"></span></a>
+					<ul class="dropdown-menu">
+						<li><a href="#/alerts-glow">Alerts-glow</a></li>
+						<li><a href="#/buttons-outline">Buttons-outline</a></li>
+						<li><a href="#/jumbotrons-glow">Jumbotrons-glow</a></li>
+						<li><a href="#/labels-outline">Labels-outline</a></li>
+						<li><a href="#/list-groups-outline">List-groups-outline</a></li>
+						<li><a href="#/panels-outline">Panels-outline</a></li>
+					</ul>
+				</li>
+			</ul>			 
 		</div>
 	</div>
 </nav>
@@ -256,11 +107,6 @@
 		<div class="row">
 			<div class="col-md-12 text-center">				
 				<p class="text-muted">Powered by <strong>Colorstrap</strong></p>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-md-12 text-center small">				
-				<a class="text-muted" href="#">Terms</a> &bull; <a class="text-muted" href="#">Privacy Policy</a> &bull; <a class="text-muted" href="#">Help</a>
 			</div>
 		</div>
 	</div>
