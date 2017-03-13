@@ -1,0 +1,37 @@
+@import 'imports/colors';
+@import 'imports/functions';
+
+@each $key, $value in $colors {
+	
+	.has-#{$key} .help-block,
+	.has-#{$key} .control-label,
+	.has-#{$key} .radio,
+	.has-#{$key} .checkbox,
+	.has-#{$key} .radio-inline,
+	.has-#{$key} .checkbox-inline,
+	.has-#{$key}.radio label,
+	.has-#{$key}.checkbox label,
+	.has-#{$key}.radio-inline label,
+	.has-#{$key}.checkbox-inline label {
+		color: colorstrap-text-color($value);
+	}
+	.has-#{$key} .form-control {
+		border-color: colorstrap-text-color($value);
+		-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+		box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+	}
+	.has-#{$key} .form-control:focus {
+		border-color: colorstrap-darken-color($value, 0.8);
+		-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #{$value};
+		box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #{$value};
+	}
+	.has-#{$key} .input-group-addon {
+		color: colorstrap-text-color($value);
+		border-color: colorstrap-text-color($value);
+		background-color: #{$value};
+	}
+	.has-#{$key} .form-control-feedback {
+		color: colorstrap-text-color($value);
+	}	
+}
+

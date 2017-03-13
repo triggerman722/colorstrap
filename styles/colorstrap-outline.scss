@@ -1,0 +1,9 @@
+.label.colorstrap-outline, .jumbotron.colorstrap-outline {
+	border: 1px solid transparent;
+}
+.label:not(.colorstrap-outline) {
+	color:#fff !important;
+}
+.colorstrap-outline {
+	background-color:transparent !important;
+}

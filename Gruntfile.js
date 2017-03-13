@@ -18,22 +18,29 @@ module.exports = function(grunt) {
       }
     },
 
-   cssmin: {
-    build: {
-      src: 'styles/main.css',
-      dest: 'styles/main.min.css'
-    }
-  },
 
-  sass: {
-    dev: {
-      files: {
-         // destination     // source file
-        'styles/main.css': 'styles/main.scss'
-              }
-            }
-          }
-        });
+cssmin: {
+      minify: {
+        expand: true,
+        cwd: 'public',
+        src: ['*.css'],
+        dest: 'public',
+        ext: '.min.css'
+      }
+    },
+
+sass: {
+    dist: {
+      files: [{
+        expand: true,
+        cwd: 'styles',
+        src: ['*.scss'],
+        dest: 'public',
+        ext: '.css'
+      }]
+    }
+  }
+});
 
   // Default task
   grunt.registerTask('default', ['watch']);

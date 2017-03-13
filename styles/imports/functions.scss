@@ -1,0 +1,17 @@
+@function colorstrap-text-color($color) {
+    @if (lightness( $color ) > 49) {
+      @return colorstrap-darken-color($color, 0.65)
+    }
+    @else {
+      @return lighten($color, 40%)
+    }
+}
+
+@function colorstrap-darken-color($color, $amount) {
+
+	$red : red($color);
+	$green : green($color);
+	$blue : blue($color);
+
+	@return rgb($red * $amount, $green * $amount, $blue * $amount);
+}
