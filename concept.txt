@@ -100,7 +100,6 @@ reference from bootstrap:
 
 Other "straps"
 Marginstrap
-Stripestrap
 Knobstrap
 
 

@@ -1,0 +1,95 @@
+<html>
+<head>
+<script>
+
+
+
+function checkcontrast() {
+
+	//need the color array (fore/back)
+	var color = "#f5f5dc";
+	var L1 = getL(color);
+	document.write("The luma is: " + L1);
+
+	var bgcolor = 0;
+
+	if (L1 > 130) {
+		bgcolor = darken(color, 10);
+	} else {
+		bgcolor = lighten(color, 10);
+	}	
+	var L2 = getL(bgcolor);
+	var ratio = (Math.max(L1, L2) + 0.05)/(Math.min(L1, L2) + 0.05);
+	document.write((Math.round(ratio*100)/100) + ":1");
+}
+
+
+function getL(color) {
+
+	var R = getsRGB(color.substring(0,2));
+
+
+	var G = getsRGB(color.substring(2,4));
+	var B = getsRGB(color.substring(4,6));
+	var L = (0.2126 * R + 0.7152 * G + 0.0722 * B);
+	return L;
+}
+
+function getRed(color) {
+	return parseInt(color.substring(0,2), 16);
+}
+function getGreen(color) {
+	return parseInt(color.substring(2,4), 16);
+}
+function getBlue(color) {
+	return parseInt(color.substring(4,6), 16);
+}
+
+function lighten(color, percent) {
+	var red = getRed(color);
+	var green = getGreen(color);
+	var blue = getBlue(color);
+
+	rdiff = 255-red;
+	gdiff = 255-green;
+	bdiff = 255-blue;
+
+	red += rdiff * percent / 100;
+	green += gdiff * percent / 100;
+	blue += bdiff * percent / 100;
+
+	return rgbToHex(Math.min(red, 255), Math.min(green, 255), Math.min(blue, 255));
+}
+function darken(color, percent) {
+	var red = getRed(color);
+	var green = getGreen(color);
+	var blue = getBlue(color);
+
+	red -= red * percent / 100;
+	green -= green * percent / 100;
+	blue -= blue * percent / 100;
+
+	return rgbToHex(Math.max(red, 0), Math.min(green, 0), Math.min(blue, 0));
+}
+function rgbToHex(r, g, b) {
+    return "#" + ((1 << 24) + (r << 16) + (g << 8) + b).toString(16).slice(1);
+}
+
+function getsRGB(color) {
+	color=getRGB(color);
+	color = color/255;
+	color = (color <= 0.03928) ? color/12.92 : Math.pow(((color + 0.055)/1.055), 2.4);
+	return color;	
+}
+
+function getRGB(color) {
+	var color = parseInt(color, 16);	
+	return color;
+}
+
+window.onload = function() {
+	checkcontrast();
+}
+</script>
+</head>
+</html>
