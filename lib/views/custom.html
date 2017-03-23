@@ -1,0 +1,226 @@
+<div class="jumbotron bg-darkmagenta margin-top-m20">
+	<div class="container">
+		<h1>Colorstrap Customizer</h1>
+		<p>Create custom color classes to work with <a href="http://getbootstrap.com/components/">Bootstrap components.</a></p>
+	</div>
+</div>
+<div class="container">
+	<div class="col-md-12">		
+		<h2>1. Color</h2>
+		<p>Choose a color to use as the main color for your new class.</p>
+	</div>
+	<div>
+		<div class="form-group">
+			<form class="form-horizontal">
+				<div class="form-group">
+					<label for="Color1" class="col-sm-2 control-label">Color: </label>
+					<div class="col-sm-10">
+						<input type="color" class="form-control" id="Color1" value="#00ff00" ng-init="custom.color='#00ff00'" ng-model="custom.color">
+					</div>
+				</div>
+				<div class="form-group">
+					<label for="Text1" class="col-sm-2 control-label">Name (Optional): </label>
+					<div class="col-sm-10">
+						<input type="text" class="form-control" id="Text1" ng-model="custom.optionalname">
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+	<div class="col-md-12">
+		<hr>
+		<h2>2. Bootstrap Classes</h2>
+		<p>Check off the classes for which you would like to generate colorstrap CSS classes.</p>
+	</div>
+	<div class="col-md-4">
+		<div class="checkbox">
+			<label>
+				<input type="checkbox" ng-model="custom.alerts"> Alerts
+			</label>
+		</div>
+		<div class="checkbox">
+			<label>
+				<input type="checkbox" ng-model="custom.backgrounds"> Backgrounds / Jumbotrons
+			</label>
+		</div>
+		<div class="checkbox">
+			<label>
+				<input type="checkbox" ng-model="custom.buttons"> Buttons
+			</label>
+		</div>		
+	</div>
+	<div class="col-md-4">
+		<div class="checkbox">
+			<label>
+				<input type="checkbox" ng-model="custom.inputs"> Inputs
+			</label>
+		</div>
+		<div class="checkbox">
+			<label>
+				<input type="checkbox" ng-model="custom.labels"> Labels
+			</label>
+		</div>
+		<div class="checkbox">
+			<label>
+				<input type="checkbox" ng-model="custom.list_groups"> List-groups
+			</label>
+		</div>		
+	</div>
+	<div class="col-md-4">
+		<div class="checkbox">
+			<label>
+				<input type="checkbox" ng-model="custom.panels"> Panels
+			</label>
+		</div>
+		<div class="checkbox">
+			<label>
+				<input type="checkbox" ng-model="custom.progress_bars"> Progress-bars
+			</label>
+		</div>
+		<div class="checkbox">
+			<label>
+				<input type="checkbox" ng-model="custom.text"> Text
+			</label>
+		</div>
+	</div>
+	<div class="col-md-12">
+		<hr>
+		<h2>3. Results</h2>
+		<style>
+			.alert-{{getcolorname()}} { 
+				color: #{{getcontrast(custom.color.substring(1))}};
+				background-color: {{custom.color}};
+				border-color: #{{darken(custom.color.substring(1), 80)}};
+			}
+		</style>
+		<div class="panel panel-default">
+			<div class="panel-body">
+				<h4 class="text-uppercase"><small><strong>Example</strong></small></h4>
+				<div class="alert alert-{{getcolorname()}}"><strong>{{getcolorname()}} Alert!</strong> You successfully read this important {{getcolorname()}} alert message</div>
+			</div>			
+		</div>
+		<p>Copy the text below into your CSS file to use in your project. All colors have a <a href="http://webaim.org/resources/contrastchecker/">WCAG contrast</a> compliance of 4.5:1 or greater.</p>
+		<pre ng-show="custom.alerts">
+.alert-{{getcolorname()}} { 
+	color: #{{getcontrast(custom.color.substring(1))}};
+	background-color: {{custom.color}};
+	border-color: #{{darken(custom.color.substring(1), 80)}};
+}</pre>
+		<pre ng-show="custom.backgrounds">
+.bg-{{getcolorname()}} { 
+	color: #{{getcontrast(custom.color.substring(1))}};
+	background-color: {{custom.color}};
+	border-color: #{{darken(custom.color.substring(1), 80)}};
+}</pre>
+		<pre ng-show="custom.buttons">
+.btn-{{getcolorname()}} { 
+	color: #{{getcontrast(custom.color.substring(1))}};
+	background-color: {{custom.color}};
+	border-color: #{{darken(custom.color.substring(1), 80)}};
+}</pre>
+
+		<pre ng-show="custom.jumbotrons">
+.bg-{{getcolorname()}} { 
+	color: #{{getcontrast(custom.color.substring(1))}};
+	background-color: {{custom.color}};
+	border-color: #{{darken(custom.color.substring(1), 80)}};
+}</pre>
+		<pre ng-show="custom.inputs">
+.has-{{getcolorname()}} .help-block,
+.has-{{getcolorname()}} .control-label,
+.has-{{getcolorname()}} .radio,
+.has-{{getcolorname()}} .checkbox,
+.has-{{getcolorname()}} .radio-inline,
+.has-{{getcolorname()}} .checkbox-inline,
+.has-{{getcolorname()}}.radio label,
+.has-{{getcolorname()}}.checkbox label,
+.has-{{getcolorname()}}.radio-inline label,
+.has-{{getcolorname()}}.checkbox-inline label {
+	color: {{custom.color}};
+}
+.has-{{getcolorname()}} .form-control {
+	border-color: {{custom.color}};
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+.has-{{getcolorname()}} .form-control:focus {
+	border-color: {{custom.color}};
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px {{custom.color}};
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px {{custom.color}};
+}
+.has-{{getcolorname()}} .input-group-addon {
+	color: {{custom.color}};
+	border-color: {{custom.color}};
+	background-color: {{custom.color}}; 
+}
+.has-{{getcolorname()}} .form-control-feedback {
+	color: {{custom.color}};
+}</pre>
+		<pre ng-show="custom.labels">
+.label-{{getcolorname()}} { 
+	color: #{{getcontrast(custom.color.substring(1))}};
+	background-color: {{custom.color}};
+	border-color: #{{darken(custom.color.substring(1), 80)}};
+}</pre>
+		<pre ng-show="custom.list_groups">
+.list-group-item-{{getcolorname()}} {
+	color: #{{getcontrast(custom.color.substring(1))}};
+	background-color: {{custom.color}};
+}
+a.list-group-item-{{getcolorname()}}, button.list-group-item-{{getcolorname()}} {
+	color: #{{getcontrast(custom.color.substring(1))}};
+}
+a.list-group-item-{{getcolorname()}} .list-group-item-heading, button.list-group-item-{{getcolorname()}} .list-group-item-heading {
+	color: inherit;
+}
+a.list-group-item-{{getcolorname()}}:hover, button.list-group-item-{{getcolorname()}}:hover, a.list-group-item-{{getcolorname()}}:focus, button.list-group-item-{{getcolorname()}}:focus {
+	color: #{{getcontrast(custom.color.substring(1))}};
+	background-color: #{{darken(custom.color.substring(1), 80)}};
+}
+a.list-group-item-{{getcolorname()}}.active, button.list-group-item-{{getcolorname()}}.active, a.list-group-item-{{getcolorname()}}.active:hover, button.list-group-item-{{getcolorname()}}.active:hover, a.list-group-item-{{getcolorname()}}.active:focus, button.list-group-item-{{getcolorname()}}.active:focus {
+	color: #fff;
+	background-color: #{{darken(custom.color.substring(1), 80)}};
+	border-color: #{{darken(custom.color.substring(1), 80)}};
+}</pre>
+
+		<pre ng-show="custom.panels">
+.panel-{{getcolorname()}} { 
+	border-color: #{{darken(custom.color.substring(1), 80)}};
+}
+.panel-{{getcolorname()}} > .panel-heading + .panel-collapse > .panel-body {
+	border-top-color: #{{darken(custom.color.substring(1), 80)}};
+}
+.panel-{{getcolorname()}} > .panel-heading .badge {
+	color: {{custom.color}};
+	background-color: #{{getcontrast(custom.color.substring(1))}};
+}
+.panel-{{getcolorname()}} > .panel-footer + .panel-collapse > .panel-body {
+	border-bottom-color: #{{darken(custom.color.substring(1), 80)}};
+}</pre>
+
+		<pre ng-show="custom.text">
+a.anchor-{{getcolorname()}} {
+	color: #{{getcontrast(custom.color.substring(1))}};
+}
+a.anchor-{{getcolorname()}}:hover,
+a.anchor-{{getcolorname()}}:focus {
+	color: #{{getcontrast(custom.color.substring(1))}}; 
+}
+
+.text-{{getcolorname()}} {
+	color: {{custom.color}};
+}
+a.text-{{getcolorname()}}:hover,
+a.text-{{getcolorname()}}:focus {
+	color: #{{getcontrast(custom.color.substring(1))}}; 
+}</pre>
+		<pre ng-show="custom.progress_bars">
+.progress-bar-{{getcolorname()}} { 
+	color: #{{getcontrast(custom.color.substring(1))}};
+	background-color: {{custom.color}};
+	border-color: #{{darken(custom.color.substring(1), 80)}};
+}</pre>
+	</div>
+	
+
+</div>

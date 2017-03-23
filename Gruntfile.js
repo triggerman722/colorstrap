@@ -23,7 +23,7 @@ cssmin: {
       minify: {
         expand: true,
         cwd: 'public',
-        src: ['*.css'],
+        src: ['*.css', '!*.min.css'],
         dest: 'public',
         ext: '.min.css'
       }

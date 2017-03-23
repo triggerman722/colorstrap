@@ -13,10 +13,10 @@
 	.has-#{$key}.checkbox label,
 	.has-#{$key}.radio-inline label,
 	.has-#{$key}.checkbox-inline label {
-		color: colorstrap-text-color($value);
+		color: colorstrap-text-color($value, $exceptions);
 	}
 	.has-#{$key} .form-control {
-		border-color: colorstrap-text-color($value);
+		border-color: colorstrap-text-color($value, null);
 		-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
 		box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
 	}
@@ -26,12 +26,12 @@
 		box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #{$value};
 	}
 	.has-#{$key} .input-group-addon {
-		color: colorstrap-text-color($value);
-		border-color: colorstrap-text-color($value);
+		color: colorstrap-text-color($value, $exceptions);
+		border-color: colorstrap-text-color($value, null);
 		background-color: #{$value};
 	}
 	.has-#{$key} .form-control-feedback {
-		color: colorstrap-text-color($value);
+		color: colorstrap-text-color($value, $exceptions);
 	}	
 }
 

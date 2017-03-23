@@ -3,7 +3,7 @@
 
 @each $key, $value in $colors {
 	.alert-#{$key} {
-		color: colorstrap-text-color($value); 
+		color: colorstrap-text-color($value, $exceptions);
 		border-color: colorstrap-darken-color($value, 0.8) !important;
 		background-color: #{$value};
 	}	

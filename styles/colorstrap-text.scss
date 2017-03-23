@@ -7,7 +7,7 @@
 	}
 	a.text-#{$key}:hover,
 	a.text-#{$key}:focus {
-		color: colorstrap-text-color($value); 
+		color: colorstrap-text-color($value, $exceptions);
 	}
 }
 

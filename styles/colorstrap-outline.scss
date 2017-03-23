@@ -1,9 +1,11 @@
-.label.colorstrap-outline, .jumbotron.colorstrap-outline {
-	border: 1px solid transparent;
+@import 'imports/colors';
+@import 'imports/functions';
+
+@each $key, $value in $colors {	
+	.outline-#{$key}  {
+		color: colorstrap-text-color($value, null); 
+		border-color: colorstrap-darken-color($value, 0.8) !important;
+		background-color: transparent;
+	}
 }
-.label:not(.colorstrap-outline) {
-	color:#fff !important;
-}
-.colorstrap-outline {
-	background-color:transparent !important;
-}
+
