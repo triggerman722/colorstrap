@@ -1,0 +1,24 @@
+@import 'imports/colors';
+@import 'imports/functions';
+
+@each $key, $value in $colors {	
+	.list-group-item-#{$key} {
+		color: colorstrap-text-contrast($value);
+		background-color: #{$value};
+	}
+	a.list-group-item-#{$key}, button.list-group-item-#{$key} {
+		color: colorstrap-text-contrast($value);
+	}
+	a.list-group-item-#{$key} .list-group-item-heading, button.list-group-item-#{$key} .list-group-item-heading {
+		color: inherit;
+	}
+	a.list-group-item-#{$key}:hover, button.list-group-item-#{$key}:hover, a.list-group-item-#{$key}:focus, button.list-group-item-#{$key}:focus {
+		color: colorstrap-text-contrast($value);
+		background-color: colorstrap-darken-color($value, 0.8);
+	}
+	a.list-group-item-#{$key}.active, button.list-group-item-#{$key}.active, a.list-group-item-#{$key}.active:hover, button.list-group-item-#{$key}.active:hover, a.list-group-item-#{$key}.active:focus, button.list-group-item-#{$key}.active:focus {
+		color: #fff;
+		background-color: colorstrap-darken-color($value, 0.8);
+		border-color: colorstrap-darken-color($value, 0.8);
+	}
+}

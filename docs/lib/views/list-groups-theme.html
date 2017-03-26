@@ -1,0 +1,36 @@
+<link href="ref/colorstrap/css/colorstrap-theme.css" rel="stylesheet">
+
+<div class="jumbotron bg-silver margin-top-m20">
+	<div class="container">
+		<h1>Colorstrap List-Groups</h1>
+		<p>For all your colorful list-grouping needs! One hundred and forty HTML colors built for <a class="anchor-silver" href="http://getbootstrap.com/components/#list-group">Bootstrap list-groups</a>.</p>
+	</div>
+</div>
+<div class="container">
+	<div class="panel panel-default">
+		<div class="panel-body">
+			<h4 class="text-uppercase"><small><strong>Example</strong></small></h4>
+			<div class="list-group">
+				<button type="button" class="list-group-item list-group-item-darkgreen">DarkGreen</button>
+				<button type="button" class="list-group-item list-group-item-darkkhaki">DarkKhaki</button>
+				<button type="button" class="list-group-item list-group-item-darkmagenta">DarkMagenta</button>
+				<button type="button" class="list-group-item list-group-item-darkolivegreen">DarkOliveGreen</button>
+			</div>
+		</div>
+		<div class="panel-footer">
+			<code>
+				&lt;div class="list-group"&gt;<br>
+				&nbsp;&nbsp;&nbsp;&lt;button type="button" class="list-group-item list-group-item-darkgreen">DarkGreen&lt;/button&gt;<br>
+				&nbsp;&nbsp;&nbsp;&lt;button type="button" class="list-group-item list-group-item-darkkhaki">DarkKhaki&lt;/button&gt;<br>
+				&nbsp;&nbsp;&nbsp;&lt;button type="button" class="list-group-item list-group-item-darkmagenta">DarkMagenta&lt;/button&gt;<br>
+				&nbsp;&nbsp;&nbsp;&lt;button type="button" class="list-group-item list-group-item-darkolivegreen">DarkOliveGreen&lt;/button&gt;<br>
+				&lt;/div&gt;
+			</code>
+		</div>
+	</div>
+	<div class="list-group">
+		<button type="button" ng-repeat="(key, value) in colors" class="list-group-item list-group-item-{{key.toLowerCase()}} text-capitalize">
+			{{key}}
+		</button>
+	</div>
+</div>

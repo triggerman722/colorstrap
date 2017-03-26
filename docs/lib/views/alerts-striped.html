@@ -1,0 +1,22 @@
+<div class="jumbotron bg-darkmagenta colorstrap-striped margin-top-m20">
+	<div class="container">
+		<h1>Colorstrap Striped Alerts</h1>
+		<p>Did you know you could apply the striped effect to <a class="anchor-darkmagenta" href="http://getbootstrap.com/components/#alerts">Bootstrap alerts</a>? Well, you can! And, you can also combine with with all 140 HTML named colors!</p>
+	</div>
+</div>
+<div class="container">
+	<div class="panel panel-default">
+		<div class="panel-body">
+			<h4 class="text-uppercase"><small><strong>Example</strong></small></h4>
+			<div class="alert alert-brown colorstrap-striped"><strong>Brown Striped Alert!</strong> You successfully read this important Brown alert message</div>
+		</div>
+		<div class="panel-footer">
+			<code>
+				&lt;div class="alert alert-brown colorstrap-striped"&gt;&lt;strong&gt;Brown Striped Alert!&lt;/strong&gt; You successfully read this important Brown alert message&lt;/div&gt;
+			</code>
+		</div>
+	</div>
+	<div ng-repeat="(key, value) in colors" class="alert alert-{{key.toLowerCase()}} colorstrap-striped">
+		<strong class="text-capitalize">{{key}} Striped Alert!</strong> You successfully read this important <span class="text-capitalize">{{key}}</span> alert message
+	</div>
+</div>

@@ -1,0 +1,23 @@
+@import 'imports/colors';
+@import 'imports/functions';
+
+@each $key, $value in $colors {
+	.panel-#{$key} > .panel-heading {
+		color: colorstrap-text-contrast($value); 
+		border-color: colorstrap-darken-color($value, 0.8) !important;
+		background-color: #{$value};
+	}	
+	.panel-#{$key} { 
+		border-color: colorstrap-darken-color($value, 0.8);
+	}
+	.panel-#{$key} > .panel-heading + .panel-collapse > .panel-body {
+		border-top-color: colorstrap-darken-color($value, 0.8);
+	}
+	.panel-#{$key} > .panel-heading .badge {
+		color: #{$value};
+		background-color: colorstrap-text-contrast($value);
+	}
+	.panel-#{$key} > .panel-footer + .panel-collapse > .panel-body {
+		border-bottom-color: colorstrap-darken-color($value, 0.8);
+	}
+}

@@ -1,0 +1,31 @@
+<div class="jumbotron bg-chocolate margin-top-m20">
+	<div class="container">
+		<h1>Colorstrap Progress Bars</h1>
+		<p>Represent progress in 140 names HTML colors. These classes work with <a class="anchor-chocolate" href="http://getbootstrap.com/components/#progress">Bootstrap progress bars</a>.</p>
+	</div>
+</div>
+<div class="container">
+	<div class="panel panel-default">
+		<div class="panel-body">
+			<h4 class="text-uppercase"><small><strong>Example</strong></small></h4>
+			<div class="progress">
+				<div class="progress-bar progress-bar-firebrick" role="progressbar" aria-valuenow="41" aria-valuemin="0" aria-valuemax="100" style="width: 41%">41% Complete FireBrick
+				</div>
+			</div>
+		</div>
+		<div class="panel-footer">
+			<code>
+			&lt;div class="progress"&gt;<br>
+			&nbsp;&nbsp;&nbsp;&lt;div class="progress-bar progress-bar-firebrick" role="progressbar" aria-valuenow="41" aria-valuemin="0" aria-valuemax="100" style="width: 41%"&gt;<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;41% Complete FireBrick<br>
+			&nbsp;&nbsp;&nbsp;&lt;/div&gt;<br>
+			&lt;/div&gt;
+			</code>
+		</div>
+	</div>
+
+	<div ng-repeat="(key, value) in colors" class="progress" ng-init="r = Math.floor((Math.random() * 80) + 20);">
+		<div class="progress-bar progress-bar-{{key.toLowerCase()}} text-capitalize" role="progressbar" aria-valuenow="{{r}}" aria-valuemin="0" aria-valuemax="100" style="width: {{r}}%">{{r}}% Complete {{key}}
+		</div>
+	</div>
+</div>

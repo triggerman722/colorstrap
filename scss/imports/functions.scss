@@ -1,0 +1,30 @@
+@function colorstrap-darken-color($color, $amount) {
+	$red : red($color);
+	$green : green($color);
+	$blue : blue($color);
+
+	@return rgb($red * $amount, $green * $amount, $blue * $amount);
+}
+
+@function colorstrap-text-contrast($color, $minimumcontrast:4.5) {
+	$bgcolor: $color;
+	$brightness: .241 * red($color) * red($color) + .691 * green($color) * green($color) + .068 * blue($color) * blue($color);
+	$bratio1: $brightness / (255*255);
+	@for $i from 1 through 255 {
+		@if ( $bratio1 > 0.25 ) {
+			$bgcolor: darken($bgcolor, 1);
+		} @else {
+			$bgcolor: lighten($bgcolor, 1);
+		}
+		$bgbrightness: .241 * red($bgcolor) * red($bgcolor) + .691 * green($bgcolor) * green($bgcolor) + .068 * blue($bgcolor) * blue($bgcolor);
+		$bratio2: $bgbrightness / (255*255);
+		$ratio: (max($bratio1, $bratio2) + 0.065) / (min($bratio1, $bratio2) + 0.065);
+		$threshold: round($ratio*100)/100;
+		
+		@if ($threshold > $minimumcontrast) {
+			@return $bgcolor;
+		}
+		$color: $bgcolor;
+	}
+	@return $color;
+}

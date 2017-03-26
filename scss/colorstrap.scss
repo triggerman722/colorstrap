@@ -1,0 +1,111 @@
+@import 'imports/colors';
+@import 'imports/functions';
+
+.colorstrap-striped {
+  background-image: -webkit-linear-gradient(315deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+  background-image:      -o-linear-gradient(315deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+  background-image:         linear-gradient(315deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+  -webkit-background-size: 40px 40px;
+          background-size: 40px 40px;
+}
+
+.modal-content {
+	overflow:hidden;
+}
+
+@each $key, $value in $colors {
+	.alert-#{$key}, .bg-#{$key}, .btn-#{$key}, .tag-#{$key}, .label-#{$key}, .card-#{$key}, .panel-#{$key} > .panel-heading, .progress-bar-#{$key} {
+		color: colorstrap-text-contrast($value); 
+		border-color: colorstrap-darken-color($value, 0.8) !important;
+		background-color: #{$value};
+	}
+	a.anchor-#{$key} {
+		color: colorstrap-text-contrast($value, 7);
+	}
+	a.anchor-#{$key}:hover,
+	a.anchor-#{$key}:focus {
+		color: colorstrap-text-contrast($value); 
+	}
+
+	.text-#{$key} {
+		color: #{$value};
+	}
+	a.text-#{$key}:hover,
+	a.text-#{$key}:focus {
+		color: colorstrap-text-contrast($value); 
+	}
+	.panel-#{$key} { 
+		border-color: colorstrap-darken-color($value, 0.8);
+	}
+	.panel-#{$key} > .panel-heading + .panel-collapse > .panel-body {
+		border-top-color: colorstrap-darken-color($value, 0.8);
+	}
+	.panel-#{$key} > .panel-heading .badge {
+		color: #{$value};
+		background-color: colorstrap-text-contrast($value);
+	}
+	.panel-#{$key} > .panel-footer + .panel-collapse > .panel-body {
+		border-bottom-color: colorstrap-darken-color($value, 0.8);
+	}
+	.list-group-item-#{$key} {
+		color: colorstrap-text-contrast($value);
+		background-color: #{$value};
+	}
+	a.list-group-item-#{$key}, button.list-group-item-#{$key} {
+		color: colorstrap-text-contrast($value);
+	}
+	a.list-group-item-#{$key} .list-group-item-heading, button.list-group-item-#{$key} .list-group-item-heading {
+		color: inherit;
+	}
+	a.list-group-item-#{$key}:hover, button.list-group-item-#{$key}:hover, a.list-group-item-#{$key}:focus, button.list-group-item-#{$key}:focus {
+		color: colorstrap-text-contrast($value);
+		background-color: colorstrap-darken-color($value, 0.8);
+	}
+	a.list-group-item-#{$key}.active, button.list-group-item-#{$key}.active, a.list-group-item-#{$key}.active:hover, button.list-group-item-#{$key}.active:hover, a.list-group-item-#{$key}.active:focus, button.list-group-item-#{$key}.active:focus {
+		color: #fff;
+		background-color: colorstrap-darken-color($value, 0.8);
+		border-color: colorstrap-darken-color($value, 0.8);
+	}
+	.has-#{$key} .help-block,
+	.has-#{$key} .control-label,
+	.has-#{$key} .radio,
+	.has-#{$key} .checkbox,
+	.has-#{$key} .radio-inline,
+	.has-#{$key} .checkbox-inline,
+	.has-#{$key}.radio label,
+	.has-#{$key}.checkbox label,
+	.has-#{$key}.radio-inline label,
+	.has-#{$key}.checkbox-inline label {
+		color: #{$value};
+	}
+	.has-#{$key} .form-control {
+		border-color: #{$value};
+		-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+		box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+	}
+	.has-#{$key} .form-control:focus {
+		border-color: #{$value};
+		-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #{$value};
+		box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #{$value};
+	}
+	.has-#{$key} .input-group-addon {
+		color: #{$value};
+		border-color: #{$value};
+		background-color: #{$value};
+	}
+	.has-#{$key} .form-control-feedback {
+		color: #{$value};
+	}
+	.glow-#{$key}  {
+		color: colorstrap-text-contrast($value); 
+		background-color: #{$value};
+		border: 0px solid transparent !important;
+		-webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(red($value), green($value), blue($value), 0.6);
+		box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(red($value), green($value), blue($value), 0.6);
+	}
+	.outline-#{$key}  {
+		color: colorstrap-darken-color($value, 0.8);
+		border: 1px solid colorstrap-darken-color($value, 0.8);
+		background-color: transparent;
+	}
+}

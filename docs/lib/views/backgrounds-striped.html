@@ -1,0 +1,22 @@
+<div class="jumbotron colorstrap-striped bg-palegreen margin-top-m20">
+	<div class="container">
+		<h1>Colorstrap Backgrounds</h1>
+		<p>Bring background colors to the foreground (figuratively) with 140 named HTML colors. Designed to work with <a class="anchor-palegreen" href="http://getbootstrap.com/css/#helper-classes-backgrounds">Bootstrap backgrounds</a>.</p>
+	</div>
+</div>
+<div class="container">
+	<div class="panel panel-default">
+		<div class="panel-body">
+			<h4 class="text-uppercase"><small><strong>Example</strong></small></h4>
+			<h1 class="colorstrap-striped bg-khaki">Khaki Background!</h1>
+		</div>
+		<div class="panel-footer">
+			<code>
+				&lt;h1 class="bg-khaki"&gt;Khaki Background!&lt;/h1&gt;
+			</code>
+		</div>
+	</div>
+	<h1 ng-repeat="(key, value) in colors" class="colorstrap-striped bg-{{key.toLowerCase()}} text-capitalize">
+		{{key}} Background!
+	</h1>
+</div>

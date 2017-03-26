@@ -1,0 +1,27 @@
+<div class="jumbotron bg-salmon margin-top-m20">
+	<div class="container">
+		<h1>Colorstrap Text</h1>
+		<p>Color text in all its named HTML color glory. Classes work well with <a class="anchor-salmon" href="http://getbootstrap.com/css/#helper-classes-colors">Bootstrap contextual colors</a>.</p>
+	</div>
+</div>
+<div class="container">
+	<div class="alert alert-crimson"><strong>Crimson Alert!</strong> Exercise caution with text color classes to ensure they appear on an appropriate background for clear visibility!</div>
+	<div class="panel panel-default">
+		<div class="panel-body">
+			<h4 class="text-uppercase"><small><strong>Example</strong></small></h4>
+			<p class="text-blue">
+				<strong class="text-capitalize">blue</strong> is what we should be talking about. Instead, its always lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+			</p>
+		</div>
+		<div class="panel-footer">
+			<code>
+				&lt;p class="text-blue"&gt;<br>
+				&nbsp;&nbsp;&nbsp;&lt;strong class="text-capitalize"&gt;blue&lt;/strong&gt; is what we should be talking about. Instead, its always lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>
+				&lt;/p&gt;
+			</code>
+		</div>
+	</div>
+	<p ng-repeat="(key, value) in colors" class="text-{{key.toLowerCase()}}">
+		<strong class="text-capitalize">{{key}}</strong> is what we should be talking about. Instead, its always lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+	</p>	
+</div>

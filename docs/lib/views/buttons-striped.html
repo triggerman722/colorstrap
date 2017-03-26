@@ -1,0 +1,24 @@
+<div class="jumbotron bg-blanchedalmond colorstrap-striped margin-top-m20">
+	<div class="container">
+		<h1>Colorstrap Striped Buttons</h1>
+		<p>Add a striped effect to <a class="anchor-blanchedalmond" href="http://getbootstrap.com/css/#buttons">Bootstrap buttons</a>! Seriously, why not?</p>
+	</div>
+</div>
+<div class="container">
+	<div class="panel panel-default">
+		<div class="panel-body">
+			<h4 class="text-uppercase"><small><strong>Example</strong></small></h4>
+			<button type="button" class="colorstrap-striped btn btn-cornflowerblue">CornflowerBlue</button>
+		</div>
+		<div class="panel-footer">
+			<code>
+				&lt;button type="button" class="colorstrap-striped btn btn-cornflowerblue"&gt;<br>
+				&nbsp;&nbsp;&nbsp;CornflowerBlue<br>
+				&lt;/button&gt;
+			</code>
+		</div>
+	</div>
+	<button type="button" ng-repeat="(key, value) in colors" class="colorstrap-striped navbar-btn btn btn-{{key.toLowerCase()}} text-capitalize">
+		{{key}}
+	</button>	
+</div>

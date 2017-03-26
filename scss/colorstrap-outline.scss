@@ -1,0 +1,11 @@
+@import 'imports/colors';
+@import 'imports/functions';
+
+@each $key, $value in $colors {	
+	.outline-#{$key}  {
+		color: colorstrap-darken-color($value, 0.8);
+		border: 1px solid colorstrap-darken-color($value, 0.8);
+		background-color: transparent;
+	}
+}
+

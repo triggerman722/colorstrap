@@ -1,0 +1,64 @@
+<div class="jumbotron colorstrap-striped bg-blanchedalmond margin-top-m20">
+	<div class="container">
+		<h1>Colorstrap Modals</h1>
+		<p>We didn't forget <a class="anchor-blanchedalmond" href="http://getbootstrap.com/javascript/#modals">Bootstrap Modals!</a> And we didn't forget to add striping! Now they can be presented in one hundred and forty HTML colors!.</p>
+	</div>
+</div>
+<div class="container">
+	<div class="panel panel-default">
+		<div class="panel-body">
+			<h4 class="text-uppercase"><small><strong>Example</strong></small></h4>
+			<div class='modal-content'>
+				<div class='modal-header colorstrap-striped bg-cornflowerblue'>
+					<button type='button' class='close' data-dismiss='modal' aria-label='close'><span aria-hidden='1'>&times;</span></button>
+					<h4 class='modal-title' id='cornflowerbluemodallabel'>CornflowerBlue Modal</h4>
+				</div>
+				<div class='modal-body'>     ...     </div>
+				<div class='modal-footer'>
+					<button type='button' class='btn btn-cornflowerblue' data-dismiss='modal'>Close</button>
+				</div>
+			</div>
+		</div>
+		<div class="panel-footer">
+			<code>
+				&lt;button type='button' class='btn btn-cornflowerblue btn-lg' data-toggle='modal' data-target='#cornflowerbluemodal'&gt;<br>
+				&nbsp;&nbsp;&nbsp;Launch CornflowerBlue modal<br>
+				&lt;/button&gt;<br>
+				&lt;div class='modal fade' id='cornflowerbluemodal' tabindex='-1' role='dialog' aria-labelledby='cornflowerbluemodallabel'&gt;<br>
+				&nbsp;&nbsp;&nbsp;&lt;div class='modal-dialog' role='document'&gt;<br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;div class='modal-content'&gt;<br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;div class='modal-header colorstrap-striped bg-cornflowerblue'&gt;<br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;button type='button' class='close' data-dismiss='modal' aria-label='close'&gt;<br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;span aria-hidden='1'>&times;&lt;/span&gt;<br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/button&gt;<br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;h4 class='modal-title' id='cornflowerbluemodallabel'>CornflowerBlue Modal&lt;/h4&gt;<br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/div&gt;<br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;div class='modal-body'&gt;<br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...<br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/div&gt;<br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;div class='modal-footer'&gt;<br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;button type='button' class='btn btn-cornflowerblue' data-dismiss='modal'&gt;Close&lt;/button&gt;<br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/div&gt;<br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/div&gt;<br>
+				&nbsp;&nbsp;&nbsp;&lt;/div&gt;<br>
+				&lt;/div&gt;
+			</code>
+		</div>
+	</div>
+	<button ng-repeat="(key, value) in colors" type='button' class='btn btn-{{key.toLowerCase()}} btn-lg text-capitalize' data-toggle='modal' data-target='#{{key.toLowerCase()}}modal'>
+		Launch {{key}} modal
+	</button>
+	<div ng-repeat="(key, value) in colors" class='modal fade' id='{{key}}modal' tabindex='-1' role='dialog' aria-labelledby='{{key}}modallabel'>
+		<div class='modal-dialog' role='document'>
+			<div class='modal-content'>
+				<div class='modal-header colorstrap-striped bg-{{key.toLowerCase()}}'>
+					<button type='button' class='close' data-dismiss='modal' aria-label='close'><span aria-hidden='1'>&times;</span></button>
+					<h4 class='modal-title text-capitalize' id='{{key}}modallabel'>{{key}} Modal</h4>
+				</div>
+			<div class='modal-body'>     ...     </div>
+			<div class='modal-footer'>
+				<button type='button' class='btn btn-{{key.toLowerCase()}}' data-dismiss='modal'>Close</button>
+			</div>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,20 @@
+@import 'imports/colors';
+@import 'imports/functions';
+
+@each $key, $value in $colors {
+	a.anchor-#{$key} {
+		color: colorstrap-text-contrast($value, 7);
+	}
+	a.anchor-#{$key}:hover,
+	a.anchor-#{$key}:focus {
+		color: colorstrap-text-contrast($value); 
+	}
+
+	.text-#{$key} {
+		color: #{$value};
+	}
+	a.text-#{$key}:hover,
+	a.text-#{$key}:focus {
+		color: colorstrap-text-contrast($value); 
+	}
+}

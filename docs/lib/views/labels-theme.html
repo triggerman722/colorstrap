@@ -1,0 +1,25 @@
+<link href="ref/colorstrap/css/colorstrap-theme.css" rel="stylesheet">
+
+<div class="jumbotron bg-lightskyblue margin-top-m20">
+	<div class="container">
+		<h1>Colorstrap Labels</h1>
+		<p>Make labels more expressive with all 140 named HTML colors. Built for <a class="anchor-lightskyblue" href="http://getbootstrap.com/components/#labels">Bootstrap labels</a>.</p>
+	</div>
+</div>
+<div class="container">
+	<div class="panel panel-default">
+		<div class="panel-body">
+			<h4 class="text-uppercase"><small><strong>Example</strong></small></h4>
+				<div class="label label-mediumturquoise"><strong>MediumTurquoise</strong></div>
+		</div>
+		<div class="panel-footer">
+			<code>
+				&lt;div class="label label-mediumturquoise"&gt;&lt;strong&gt;MediumTurquoise&lt;/strong&gt;&lt;/div&gt;
+			</code>
+		</div>
+	</div>
+	<div ng-repeat-start="(key, value) in colors" class="label label-{{key.toLowerCase()}} text-capitalize">
+		<strong>{{key}}</strong>
+	</div> <span ng-repeat-end></span>	
+</div>
+

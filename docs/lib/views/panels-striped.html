@@ -1,0 +1,35 @@
+<div class="jumbotron colorstrap-striped bg-midnightblue margin-top-m20">
+	<div class="container">
+		<h1>Colorstrap Panels</h1>
+		<p>Stripe beautiful panels in each of the named HTML colors for <a class="anchor-midnightblue" href="http://getbootstrap.com/components/#panels">Bootstrap panels</a>.</p>
+	</div>
+</div>
+<div class="container">
+	<div class="panel panel-default">
+		<div class="panel-body">
+			<h4 class="text-uppercase"><small><strong>Example</strong></small></h4>
+			<div class="panel panel-lemonchiffon">
+				<div class="colorstrap-striped panel-heading">
+					<h3 class="panel-title">LemonChiffon Panel</h3>
+				</div>
+				<div class="panel-body">LemonChiffon Content</div>
+			</div>
+		</div>
+		<div class="panel-footer">
+			<code>
+			&lt;div class="panel panel-lemonchiffon"&gt;<br>
+			&nbsp;&nbsp;&nbsp;&lt;div class="colorstrap-striped panel-heading"&gt;<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;h3 class="panel-title"&gt;LemonChiffon Panel&lt;/h3&gt;<br>
+			&nbsp;&nbsp;&nbsp;&lt;/div&gt;<br>
+			&nbsp;&nbsp;&nbsp;&lt;div class="panel-body"&gt;LemonChiffon Content&lt;/div&gt;<br>
+			&lt;/div&gt;
+			</code>
+		</div>
+	</div>
+	<div ng-repeat="(key, value) in colors" class="panel panel-{{key.toLowerCase()}}">
+		<div class="colorstrap-striped panel-heading">
+			<h3 class="panel-title text-capitalize">{{key}} Panel</h3>
+		</div>
+		<div class="panel-body text-capitalize">{{key}} Content</div>
+	</div>
+</div>
