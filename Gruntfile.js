@@ -5,20 +5,30 @@ module.exports = function(grunt) {
 cssmin: {
       minify: {
         expand: true,
-        cwd: 'dist',
+        cwd: 'dist/css',
         src: ['*.css', '!*.min.css'],
-        dest: 'dist',
+        dest: 'dist/css',
         ext: '.min.css'
       }
     },
-
+compress: {
+    colorstrap: {
+        options: {
+            archive: './dist/zip/colorstrap.zip',
+            mode: 'zip'
+        },
+        files: [
+            { src: './dist/css/**' }
+        ]
+    }
+},
 sass: {
     dist: {
       files: [{
         expand: true,
         cwd: 'scss',
         src: ['*.scss'],
-        dest: 'dist',
+        dest: 'dist/css',
         ext: '.css'
       }]
     }
@@ -26,9 +36,10 @@ sass: {
 });
 
   // Default task
-  grunt.registerTask('default', ['sass', 'cssmin']);
+  grunt.registerTask('default', ['sass', 'cssmin', 'compress']);
 
   // Load up tasks
   grunt.loadNpmTasks('grunt-contrib-sass');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
+  grunt.loadNpmTasks('grunt-contrib-compress');
 };

@@ -1,0 +1,1037 @@
+.glow-aliceblue {
+  color: #0068c2;
+  background-color: #F0F8FF;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(240, 248, 255, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(240, 248, 255, 0.6); }
+
+.glow-antiquewhite {
+  color: #845311;
+  background-color: #FAEBD7;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(250, 235, 215, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(250, 235, 215, 0.6); }
+
+.glow-aqua {
+  color: #006161;
+  background-color: #00FFFF;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 255, 255, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 255, 255, 0.6); }
+
+.glow-aquamarine {
+  color: #006643;
+  background-color: #7FFFD4;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(127, 255, 212, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(127, 255, 212, 0.6); }
+
+.glow-azure {
+  color: #007676;
+  background-color: #F0FFFF;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(240, 255, 255, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(240, 255, 255, 0.6); }
+
+.glow-beige {
+  color: #64641d;
+  background-color: #F5F5DC;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(245, 245, 220, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(245, 245, 220, 0.6); }
+
+.glow-bisque {
+  color: #8c4c00;
+  background-color: #FFE4C4;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 228, 196, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 228, 196, 0.6); }
+
+.glow-black {
+  color: #7a7a7a;
+  background-color: #000000;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 0, 0, 0.6); }
+
+.glow-blanchedalmond {
+  color: #865000;
+  background-color: #FFEBCD;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 235, 205, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 235, 205, 0.6); }
+
+.glow-blue {
+  color: #b8b8ff;
+  background-color: #0000FF;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 0, 255, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 0, 255, 0.6); }
+
+.glow-blueviolet {
+  color: #f4ecfc;
+  background-color: #8A2BE2;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(138, 43, 226, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(138, 43, 226, 0.6); }
+
+.glow-brown {
+  color: #f6dddd;
+  background-color: #A52A2A;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(165, 42, 42, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(165, 42, 42, 0.6); }
+
+.glow-burlywood {
+  color: #583c18;
+  background-color: #DEB887;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(222, 184, 135, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(222, 184, 135, 0.6); }
+
+.glow-cadetblue {
+  color: #172626;
+  background-color: #5F9EA0;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(95, 158, 160, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(95, 158, 160, 0.6); }
+
+.glow-chartreuse {
+  color: #306100;
+  background-color: #7FFF00;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(127, 255, 0, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(127, 255, 0, 0.6); }
+
+.glow-chocolate {
+  color: #281406;
+  background-color: #D2691E;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(210, 105, 30, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(210, 105, 30, 0.6); }
+
+.glow-coral {
+  color: #5f1a00;
+  background-color: #FF7F50;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 127, 80, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 127, 80, 0.6); }
+
+.glow-cornflowerblue {
+  color: #0a2453;
+  background-color: #6495ED;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(100, 149, 237, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(100, 149, 237, 0.6); }
+
+.glow-cornsilk {
+  color: #7b6200;
+  background-color: #FFF8DC;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 248, 220, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 248, 220, 0.6); }
+
+.glow-crimson {
+  color: white;
+  background-color: #DC143C;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(220, 20, 60, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(220, 20, 60, 0.6); }
+
+.glow-cyan {
+  color: #006161;
+  background-color: #00FFFF;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 255, 255, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 255, 255, 0.6); }
+
+.glow-darkblue {
+  color: #8686ff;
+  background-color: #00008B;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 0, 139, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 0, 139, 0.6); }
+
+.glow-darkcyan {
+  color: white;
+  background-color: #008B8B;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 139, 139, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 139, 139, 0.6); }
+
+.glow-darkgoldenrod {
+  color: #2c2003;
+  background-color: #B8860B;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(184, 134, 11, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(184, 134, 11, 0.6); }
+
+.glow-darkgray {
+  color: #363636;
+  background-color: #A9A9A9;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(169, 169, 169, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(169, 169, 169, 0.6); }
+
+.glow-darkgrey {
+  color: #363636;
+  background-color: #A9A9A9;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(169, 169, 169, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(169, 169, 169, 0.6); }
+
+.glow-darkgreen {
+  color: #3bff3b;
+  background-color: #006400;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 100, 0, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 100, 0, 0.6); }
+
+.glow-darkkhaki {
+  color: #403d1c;
+  background-color: #BDB76B;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(189, 183, 107, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(189, 183, 107, 0.6); }
+
+.glow-darkmagenta {
+  color: #ffb4ff;
+  background-color: #8B008B;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(139, 0, 139, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(139, 0, 139, 0.6); }
+
+.glow-darkolivegreen {
+  color: #f2f6ea;
+  background-color: #556B2F;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(85, 107, 47, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(85, 107, 47, 0.6); }
+
+.glow-darkorange {
+  color: #522d00;
+  background-color: #FF8C00;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 140, 0, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 140, 0, 0.6); }
+
+.glow-darkorchid {
+  color: #fbf6fd;
+  background-color: #9932CC;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(153, 50, 204, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(153, 50, 204, 0.6); }
+
+.glow-darkred {
+  color: #ffa5a5;
+  background-color: #8B0000;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(139, 0, 0, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(139, 0, 0, 0.6); }
+
+.glow-darksalmon {
+  color: #5f2410;
+  background-color: #E9967A;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(233, 150, 122, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(233, 150, 122, 0.6); }
+
+.glow-darkseagreen {
+  color: #264026;
+  background-color: #8FBC8F;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(143, 188, 143, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(143, 188, 143, 0.6); }
+
+.glow-darkslateblue {
+  color: #c5c0e3;
+  background-color: #483D8B;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(72, 61, 139, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(72, 61, 139, 0.6); }
+
+.glow-darkslategray {
+  color: #abcdcd;
+  background-color: #2F4F4F;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(47, 79, 79, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(47, 79, 79, 0.6); }
+
+.glow-darkslategrey {
+  color: #abcdcd;
+  background-color: #2F4F4F;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(47, 79, 79, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(47, 79, 79, 0.6); }
+
+.glow-darkturquoise {
+  color: #004647;
+  background-color: #00CED1;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 206, 209, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 206, 209, 0.6); }
+
+.glow-darkviolet {
+  color: #f5ddff;
+  background-color: #9400D3;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(148, 0, 211, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(148, 0, 211, 0.6); }
+
+.glow-deeppink {
+  color: #2e0019;
+  background-color: #FF1493;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 20, 147, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 20, 147, 0.6); }
+
+.glow-deepskyblue {
+  color: #003d52;
+  background-color: #00BFFF;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 191, 255, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 191, 255, 0.6); }
+
+.glow-dimgray {
+  color: white;
+  background-color: #696969;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(105, 105, 105, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(105, 105, 105, 0.6); }
+
+.glow-dimgrey {
+  color: white;
+  background-color: #696969;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(105, 105, 105, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(105, 105, 105, 0.6); }
+
+.glow-dodgerblue {
+  color: #001f3d;
+  background-color: #1E90FF;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(30, 144, 255, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(30, 144, 255, 0.6); }
+
+.glow-firebrick {
+  color: #fae3e3;
+  background-color: #B22222;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(178, 34, 34, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(178, 34, 34, 0.6); }
+
+.glow-floralwhite {
+  color: #8a5c00;
+  background-color: #FFFAF0;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 250, 240, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 250, 240, 0.6); }
+
+.glow-forestgreen {
+  color: white;
+  background-color: #228B22;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(34, 139, 34, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(34, 139, 34, 0.6); }
+
+.glow-fuchsia {
+  color: #3d003d;
+  background-color: #FF00FF;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 0, 255, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 0, 255, 0.6); }
+
+.glow-gainsboro {
+  color: #555555;
+  background-color: #DCDCDC;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(220, 220, 220, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(220, 220, 220, 0.6); }
+
+.glow-ghostwhite {
+  color: #5050ff;
+  background-color: #F8F8FF;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(248, 248, 255, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(248, 248, 255, 0.6); }
+
+.glow-gold {
+  color: #615200;
+  background-color: #FFD700;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 215, 0, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 215, 0, 0.6); }
+
+.glow-goldenrod {
+  color: #47360a;
+  background-color: #DAA520;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(218, 165, 32, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(218, 165, 32, 0.6); }
+
+.glow-gray {
+  color: #121212;
+  background-color: #808080;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(128, 128, 128, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(128, 128, 128, 0.6); }
+
+.glow-grey {
+  color: #121212;
+  background-color: #808080;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(128, 128, 128, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(128, 128, 128, 0.6); }
+
+.glow-green {
+  color: white;
+  background-color: #008000;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 128, 0, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 128, 0, 0.6); }
+
+.glow-greenyellow {
+  color: #3e6700;
+  background-color: #ADFF2F;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(173, 255, 47, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(173, 255, 47, 0.6); }
+
+.glow-honeydew {
+  color: #007b00;
+  background-color: #F0FFF0;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(240, 255, 240, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(240, 255, 240, 0.6); }
+
+.glow-hotpink {
+  color: #5f002f;
+  background-color: #FF69B4;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 105, 180, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 105, 180, 0.6); }
+
+.glow-indianred {
+  color: #200a0a;
+  background-color: #CD5C5C;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(205, 92, 92, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(205, 92, 92, 0.6); }
+
+.glow-indigo {
+  color: #cc87ff;
+  background-color: #4B0082;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(75, 0, 130, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(75, 0, 130, 0.6); }
+
+.glow-ivory {
+  color: #6b6b00;
+  background-color: #FFFFF0;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 255, 240, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 255, 240, 0.6); }
+
+.glow-khaki {
+  color: #61590d;
+  background-color: #F0E68C;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(240, 230, 140, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(240, 230, 140, 0.6); }
+
+.glow-lavender {
+  color: #4949db;
+  background-color: #E6E6FA;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(230, 230, 250, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(230, 230, 250, 0.6); }
+
+.glow-lavenderblush {
+  color: #c70042;
+  background-color: #FFF0F5;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 240, 245, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 240, 245, 0.6); }
+
+.glow-lawngreen {
+  color: #2e5e00;
+  background-color: #7CFC00;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(124, 252, 0, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(124, 252, 0, 0.6); }
+
+.glow-lemonchiffon {
+  color: #716600;
+  background-color: #FFFACD;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 250, 205, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 250, 205, 0.6); }
+
+.glow-lightblue {
+  color: #1f5466;
+  background-color: #ADD8E6;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(173, 216, 230, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(173, 216, 230, 0.6); }
+
+.glow-lightcoral {
+  color: #610b0b;
+  background-color: #F08080;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(240, 128, 128, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(240, 128, 128, 0.6); }
+
+.glow-lightcyan {
+  color: #007070;
+  background-color: #E0FFFF;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(224, 255, 255, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(224, 255, 255, 0.6); }
+
+.glow-lightgoldenrodyellow {
+  color: #66660b;
+  background-color: #FAFAD2;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(250, 250, 210, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(250, 250, 210, 0.6); }
+
+.glow-lightgray {
+  color: #515151;
+  background-color: #D3D3D3;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(211, 211, 211, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(211, 211, 211, 0.6); }
+
+.glow-lightgrey {
+  color: #515151;
+  background-color: #D3D3D3;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(211, 211, 211, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(211, 211, 211, 0.6); }
+
+.glow-lightgreen {
+  color: #0f610f;
+  background-color: #90EE90;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(144, 238, 144, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(144, 238, 144, 0.6); }
+
+.glow-lightpink {
+  color: #970017;
+  background-color: #FFB6C1;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 182, 193, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 182, 193, 0.6); }
+
+.glow-lightsalmon {
+  color: #752100;
+  background-color: #FFA07A;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 160, 122, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 160, 122, 0.6); }
+
+.glow-lightseagreen {
+  color: #09302e;
+  background-color: #20B2AA;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(32, 178, 170, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(32, 178, 170, 0.6); }
+
+.glow-lightskyblue {
+  color: #054c78;
+  background-color: #87CEFA;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(135, 206, 250, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(135, 206, 250, 0.6); }
+
+.glow-lightslategray {
+  color: #171a1e;
+  background-color: #778899;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(119, 136, 153, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(119, 136, 153, 0.6); }
+
+.glow-lightslategrey {
+  color: #171a1e;
+  background-color: #778899;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(119, 136, 153, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(119, 136, 153, 0.6); }
+
+.glow-lightsteelblue {
+  color: #2d486c;
+  background-color: #B0C4DE;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(176, 196, 222, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(176, 196, 222, 0.6); }
+
+.glow-lightyellow {
+  color: #6b6b00;
+  background-color: #FFFFE0;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 255, 224, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 255, 224, 0.6); }
+
+.glow-lime {
+  color: #006100;
+  background-color: #00FF00;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 255, 0, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 255, 0, 0.6); }
+
+.glow-limegreen {
+  color: #104210;
+  background-color: #32CD32;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(50, 205, 50, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(50, 205, 50, 0.6); }
+
+.glow-linen {
+  color: #89521b;
+  background-color: #FAF0E6;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(250, 240, 230, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(250, 240, 230, 0.6); }
+
+.glow-magenta {
+  color: #3d003d;
+  background-color: #FF00FF;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 0, 255, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 0, 255, 0.6); }
+
+.glow-maroon {
+  color: #ff9a9a;
+  background-color: #800000;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(128, 0, 0, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(128, 0, 0, 0.6); }
+
+.glow-mediumaquamarine {
+  color: #184a39;
+  background-color: #66CDAA;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(102, 205, 170, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(102, 205, 170, 0.6); }
+
+.glow-mediumblue {
+  color: #9f9fff;
+  background-color: #0000CD;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 0, 205, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 0, 205, 0.6); }
+
+.glow-mediumorchid {
+  color: #1c0821;
+  background-color: #BA55D3;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(186, 85, 211, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(186, 85, 211, 0.6); }
+
+.glow-mediumpurple {
+  color: #1a0d35;
+  background-color: #9370DB;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(147, 112, 219, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(147, 112, 219, 0.6); }
+
+.glow-mediumseagreen {
+  color: #10311f;
+  background-color: #3CB371;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(60, 179, 113, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(60, 179, 113, 0.6); }
+
+.glow-mediumslateblue {
+  color: white;
+  background-color: #7B68EE;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(123, 104, 238, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(123, 104, 238, 0.6); }
+
+.glow-mediumspringgreen {
+  color: #005c39;
+  background-color: #00FA9A;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 250, 154, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 250, 154, 0.6); }
+
+.glow-mediumturquoise {
+  color: #134a48;
+  background-color: #48D1CC;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(72, 209, 204, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(72, 209, 204, 0.6); }
+
+.glow-mediumvioletred {
+  color: white;
+  background-color: #C71585;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(199, 21, 133, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(199, 21, 133, 0.6); }
+
+.glow-midnightblue {
+  color: #8a8ae5;
+  background-color: #191970;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(25, 25, 112, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(25, 25, 112, 0.6); }
+
+.glow-mintcream {
+  color: #007b3d;
+  background-color: #F5FFFA;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(245, 255, 250, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(245, 255, 250, 0.6); }
+
+.glow-mistyrose {
+  color: #bd1300;
+  background-color: #FFE4E1;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 228, 225, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 228, 225, 0.6); }
+
+.glow-moccasin {
+  color: #7d4f00;
+  background-color: #FFE4B5;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 228, 181, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 228, 181, 0.6); }
+
+.glow-navajowhite {
+  color: #7f4c00;
+  background-color: #FFDEAD;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 222, 173, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 222, 173, 0.6); }
+
+.glow-navy {
+  color: #8585ff;
+  background-color: #000080;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 0, 128, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 0, 128, 0.6); }
+
+.glow-oldlace {
+  color: #83590a;
+  background-color: #FDF5E6;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(253, 245, 230, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(253, 245, 230, 0.6); }
+
+.glow-olive {
+  color: white;
+  background-color: #808000;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(128, 128, 0, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(128, 128, 0, 0.6); }
+
+.glow-olivedrab {
+  color: #0f1305;
+  background-color: #6B8E23;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(107, 142, 35, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(107, 142, 35, 0.6); }
+
+.glow-orange {
+  color: #573800;
+  background-color: #FFA500;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 165, 0, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 165, 0, 0.6); }
+
+.glow-orangered {
+  color: #380f00;
+  background-color: #FF4500;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 69, 0, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 69, 0, 0.6); }
+
+.glow-orchid {
+  color: #481346;
+  background-color: #DA70D6;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(218, 112, 214, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(218, 112, 214, 0.6); }
+
+.glow-palegoldenrod {
+  color: #625b14;
+  background-color: #EEE8AA;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(238, 232, 170, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(238, 232, 170, 0.6); }
+
+.glow-palegreen {
+  color: #046704;
+  background-color: #98FB98;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(152, 251, 152, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(152, 251, 152, 0.6); }
+
+.glow-paleturquoise {
+  color: #156565;
+  background-color: #AFEEEE;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(175, 238, 238, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(175, 238, 238, 0.6); }
+
+.glow-palevioletred {
+  color: #451122;
+  background-color: #DB7093;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(219, 112, 147, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(219, 112, 147, 0.6); }
+
+.glow-papayawhip {
+  color: #895500;
+  background-color: #FFEFD5;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 239, 213, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 239, 213, 0.6); }
+
+.glow-peachpuff {
+  color: #8b4200;
+  background-color: #FFDAB9;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 218, 185, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 218, 185, 0.6); }
+
+.glow-peru {
+  color: #37220e;
+  background-color: #CD853F;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(205, 133, 63, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(205, 133, 63, 0.6); }
+
+.glow-pink {
+  color: #a1001c;
+  background-color: #FFC0CB;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 192, 203, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 192, 203, 0.6); }
+
+.glow-plum {
+  color: #642464;
+  background-color: #DDA0DD;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(221, 160, 221, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(221, 160, 221, 0.6); }
+
+.glow-powderblue {
+  color: #1f5c63;
+  background-color: #B0E0E6;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(176, 224, 230, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(176, 224, 230, 0.6); }
+
+.glow-purple {
+  color: #ffa4ff;
+  background-color: #800080;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(128, 0, 128, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(128, 0, 128, 0.6); }
+
+.glow-rebeccapurple {
+  color: #d9c6ec;
+  background-color: #663399;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(102, 51, 153, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(102, 51, 153, 0.6); }
+
+.glow-red {
+  color: white;
+  background-color: #FF0000;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 0, 0, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 0, 0, 0.6); }
+
+.glow-rosybrown {
+  color: #3c2424;
+  background-color: #BC8F8F;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(188, 143, 143, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(188, 143, 143, 0.6); }
+
+.glow-royalblue {
+  color: white;
+  background-color: #4169E1;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(65, 105, 225, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(65, 105, 225, 0.6); }
+
+.glow-saddlebrown {
+  color: #f8dcc9;
+  background-color: #8B4513;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(139, 69, 19, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(139, 69, 19, 0.6); }
+
+.glow-salmon {
+  color: #640e04;
+  background-color: #FA8072;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(250, 128, 114, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(250, 128, 114, 0.6); }
+
+.glow-sandybrown {
+  color: #633107;
+  background-color: #F4A460;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(244, 164, 96, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(244, 164, 96, 0.6); }
+
+.glow-seagreen {
+  color: white;
+  background-color: #2E8B57;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(46, 139, 87, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(46, 139, 87, 0.6); }
+
+.glow-seashell {
+  color: #a74500;
+  background-color: #FFF5EE;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 245, 238, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 245, 238, 0.6); }
+
+.glow-sienna {
+  color: white;
+  background-color: #A0522D;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(160, 82, 45, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(160, 82, 45, 0.6); }
+
+.glow-silver {
+  color: #434343;
+  background-color: #C0C0C0;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(192, 192, 192, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(192, 192, 192, 0.6); }
+
+.glow-skyblue {
+  color: #114e67;
+  background-color: #87CEEB;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(135, 206, 235, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(135, 206, 235, 0.6); }
+
+.glow-slateblue {
+  color: white;
+  background-color: #6A5ACD;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(106, 90, 205, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(106, 90, 205, 0.6); }
+
+.glow-slategray {
+  color: white;
+  background-color: #708090;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(112, 128, 144, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(112, 128, 144, 0.6); }
+
+.glow-slategrey {
+  color: white;
+  background-color: #708090;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(112, 128, 144, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(112, 128, 144, 0.6); }
+
+.glow-snow {
+  color: #d10000;
+  background-color: #FFFAFA;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 250, 250, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 250, 250, 0.6); }
+
+.glow-springgreen {
+  color: #006130;
+  background-color: #00FF7F;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 255, 127, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 255, 127, 0.6); }
+
+.glow-steelblue {
+  color: white;
+  background-color: #4682B4;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(70, 130, 180, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(70, 130, 180, 0.6); }
+
+.glow-tan {
+  color: #533d20;
+  background-color: #D2B48C;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(210, 180, 140, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(210, 180, 140, 0.6); }
+
+.glow-teal {
+  color: white;
+  background-color: #008080;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 128, 128, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(0, 128, 128, 0.6); }
+
+.glow-thistle {
+  color: #623b62;
+  background-color: #D8BFD8;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(216, 191, 216, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(216, 191, 216, 0.6); }
+
+.glow-tomato {
+  color: #510c00;
+  background-color: #FF6347;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 99, 71, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 99, 71, 0.6); }
+
+.glow-turquoise {
+  color: #0d514a;
+  background-color: #40E0D0;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(64, 224, 208, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(64, 224, 208, 0.6); }
+
+.glow-violet {
+  color: #630e63;
+  background-color: #EE82EE;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(238, 130, 238, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(238, 130, 238, 0.6); }
+
+.glow-wheat {
+  color: #714f0f;
+  background-color: #F5DEB3;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(245, 222, 179, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(245, 222, 179, 0.6); }
+
+.glow-white {
+  color: dimgray;
+  background-color: #FFFFFF;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 255, 255, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 255, 255, 0.6); }
+
+.glow-whitesmoke {
+  color: #646464;
+  background-color: #F5F5F5;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(245, 245, 245, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(245, 245, 245, 0.6); }
+
+.glow-yellow {
+  color: #666600;
+  background-color: #FFFF00;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 255, 0, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(255, 255, 0, 0.6); }
+
+.glow-yellowgreen {
+  color: #344611;
+  background-color: #9ACD32;
+  border: 0px solid transparent !important;
+  -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(154, 205, 50, 0.6);
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.9), 0 0px 5px 5px rgba(154, 205, 50, 0.6); }
+
+/*# sourceMappingURL=colorstrap-glow.css.map */
