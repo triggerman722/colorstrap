@@ -1,0 +1,741 @@
+.card-aliceblue {
+  color: #0068c2;
+  border-color: #c0c6cc !important;
+  background-color: #F0F8FF; }
+
+.card-antiquewhite {
+  color: #845311;
+  border-color: #c8bcac !important;
+  background-color: #FAEBD7; }
+
+.card-aqua {
+  color: #006161;
+  border-color: #00cccc !important;
+  background-color: #00FFFF; }
+
+.card-aquamarine {
+  color: #006643;
+  border-color: #66ccaa !important;
+  background-color: #7FFFD4; }
+
+.card-azure {
+  color: #007676;
+  border-color: #c0cccc !important;
+  background-color: #F0FFFF; }
+
+.card-beige {
+  color: #64641d;
+  border-color: #c4c4b0 !important;
+  background-color: #F5F5DC; }
+
+.card-bisque {
+  color: #8c4c00;
+  border-color: #ccb69d !important;
+  background-color: #FFE4C4; }
+
+.card-black {
+  color: #7a7a7a;
+  border-color: black !important;
+  background-color: #000000; }
+
+.card-blanchedalmond {
+  color: #865000;
+  border-color: #ccbca4 !important;
+  background-color: #FFEBCD; }
+
+.card-blue {
+  color: #b8b8ff;
+  border-color: #0000cc !important;
+  background-color: #0000FF; }
+
+.card-blueviolet {
+  color: #f4ecfc;
+  border-color: #6e22b5 !important;
+  background-color: #8A2BE2; }
+
+.card-brown {
+  color: #f6dddd;
+  border-color: #842222 !important;
+  background-color: #A52A2A; }
+
+.card-burlywood {
+  color: #583c18;
+  border-color: #b2936c !important;
+  background-color: #DEB887; }
+
+.card-cadetblue {
+  color: #172626;
+  border-color: #4c7e80 !important;
+  background-color: #5F9EA0; }
+
+.card-chartreuse {
+  color: #306100;
+  border-color: #66cc00 !important;
+  background-color: #7FFF00; }
+
+.card-chocolate {
+  color: #281406;
+  border-color: #a85418 !important;
+  background-color: #D2691E; }
+
+.card-coral {
+  color: #5f1a00;
+  border-color: #cc6640 !important;
+  background-color: #FF7F50; }
+
+.card-cornflowerblue {
+  color: #0a2453;
+  border-color: #5077be !important;
+  background-color: #6495ED; }
+
+.card-cornsilk {
+  color: #7b6200;
+  border-color: #ccc6b0 !important;
+  background-color: #FFF8DC; }
+
+.card-crimson {
+  color: white;
+  border-color: #b01030 !important;
+  background-color: #DC143C; }
+
+.card-cyan {
+  color: #006161;
+  border-color: #00cccc !important;
+  background-color: #00FFFF; }
+
+.card-darkblue {
+  color: #8686ff;
+  border-color: #00006f !important;
+  background-color: #00008B; }
+
+.card-darkcyan {
+  color: white;
+  border-color: #006f6f !important;
+  background-color: #008B8B; }
+
+.card-darkgoldenrod {
+  color: #2c2003;
+  border-color: #936b09 !important;
+  background-color: #B8860B; }
+
+.card-darkgray {
+  color: #363636;
+  border-color: #878787 !important;
+  background-color: #A9A9A9; }
+
+.card-darkgrey {
+  color: #363636;
+  border-color: #878787 !important;
+  background-color: #A9A9A9; }
+
+.card-darkgreen {
+  color: #3bff3b;
+  border-color: #005000 !important;
+  background-color: #006400; }
+
+.card-darkkhaki {
+  color: #403d1c;
+  border-color: #979256 !important;
+  background-color: #BDB76B; }
+
+.card-darkmagenta {
+  color: #ffb4ff;
+  border-color: #6f006f !important;
+  background-color: #8B008B; }
+
+.card-darkolivegreen {
+  color: #f2f6ea;
+  border-color: #445626 !important;
+  background-color: #556B2F; }
+
+.card-darkorange {
+  color: #522d00;
+  border-color: #cc7000 !important;
+  background-color: #FF8C00; }
+
+.card-darkorchid {
+  color: #fbf6fd;
+  border-color: #7a28a3 !important;
+  background-color: #9932CC; }
+
+.card-darkred {
+  color: #ffa5a5;
+  border-color: #6f0000 !important;
+  background-color: #8B0000; }
+
+.card-darksalmon {
+  color: #5f2410;
+  border-color: #ba7862 !important;
+  background-color: #E9967A; }
+
+.card-darkseagreen {
+  color: #264026;
+  border-color: #729672 !important;
+  background-color: #8FBC8F; }
+
+.card-darkslateblue {
+  color: #c5c0e3;
+  border-color: #3a316f !important;
+  background-color: #483D8B; }
+
+.card-darkslategray {
+  color: #abcdcd;
+  border-color: #263f3f !important;
+  background-color: #2F4F4F; }
+
+.card-darkslategrey {
+  color: #abcdcd;
+  border-color: #263f3f !important;
+  background-color: #2F4F4F; }
+
+.card-darkturquoise {
+  color: #004647;
+  border-color: #00a5a7 !important;
+  background-color: #00CED1; }
+
+.card-darkviolet {
+  color: #f5ddff;
+  border-color: #7600a9 !important;
+  background-color: #9400D3; }
+
+.card-deeppink {
+  color: #2e0019;
+  border-color: #cc1076 !important;
+  background-color: #FF1493; }
+
+.card-deepskyblue {
+  color: #003d52;
+  border-color: #0099cc !important;
+  background-color: #00BFFF; }
+
+.card-dimgray {
+  color: white;
+  border-color: #545454 !important;
+  background-color: #696969; }
+
+.card-dimgrey {
+  color: white;
+  border-color: #545454 !important;
+  background-color: #696969; }
+
+.card-dodgerblue {
+  color: #001f3d;
+  border-color: #1873cc !important;
+  background-color: #1E90FF; }
+
+.card-firebrick {
+  color: #fae3e3;
+  border-color: #8e1b1b !important;
+  background-color: #B22222; }
+
+.card-floralwhite {
+  color: #8a5c00;
+  border-color: #ccc8c0 !important;
+  background-color: #FFFAF0; }
+
+.card-forestgreen {
+  color: white;
+  border-color: #1b6f1b !important;
+  background-color: #228B22; }
+
+.card-fuchsia {
+  color: #3d003d;
+  border-color: #cc00cc !important;
+  background-color: #FF00FF; }
+
+.card-gainsboro {
+  color: #555555;
+  border-color: #b0b0b0 !important;
+  background-color: #DCDCDC; }
+
+.card-ghostwhite {
+  color: #5050ff;
+  border-color: #c6c6cc !important;
+  background-color: #F8F8FF; }
+
+.card-gold {
+  color: #615200;
+  border-color: #ccac00 !important;
+  background-color: #FFD700; }
+
+.card-goldenrod {
+  color: #47360a;
+  border-color: #ae841a !important;
+  background-color: #DAA520; }
+
+.card-gray {
+  color: #121212;
+  border-color: #666666 !important;
+  background-color: #808080; }
+
+.card-grey {
+  color: #121212;
+  border-color: #666666 !important;
+  background-color: #808080; }
+
+.card-green {
+  color: white;
+  border-color: #006600 !important;
+  background-color: #008000; }
+
+.card-greenyellow {
+  color: #3e6700;
+  border-color: #8acc26 !important;
+  background-color: #ADFF2F; }
+
+.card-honeydew {
+  color: #007b00;
+  border-color: #c0ccc0 !important;
+  background-color: #F0FFF0; }
+
+.card-hotpink {
+  color: #5f002f;
+  border-color: #cc5490 !important;
+  background-color: #FF69B4; }
+
+.card-indianred {
+  color: #200a0a;
+  border-color: #a44a4a !important;
+  background-color: #CD5C5C; }
+
+.card-indigo {
+  color: #cc87ff;
+  border-color: #3c0068 !important;
+  background-color: #4B0082; }
+
+.card-ivory {
+  color: #6b6b00;
+  border-color: #ccccc0 !important;
+  background-color: #FFFFF0; }
+
+.card-khaki {
+  color: #61590d;
+  border-color: #c0b870 !important;
+  background-color: #F0E68C; }
+
+.card-lavender {
+  color: #4949db;
+  border-color: #b8b8c8 !important;
+  background-color: #E6E6FA; }
+
+.card-lavenderblush {
+  color: #c70042;
+  border-color: #ccc0c4 !important;
+  background-color: #FFF0F5; }
+
+.card-lawngreen {
+  color: #2e5e00;
+  border-color: #63ca00 !important;
+  background-color: #7CFC00; }
+
+.card-lemonchiffon {
+  color: #716600;
+  border-color: #ccc8a4 !important;
+  background-color: #FFFACD; }
+
+.card-lightblue {
+  color: #1f5466;
+  border-color: #8aadb8 !important;
+  background-color: #ADD8E6; }
+
+.card-lightcoral {
+  color: #610b0b;
+  border-color: #c06666 !important;
+  background-color: #F08080; }
+
+.card-lightcyan {
+  color: #007070;
+  border-color: #b3cccc !important;
+  background-color: #E0FFFF; }
+
+.card-lightgoldenrodyellow {
+  color: #66660b;
+  border-color: #c8c8a8 !important;
+  background-color: #FAFAD2; }
+
+.card-lightgray {
+  color: #515151;
+  border-color: darkgray !important;
+  background-color: #D3D3D3; }
+
+.card-lightgrey {
+  color: #515151;
+  border-color: darkgray !important;
+  background-color: #D3D3D3; }
+
+.card-lightgreen {
+  color: #0f610f;
+  border-color: #73be73 !important;
+  background-color: #90EE90; }
+
+.card-lightpink {
+  color: #970017;
+  border-color: #cc929a !important;
+  background-color: #FFB6C1; }
+
+.card-lightsalmon {
+  color: #752100;
+  border-color: #cc8062 !important;
+  background-color: #FFA07A; }
+
+.card-lightseagreen {
+  color: #09302e;
+  border-color: #1a8e88 !important;
+  background-color: #20B2AA; }
+
+.card-lightskyblue {
+  color: #054c78;
+  border-color: #6ca5c8 !important;
+  background-color: #87CEFA; }
+
+.card-lightslategray {
+  color: #171a1e;
+  border-color: #5f6d7a !important;
+  background-color: #778899; }
+
+.card-lightslategrey {
+  color: #171a1e;
+  border-color: #5f6d7a !important;
+  background-color: #778899; }
+
+.card-lightsteelblue {
+  color: #2d486c;
+  border-color: #8d9db2 !important;
+  background-color: #B0C4DE; }
+
+.card-lightyellow {
+  color: #6b6b00;
+  border-color: #ccccb3 !important;
+  background-color: #FFFFE0; }
+
+.card-lime {
+  color: #006100;
+  border-color: #00cc00 !important;
+  background-color: #00FF00; }
+
+.card-limegreen {
+  color: #104210;
+  border-color: #28a428 !important;
+  background-color: #32CD32; }
+
+.card-linen {
+  color: #89521b;
+  border-color: #c8c0b8 !important;
+  background-color: #FAF0E6; }
+
+.card-magenta {
+  color: #3d003d;
+  border-color: #cc00cc !important;
+  background-color: #FF00FF; }
+
+.card-maroon {
+  color: #ff9a9a;
+  border-color: #660000 !important;
+  background-color: #800000; }
+
+.card-mediumaquamarine {
+  color: #184a39;
+  border-color: #52a488 !important;
+  background-color: #66CDAA; }
+
+.card-mediumblue {
+  color: #9f9fff;
+  border-color: #0000a4 !important;
+  background-color: #0000CD; }
+
+.card-mediumorchid {
+  color: #1c0821;
+  border-color: #9544a9 !important;
+  background-color: #BA55D3; }
+
+.card-mediumpurple {
+  color: #1a0d35;
+  border-color: #765aaf !important;
+  background-color: #9370DB; }
+
+.card-mediumseagreen {
+  color: #10311f;
+  border-color: #308f5a !important;
+  background-color: #3CB371; }
+
+.card-mediumslateblue {
+  color: white;
+  border-color: #6253be !important;
+  background-color: #7B68EE; }
+
+.card-mediumspringgreen {
+  color: #005c39;
+  border-color: #00c87b !important;
+  background-color: #00FA9A; }
+
+.card-mediumturquoise {
+  color: #134a48;
+  border-color: #3aa7a3 !important;
+  background-color: #48D1CC; }
+
+.card-mediumvioletred {
+  color: white;
+  border-color: #9f116a !important;
+  background-color: #C71585; }
+
+.card-midnightblue {
+  color: #8a8ae5;
+  border-color: #14145a !important;
+  background-color: #191970; }
+
+.card-mintcream {
+  color: #007b3d;
+  border-color: #c4ccc8 !important;
+  background-color: #F5FFFA; }
+
+.card-mistyrose {
+  color: #bd1300;
+  border-color: #ccb6b4 !important;
+  background-color: #FFE4E1; }
+
+.card-moccasin {
+  color: #7d4f00;
+  border-color: #ccb691 !important;
+  background-color: #FFE4B5; }
+
+.card-navajowhite {
+  color: #7f4c00;
+  border-color: #ccb28a !important;
+  background-color: #FFDEAD; }
+
+.card-navy {
+  color: #8585ff;
+  border-color: #000066 !important;
+  background-color: #000080; }
+
+.card-oldlace {
+  color: #83590a;
+  border-color: #cac4b8 !important;
+  background-color: #FDF5E6; }
+
+.card-olive {
+  color: white;
+  border-color: #666600 !important;
+  background-color: #808000; }
+
+.card-olivedrab {
+  color: #0f1305;
+  border-color: #56721c !important;
+  background-color: #6B8E23; }
+
+.card-orange {
+  color: #573800;
+  border-color: #cc8400 !important;
+  background-color: #FFA500; }
+
+.card-orangered {
+  color: #380f00;
+  border-color: #cc3700 !important;
+  background-color: #FF4500; }
+
+.card-orchid {
+  color: #481346;
+  border-color: #ae5aab !important;
+  background-color: #DA70D6; }
+
+.card-palegoldenrod {
+  color: #625b14;
+  border-color: #beba88 !important;
+  background-color: #EEE8AA; }
+
+.card-palegreen {
+  color: #046704;
+  border-color: #7ac97a !important;
+  background-color: #98FB98; }
+
+.card-paleturquoise {
+  color: #156565;
+  border-color: #8cbebe !important;
+  background-color: #AFEEEE; }
+
+.card-palevioletred {
+  color: #451122;
+  border-color: #af5a76 !important;
+  background-color: #DB7093; }
+
+.card-papayawhip {
+  color: #895500;
+  border-color: #ccbfaa !important;
+  background-color: #FFEFD5; }
+
+.card-peachpuff {
+  color: #8b4200;
+  border-color: #ccae94 !important;
+  background-color: #FFDAB9; }
+
+.card-peru {
+  color: #37220e;
+  border-color: #a46a32 !important;
+  background-color: #CD853F; }
+
+.card-pink {
+  color: #a1001c;
+  border-color: #cc9aa2 !important;
+  background-color: #FFC0CB; }
+
+.card-plum {
+  color: #642464;
+  border-color: #b180b1 !important;
+  background-color: #DDA0DD; }
+
+.card-powderblue {
+  color: #1f5c63;
+  border-color: #8db3b8 !important;
+  background-color: #B0E0E6; }
+
+.card-purple {
+  color: #ffa4ff;
+  border-color: #660066 !important;
+  background-color: #800080; }
+
+.card-rebeccapurple {
+  color: #d9c6ec;
+  border-color: #52297a !important;
+  background-color: #663399; }
+
+.card-red {
+  color: white;
+  border-color: #cc0000 !important;
+  background-color: #FF0000; }
+
+.card-rosybrown {
+  color: #3c2424;
+  border-color: #967272 !important;
+  background-color: #BC8F8F; }
+
+.card-royalblue {
+  color: white;
+  border-color: #3454b4 !important;
+  background-color: #4169E1; }
+
+.card-saddlebrown {
+  color: #f8dcc9;
+  border-color: #6f370f !important;
+  background-color: #8B4513; }
+
+.card-salmon {
+  color: #640e04;
+  border-color: #c8665b !important;
+  background-color: #FA8072; }
+
+.card-sandybrown {
+  color: #633107;
+  border-color: #c3834d !important;
+  background-color: #F4A460; }
+
+.card-seagreen {
+  color: white;
+  border-color: #256f46 !important;
+  background-color: #2E8B57; }
+
+.card-seashell {
+  color: #a74500;
+  border-color: #ccc4be !important;
+  background-color: #FFF5EE; }
+
+.card-sienna {
+  color: white;
+  border-color: #804224 !important;
+  background-color: #A0522D; }
+
+.card-silver {
+  color: #434343;
+  border-color: #9a9a9a !important;
+  background-color: #C0C0C0; }
+
+.card-skyblue {
+  color: #114e67;
+  border-color: #6ca5bc !important;
+  background-color: #87CEEB; }
+
+.card-slateblue {
+  color: white;
+  border-color: #5548a4 !important;
+  background-color: #6A5ACD; }
+
+.card-slategray {
+  color: white;
+  border-color: #5a6673 !important;
+  background-color: #708090; }
+
+.card-slategrey {
+  color: white;
+  border-color: #5a6673 !important;
+  background-color: #708090; }
+
+.card-snow {
+  color: #d10000;
+  border-color: #ccc8c8 !important;
+  background-color: #FFFAFA; }
+
+.card-springgreen {
+  color: #006130;
+  border-color: #00cc66 !important;
+  background-color: #00FF7F; }
+
+.card-steelblue {
+  color: white;
+  border-color: #386890 !important;
+  background-color: #4682B4; }
+
+.card-tan {
+  color: #533d20;
+  border-color: #a89070 !important;
+  background-color: #D2B48C; }
+
+.card-teal {
+  color: white;
+  border-color: #006666 !important;
+  background-color: #008080; }
+
+.card-thistle {
+  color: #623b62;
+  border-color: #ad99ad !important;
+  background-color: #D8BFD8; }
+
+.card-tomato {
+  color: #510c00;
+  border-color: #cc4f39 !important;
+  background-color: #FF6347; }
+
+.card-turquoise {
+  color: #0d514a;
+  border-color: #33b3a6 !important;
+  background-color: #40E0D0; }
+
+.card-violet {
+  color: #630e63;
+  border-color: #be68be !important;
+  background-color: #EE82EE; }
+
+.card-wheat {
+  color: #714f0f;
+  border-color: #c4b28f !important;
+  background-color: #F5DEB3; }
+
+.card-white {
+  color: dimgray;
+  border-color: #cccccc !important;
+  background-color: #FFFFFF; }
+
+.card-whitesmoke {
+  color: #646464;
+  border-color: #c4c4c4 !important;
+  background-color: #F5F5F5; }
+
+.card-yellow {
+  color: #666600;
+  border-color: #cccc00 !important;
+  background-color: #FFFF00; }
+
+.card-yellowgreen {
+  color: #344611;
+  border-color: #7ba428 !important;
+  background-color: #9ACD32; }
+
+/*# sourceMappingURL=colorstrap-card.css.map */

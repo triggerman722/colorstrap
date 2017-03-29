@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,mBAAoB;EAClB,gBAAgB,EAAE,4LAAyL;EAC3M,gBAAgB,EAAO,uLAAoL;EAC3M,gBAAgB,EAAU,oLAAiL;EAC3M,uBAAuB,EAAE,SAAS;EAC1B,eAAe,EAAE,SAAS",
+"sources": ["../../scss/colorstrap-striped.scss"],
+"names": [],
+"file": "colorstrap-striped.css"
+}

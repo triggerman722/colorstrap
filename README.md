@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://triggerman722.github.io/clrstp/#/">
-    <img src="https://triggerman722.github.io/clrstp/data/img/logogreen.png" width=72>
+  <a href="https://triggerman722.github.io/colorstrap/#/">
+    <img src="https://triggerman722.github.io/colorstrap/data/img/logogreen.png" width=72>
   </a>
 
   <h3 align="center">Colorstrap</h3>
@@ -8,7 +8,7 @@
   <p align="center">
     Broaden your <a href="https://www.getbootstrap.com/">Bootstrap</a> color vocabulary from 4 to 140 named HTML colors.
     <br>
-    <a href="https://triggerman722.github.io/clrstp/#/"><strong>Visit Colorstrap &raquo;</strong></a>
+    <a href="https://triggerman722.github.io/colorstrap/#/"><strong>Visit Colorstrap &raquo;</strong></a>
   </p>
 </p>
 
@@ -32,7 +32,7 @@
 Several quick start options are available:
 
 - [Download the latest release.](https://github.com/triggerman722/colorstrap/dist/zip/colorstrap.zip)
-- Clone the repo: `git clone https://github.com/triggerman722/clrstp.git`
+- Clone the repo: `git clone https://github.com/triggerman722/colorstrap.git`
 
 
 ## Status
@@ -99,7 +99,7 @@ We provide compiled CSS (`colorstrap.*`), as well as compiled and minified CSS (
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? Please [search](https://github.com/triggerman722/clrstp/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20) for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/triggerman722/clrstp/issues/new).
+Have a bug or a feature request? Please [search](https://github.com/triggerman722/colorstrap/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20) for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/triggerman722/colorstrap/issues/new).
 
 
 ## Documentation
@@ -135,4 +135,4 @@ TODO
 
 ## Copyright and license
 
-Code and documentation copyright 2017 the [Colorstrap Authors](https://github.com/triggerman722/clrstp/graphs/contributors) Code released under the [Apache License 2.0](https://github.com/triggerman722/clrstp/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/triggerman722/clrstp/blob/master/docs/LICENSE).
+Code and documentation copyright 2017 the [Colorstrap Authors](https://github.com/triggerman722/colorstrap/graphs/contributors) Code released under the [Apache License 2.0](https://github.com/triggerman722/colorstrap/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/triggerman722/colorstrap/blob/master/docs/LICENSE).

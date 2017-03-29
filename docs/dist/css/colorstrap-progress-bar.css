@@ -1,0 +1,741 @@
+.progress-bar-aliceblue {
+  color: #0068c2;
+  border-color: #c0c6cc !important;
+  background-color: #F0F8FF; }
+
+.progress-bar-antiquewhite {
+  color: #845311;
+  border-color: #c8bcac !important;
+  background-color: #FAEBD7; }
+
+.progress-bar-aqua {
+  color: #006161;
+  border-color: #00cccc !important;
+  background-color: #00FFFF; }
+
+.progress-bar-aquamarine {
+  color: #006643;
+  border-color: #66ccaa !important;
+  background-color: #7FFFD4; }
+
+.progress-bar-azure {
+  color: #007676;
+  border-color: #c0cccc !important;
+  background-color: #F0FFFF; }
+
+.progress-bar-beige {
+  color: #64641d;
+  border-color: #c4c4b0 !important;
+  background-color: #F5F5DC; }
+
+.progress-bar-bisque {
+  color: #8c4c00;
+  border-color: #ccb69d !important;
+  background-color: #FFE4C4; }
+
+.progress-bar-black {
+  color: #7a7a7a;
+  border-color: black !important;
+  background-color: #000000; }
+
+.progress-bar-blanchedalmond {
+  color: #865000;
+  border-color: #ccbca4 !important;
+  background-color: #FFEBCD; }
+
+.progress-bar-blue {
+  color: #b8b8ff;
+  border-color: #0000cc !important;
+  background-color: #0000FF; }
+
+.progress-bar-blueviolet {
+  color: #f4ecfc;
+  border-color: #6e22b5 !important;
+  background-color: #8A2BE2; }
+
+.progress-bar-brown {
+  color: #f6dddd;
+  border-color: #842222 !important;
+  background-color: #A52A2A; }
+
+.progress-bar-burlywood {
+  color: #583c18;
+  border-color: #b2936c !important;
+  background-color: #DEB887; }
+
+.progress-bar-cadetblue {
+  color: #172626;
+  border-color: #4c7e80 !important;
+  background-color: #5F9EA0; }
+
+.progress-bar-chartreuse {
+  color: #306100;
+  border-color: #66cc00 !important;
+  background-color: #7FFF00; }
+
+.progress-bar-chocolate {
+  color: #281406;
+  border-color: #a85418 !important;
+  background-color: #D2691E; }
+
+.progress-bar-coral {
+  color: #5f1a00;
+  border-color: #cc6640 !important;
+  background-color: #FF7F50; }
+
+.progress-bar-cornflowerblue {
+  color: #0a2453;
+  border-color: #5077be !important;
+  background-color: #6495ED; }
+
+.progress-bar-cornsilk {
+  color: #7b6200;
+  border-color: #ccc6b0 !important;
+  background-color: #FFF8DC; }
+
+.progress-bar-crimson {
+  color: white;
+  border-color: #b01030 !important;
+  background-color: #DC143C; }
+
+.progress-bar-cyan {
+  color: #006161;
+  border-color: #00cccc !important;
+  background-color: #00FFFF; }
+
+.progress-bar-darkblue {
+  color: #8686ff;
+  border-color: #00006f !important;
+  background-color: #00008B; }
+
+.progress-bar-darkcyan {
+  color: white;
+  border-color: #006f6f !important;
+  background-color: #008B8B; }
+
+.progress-bar-darkgoldenrod {
+  color: #2c2003;
+  border-color: #936b09 !important;
+  background-color: #B8860B; }
+
+.progress-bar-darkgray {
+  color: #363636;
+  border-color: #878787 !important;
+  background-color: #A9A9A9; }
+
+.progress-bar-darkgrey {
+  color: #363636;
+  border-color: #878787 !important;
+  background-color: #A9A9A9; }
+
+.progress-bar-darkgreen {
+  color: #3bff3b;
+  border-color: #005000 !important;
+  background-color: #006400; }
+
+.progress-bar-darkkhaki {
+  color: #403d1c;
+  border-color: #979256 !important;
+  background-color: #BDB76B; }
+
+.progress-bar-darkmagenta {
+  color: #ffb4ff;
+  border-color: #6f006f !important;
+  background-color: #8B008B; }
+
+.progress-bar-darkolivegreen {
+  color: #f2f6ea;
+  border-color: #445626 !important;
+  background-color: #556B2F; }
+
+.progress-bar-darkorange {
+  color: #522d00;
+  border-color: #cc7000 !important;
+  background-color: #FF8C00; }
+
+.progress-bar-darkorchid {
+  color: #fbf6fd;
+  border-color: #7a28a3 !important;
+  background-color: #9932CC; }
+
+.progress-bar-darkred {
+  color: #ffa5a5;
+  border-color: #6f0000 !important;
+  background-color: #8B0000; }
+
+.progress-bar-darksalmon {
+  color: #5f2410;
+  border-color: #ba7862 !important;
+  background-color: #E9967A; }
+
+.progress-bar-darkseagreen {
+  color: #264026;
+  border-color: #729672 !important;
+  background-color: #8FBC8F; }
+
+.progress-bar-darkslateblue {
+  color: #c5c0e3;
+  border-color: #3a316f !important;
+  background-color: #483D8B; }
+
+.progress-bar-darkslategray {
+  color: #abcdcd;
+  border-color: #263f3f !important;
+  background-color: #2F4F4F; }
+
+.progress-bar-darkslategrey {
+  color: #abcdcd;
+  border-color: #263f3f !important;
+  background-color: #2F4F4F; }
+
+.progress-bar-darkturquoise {
+  color: #004647;
+  border-color: #00a5a7 !important;
+  background-color: #00CED1; }
+
+.progress-bar-darkviolet {
+  color: #f5ddff;
+  border-color: #7600a9 !important;
+  background-color: #9400D3; }
+
+.progress-bar-deeppink {
+  color: #2e0019;
+  border-color: #cc1076 !important;
+  background-color: #FF1493; }
+
+.progress-bar-deepskyblue {
+  color: #003d52;
+  border-color: #0099cc !important;
+  background-color: #00BFFF; }
+
+.progress-bar-dimgray {
+  color: white;
+  border-color: #545454 !important;
+  background-color: #696969; }
+
+.progress-bar-dimgrey {
+  color: white;
+  border-color: #545454 !important;
+  background-color: #696969; }
+
+.progress-bar-dodgerblue {
+  color: #001f3d;
+  border-color: #1873cc !important;
+  background-color: #1E90FF; }
+
+.progress-bar-firebrick {
+  color: #fae3e3;
+  border-color: #8e1b1b !important;
+  background-color: #B22222; }
+
+.progress-bar-floralwhite {
+  color: #8a5c00;
+  border-color: #ccc8c0 !important;
+  background-color: #FFFAF0; }
+
+.progress-bar-forestgreen {
+  color: white;
+  border-color: #1b6f1b !important;
+  background-color: #228B22; }
+
+.progress-bar-fuchsia {
+  color: #3d003d;
+  border-color: #cc00cc !important;
+  background-color: #FF00FF; }
+
+.progress-bar-gainsboro {
+  color: #555555;
+  border-color: #b0b0b0 !important;
+  background-color: #DCDCDC; }
+
+.progress-bar-ghostwhite {
+  color: #5050ff;
+  border-color: #c6c6cc !important;
+  background-color: #F8F8FF; }
+
+.progress-bar-gold {
+  color: #615200;
+  border-color: #ccac00 !important;
+  background-color: #FFD700; }
+
+.progress-bar-goldenrod {
+  color: #47360a;
+  border-color: #ae841a !important;
+  background-color: #DAA520; }
+
+.progress-bar-gray {
+  color: #121212;
+  border-color: #666666 !important;
+  background-color: #808080; }
+
+.progress-bar-grey {
+  color: #121212;
+  border-color: #666666 !important;
+  background-color: #808080; }
+
+.progress-bar-green {
+  color: white;
+  border-color: #006600 !important;
+  background-color: #008000; }
+
+.progress-bar-greenyellow {
+  color: #3e6700;
+  border-color: #8acc26 !important;
+  background-color: #ADFF2F; }
+
+.progress-bar-honeydew {
+  color: #007b00;
+  border-color: #c0ccc0 !important;
+  background-color: #F0FFF0; }
+
+.progress-bar-hotpink {
+  color: #5f002f;
+  border-color: #cc5490 !important;
+  background-color: #FF69B4; }
+
+.progress-bar-indianred {
+  color: #200a0a;
+  border-color: #a44a4a !important;
+  background-color: #CD5C5C; }
+
+.progress-bar-indigo {
+  color: #cc87ff;
+  border-color: #3c0068 !important;
+  background-color: #4B0082; }
+
+.progress-bar-ivory {
+  color: #6b6b00;
+  border-color: #ccccc0 !important;
+  background-color: #FFFFF0; }
+
+.progress-bar-khaki {
+  color: #61590d;
+  border-color: #c0b870 !important;
+  background-color: #F0E68C; }
+
+.progress-bar-lavender {
+  color: #4949db;
+  border-color: #b8b8c8 !important;
+  background-color: #E6E6FA; }
+
+.progress-bar-lavenderblush {
+  color: #c70042;
+  border-color: #ccc0c4 !important;
+  background-color: #FFF0F5; }
+
+.progress-bar-lawngreen {
+  color: #2e5e00;
+  border-color: #63ca00 !important;
+  background-color: #7CFC00; }
+
+.progress-bar-lemonchiffon {
+  color: #716600;
+  border-color: #ccc8a4 !important;
+  background-color: #FFFACD; }
+
+.progress-bar-lightblue {
+  color: #1f5466;
+  border-color: #8aadb8 !important;
+  background-color: #ADD8E6; }
+
+.progress-bar-lightcoral {
+  color: #610b0b;
+  border-color: #c06666 !important;
+  background-color: #F08080; }
+
+.progress-bar-lightcyan {
+  color: #007070;
+  border-color: #b3cccc !important;
+  background-color: #E0FFFF; }
+
+.progress-bar-lightgoldenrodyellow {
+  color: #66660b;
+  border-color: #c8c8a8 !important;
+  background-color: #FAFAD2; }
+
+.progress-bar-lightgray {
+  color: #515151;
+  border-color: darkgray !important;
+  background-color: #D3D3D3; }
+
+.progress-bar-lightgrey {
+  color: #515151;
+  border-color: darkgray !important;
+  background-color: #D3D3D3; }
+
+.progress-bar-lightgreen {
+  color: #0f610f;
+  border-color: #73be73 !important;
+  background-color: #90EE90; }
+
+.progress-bar-lightpink {
+  color: #970017;
+  border-color: #cc929a !important;
+  background-color: #FFB6C1; }
+
+.progress-bar-lightsalmon {
+  color: #752100;
+  border-color: #cc8062 !important;
+  background-color: #FFA07A; }
+
+.progress-bar-lightseagreen {
+  color: #09302e;
+  border-color: #1a8e88 !important;
+  background-color: #20B2AA; }
+
+.progress-bar-lightskyblue {
+  color: #054c78;
+  border-color: #6ca5c8 !important;
+  background-color: #87CEFA; }
+
+.progress-bar-lightslategray {
+  color: #171a1e;
+  border-color: #5f6d7a !important;
+  background-color: #778899; }
+
+.progress-bar-lightslategrey {
+  color: #171a1e;
+  border-color: #5f6d7a !important;
+  background-color: #778899; }
+
+.progress-bar-lightsteelblue {
+  color: #2d486c;
+  border-color: #8d9db2 !important;
+  background-color: #B0C4DE; }
+
+.progress-bar-lightyellow {
+  color: #6b6b00;
+  border-color: #ccccb3 !important;
+  background-color: #FFFFE0; }
+
+.progress-bar-lime {
+  color: #006100;
+  border-color: #00cc00 !important;
+  background-color: #00FF00; }
+
+.progress-bar-limegreen {
+  color: #104210;
+  border-color: #28a428 !important;
+  background-color: #32CD32; }
+
+.progress-bar-linen {
+  color: #89521b;
+  border-color: #c8c0b8 !important;
+  background-color: #FAF0E6; }
+
+.progress-bar-magenta {
+  color: #3d003d;
+  border-color: #cc00cc !important;
+  background-color: #FF00FF; }
+
+.progress-bar-maroon {
+  color: #ff9a9a;
+  border-color: #660000 !important;
+  background-color: #800000; }
+
+.progress-bar-mediumaquamarine {
+  color: #184a39;
+  border-color: #52a488 !important;
+  background-color: #66CDAA; }
+
+.progress-bar-mediumblue {
+  color: #9f9fff;
+  border-color: #0000a4 !important;
+  background-color: #0000CD; }
+
+.progress-bar-mediumorchid {
+  color: #1c0821;
+  border-color: #9544a9 !important;
+  background-color: #BA55D3; }
+
+.progress-bar-mediumpurple {
+  color: #1a0d35;
+  border-color: #765aaf !important;
+  background-color: #9370DB; }
+
+.progress-bar-mediumseagreen {
+  color: #10311f;
+  border-color: #308f5a !important;
+  background-color: #3CB371; }
+
+.progress-bar-mediumslateblue {
+  color: white;
+  border-color: #6253be !important;
+  background-color: #7B68EE; }
+
+.progress-bar-mediumspringgreen {
+  color: #005c39;
+  border-color: #00c87b !important;
+  background-color: #00FA9A; }
+
+.progress-bar-mediumturquoise {
+  color: #134a48;
+  border-color: #3aa7a3 !important;
+  background-color: #48D1CC; }
+
+.progress-bar-mediumvioletred {
+  color: white;
+  border-color: #9f116a !important;
+  background-color: #C71585; }
+
+.progress-bar-midnightblue {
+  color: #8a8ae5;
+  border-color: #14145a !important;
+  background-color: #191970; }
+
+.progress-bar-mintcream {
+  color: #007b3d;
+  border-color: #c4ccc8 !important;
+  background-color: #F5FFFA; }
+
+.progress-bar-mistyrose {
+  color: #bd1300;
+  border-color: #ccb6b4 !important;
+  background-color: #FFE4E1; }
+
+.progress-bar-moccasin {
+  color: #7d4f00;
+  border-color: #ccb691 !important;
+  background-color: #FFE4B5; }
+
+.progress-bar-navajowhite {
+  color: #7f4c00;
+  border-color: #ccb28a !important;
+  background-color: #FFDEAD; }
+
+.progress-bar-navy {
+  color: #8585ff;
+  border-color: #000066 !important;
+  background-color: #000080; }
+
+.progress-bar-oldlace {
+  color: #83590a;
+  border-color: #cac4b8 !important;
+  background-color: #FDF5E6; }
+
+.progress-bar-olive {
+  color: white;
+  border-color: #666600 !important;
+  background-color: #808000; }
+
+.progress-bar-olivedrab {
+  color: #0f1305;
+  border-color: #56721c !important;
+  background-color: #6B8E23; }
+
+.progress-bar-orange {
+  color: #573800;
+  border-color: #cc8400 !important;
+  background-color: #FFA500; }
+
+.progress-bar-orangered {
+  color: #380f00;
+  border-color: #cc3700 !important;
+  background-color: #FF4500; }
+
+.progress-bar-orchid {
+  color: #481346;
+  border-color: #ae5aab !important;
+  background-color: #DA70D6; }
+
+.progress-bar-palegoldenrod {
+  color: #625b14;
+  border-color: #beba88 !important;
+  background-color: #EEE8AA; }
+
+.progress-bar-palegreen {
+  color: #046704;
+  border-color: #7ac97a !important;
+  background-color: #98FB98; }
+
+.progress-bar-paleturquoise {
+  color: #156565;
+  border-color: #8cbebe !important;
+  background-color: #AFEEEE; }
+
+.progress-bar-palevioletred {
+  color: #451122;
+  border-color: #af5a76 !important;
+  background-color: #DB7093; }
+
+.progress-bar-papayawhip {
+  color: #895500;
+  border-color: #ccbfaa !important;
+  background-color: #FFEFD5; }
+
+.progress-bar-peachpuff {
+  color: #8b4200;
+  border-color: #ccae94 !important;
+  background-color: #FFDAB9; }
+
+.progress-bar-peru {
+  color: #37220e;
+  border-color: #a46a32 !important;
+  background-color: #CD853F; }
+
+.progress-bar-pink {
+  color: #a1001c;
+  border-color: #cc9aa2 !important;
+  background-color: #FFC0CB; }
+
+.progress-bar-plum {
+  color: #642464;
+  border-color: #b180b1 !important;
+  background-color: #DDA0DD; }
+
+.progress-bar-powderblue {
+  color: #1f5c63;
+  border-color: #8db3b8 !important;
+  background-color: #B0E0E6; }
+
+.progress-bar-purple {
+  color: #ffa4ff;
+  border-color: #660066 !important;
+  background-color: #800080; }
+
+.progress-bar-rebeccapurple {
+  color: #d9c6ec;
+  border-color: #52297a !important;
+  background-color: #663399; }
+
+.progress-bar-red {
+  color: white;
+  border-color: #cc0000 !important;
+  background-color: #FF0000; }
+
+.progress-bar-rosybrown {
+  color: #3c2424;
+  border-color: #967272 !important;
+  background-color: #BC8F8F; }
+
+.progress-bar-royalblue {
+  color: white;
+  border-color: #3454b4 !important;
+  background-color: #4169E1; }
+
+.progress-bar-saddlebrown {
+  color: #f8dcc9;
+  border-color: #6f370f !important;
+  background-color: #8B4513; }
+
+.progress-bar-salmon {
+  color: #640e04;
+  border-color: #c8665b !important;
+  background-color: #FA8072; }
+
+.progress-bar-sandybrown {
+  color: #633107;
+  border-color: #c3834d !important;
+  background-color: #F4A460; }
+
+.progress-bar-seagreen {
+  color: white;
+  border-color: #256f46 !important;
+  background-color: #2E8B57; }
+
+.progress-bar-seashell {
+  color: #a74500;
+  border-color: #ccc4be !important;
+  background-color: #FFF5EE; }
+
+.progress-bar-sienna {
+  color: white;
+  border-color: #804224 !important;
+  background-color: #A0522D; }
+
+.progress-bar-silver {
+  color: #434343;
+  border-color: #9a9a9a !important;
+  background-color: #C0C0C0; }
+
+.progress-bar-skyblue {
+  color: #114e67;
+  border-color: #6ca5bc !important;
+  background-color: #87CEEB; }
+
+.progress-bar-slateblue {
+  color: white;
+  border-color: #5548a4 !important;
+  background-color: #6A5ACD; }
+
+.progress-bar-slategray {
+  color: white;
+  border-color: #5a6673 !important;
+  background-color: #708090; }
+
+.progress-bar-slategrey {
+  color: white;
+  border-color: #5a6673 !important;
+  background-color: #708090; }
+
+.progress-bar-snow {
+  color: #d10000;
+  border-color: #ccc8c8 !important;
+  background-color: #FFFAFA; }
+
+.progress-bar-springgreen {
+  color: #006130;
+  border-color: #00cc66 !important;
+  background-color: #00FF7F; }
+
+.progress-bar-steelblue {
+  color: white;
+  border-color: #386890 !important;
+  background-color: #4682B4; }
+
+.progress-bar-tan {
+  color: #533d20;
+  border-color: #a89070 !important;
+  background-color: #D2B48C; }
+
+.progress-bar-teal {
+  color: white;
+  border-color: #006666 !important;
+  background-color: #008080; }
+
+.progress-bar-thistle {
+  color: #623b62;
+  border-color: #ad99ad !important;
+  background-color: #D8BFD8; }
+
+.progress-bar-tomato {
+  color: #510c00;
+  border-color: #cc4f39 !important;
+  background-color: #FF6347; }
+
+.progress-bar-turquoise {
+  color: #0d514a;
+  border-color: #33b3a6 !important;
+  background-color: #40E0D0; }
+
+.progress-bar-violet {
+  color: #630e63;
+  border-color: #be68be !important;
+  background-color: #EE82EE; }
+
+.progress-bar-wheat {
+  color: #714f0f;
+  border-color: #c4b28f !important;
+  background-color: #F5DEB3; }
+
+.progress-bar-white {
+  color: dimgray;
+  border-color: #cccccc !important;
+  background-color: #FFFFFF; }
+
+.progress-bar-whitesmoke {
+  color: #646464;
+  border-color: #c4c4c4 !important;
+  background-color: #F5F5F5; }
+
+.progress-bar-yellow {
+  color: #666600;
+  border-color: #cccc00 !important;
+  background-color: #FFFF00; }
+
+.progress-bar-yellowgreen {
+  color: #344611;
+  border-color: #7ba428 !important;
+  background-color: #9ACD32; }
+
+/*# sourceMappingURL=colorstrap-progress-bar.css.map */
