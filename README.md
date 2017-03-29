@@ -118,7 +118,7 @@ TODO
 
 ## Community
 
-Get updates on Bootstrap's development and chat with the project maintainers and community members.
+Get updates on Colorstrap's development and chat with the project maintainers and community members.
 
 - Follow [@colorstrap on Twitter](https://twitter.com/colorstrap).
 - Read and subscribe to [The Official Colorstrap Blog](https://blog.colorstrap.com).
