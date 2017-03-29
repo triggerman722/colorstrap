@@ -34,7 +34,6 @@ Several quick start options are available:
 - [Download the latest release.](https://github.com/triggerman722/colorstrap/dist/zip/colorstrap.zip)
 - Clone the repo: `git clone https://github.com/triggerman722/clrstp.git`
 
-Read the [Getting started page](https://www.colorstrap.com/getting-started/) for information on the framework contents, templates and examples, and more.
 
 ## Status
 
@@ -120,8 +119,6 @@ TODO
 
 Get updates on Colorstrap's development and chat with the project maintainers and community members.
 
-- Follow [@colorstrap on Twitter](https://twitter.com/colorstrap).
-- Read and subscribe to [The Official Colorstrap Blog](https://blog.colorstrap.com).
 - Implementation help may be found at Stack Overflow (tagged [`colorstrap`](https://stackoverflow.com/questions/tagged/colorstrap)).
 - Developers should use the keyword `colorstrap` on packages which modify or add to the functionality of Colorstrap when distributing through [npm](https://www.npmjs.com/browse/keyword/colorstrap) or similar delivery mechanisms for maximum discoverability.
 
