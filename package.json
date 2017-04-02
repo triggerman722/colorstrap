@@ -1,14 +1,15 @@
 {
   "name": "colorstrap",
   "version": "1.0.0",
-  "description": "",
+  "description": "Bring color to your Bootstrap projects. Colorstrap adds new classes for all 140 named HTML colors to many of Bootstrap's components. Colorstrap provides a customiztion tool to allow developers to create their own color classes at http://www.colorstrap.com/#/custom. All color classes use WCAG Constrast ratios of at least 4.5:1.",
+  "homepage": "http://www.colorstrap.com",
   "main": "Gruntfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["css", "bootstrap", "sass", "color"],
+  "author": "triggerman722",
+  "license": "Apache-2.0",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-contrib-compress": "^1.4.1",
