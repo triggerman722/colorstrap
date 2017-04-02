@@ -17,13 +17,9 @@
 ## Table of contents
 
 - [Quick start](#quick-start)
-- [Status](#status)
 - [What's included](#whats-included)
 - [Bugs and feature requests](#bugs-and-feature-requests)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
 - [Community](#community)
-- [Versioning](#versioning)
 - [Creators](#creators)
 - [Copyright and license](#copyright-and-license)
 
@@ -33,11 +29,6 @@ Several quick start options are available:
 
 - [Download the latest release.](https://github.com/triggerman722/colorstrap/dist/zip/colorstrap.zip)
 - Clone the repo: `git clone https://github.com/triggerman722/colorstrap.git`
-
-
-## Status
-
-Someday...
 
 ## What's included
 
@@ -101,30 +92,12 @@ We provide compiled CSS (`colorstrap.*`), as well as compiled and minified CSS (
 
 Have a bug or a feature request? Please [search](https://github.com/triggerman722/colorstrap/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20) for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/triggerman722/colorstrap/issues/new).
 
-
-## Documentation
-
-TODO
-
-### Running documentation locally
-
-TODO
-
-
-## Contributing
-
-TODO
-
 ## Community
 
 Get updates on Colorstrap's development and chat with the project maintainers and community members.
 
 - Implementation help may be found at Stack Overflow (tagged [`colorstrap`](https://stackoverflow.com/questions/tagged/colorstrap)).
 - Developers should use the keyword `colorstrap` on packages which modify or add to the functionality of Colorstrap when distributing through [npm](https://www.npmjs.com/browse/keyword/colorstrap) or similar delivery mechanisms for maximum discoverability.
-
-## Versioning
-
-TODO
 
 ## Creators
 
