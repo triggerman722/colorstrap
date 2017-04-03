@@ -241,7 +241,6 @@ function rgbToHex(r, g, b) {
 }
 		
 });
-
 DemoApp.config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider) {
 		$routeProvider	.when('/', {templateUrl: 'lib/views/index.html', controller: 'DemoCtrl'})
 			.when('/alerts', {templateUrl: 'lib/views/alerts.html', controller: 'DemoCtrl'})
@@ -282,8 +281,6 @@ DemoApp.config(['$routeProvider', '$locationProvider', function($routeProvider, 
 			.when('/progress-bars-striped', {templateUrl: 'lib/views/progress-bars-striped.html', controller: 'DemoCtrl'})
 			.when('/text', {templateUrl: 'lib/views/text.html', controller: 'DemoCtrl'})
                 ;
-		$locationProvider.html5Mode({
-		  enabled: true,
-		  requireBase: false
-		});
+		$locationProvider.html5Mode(true);
+		$locationProvider.hashPrefix('');
     }]);
