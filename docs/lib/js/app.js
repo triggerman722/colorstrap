@@ -242,7 +242,7 @@ function rgbToHex(r, g, b) {
 		
 });
 
-DemoApp.config(['$routeProvider', function($routeProvider) {
+DemoApp.config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider) {
 		$routeProvider	.when('/', {templateUrl: 'lib/views/index.html', controller: 'DemoCtrl'})
 			.when('/alerts', {templateUrl: 'lib/views/alerts.html', controller: 'DemoCtrl'})
 			.when('/alerts-theme', {templateUrl: 'lib/views/alerts-theme.html', controller: 'DemoCtrl'})
@@ -282,4 +282,8 @@ DemoApp.config(['$routeProvider', function($routeProvider) {
 			.when('/progress-bars-striped', {templateUrl: 'lib/views/progress-bars-striped.html', controller: 'DemoCtrl'})
 			.when('/text', {templateUrl: 'lib/views/text.html', controller: 'DemoCtrl'})
                 ;
+		$locationProvider.html5Mode({
+		  enabled: true,
+		  requireBase: false
+		});
     }]);
