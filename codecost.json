@@ -1,8 +1,8 @@
 {
 "charges": [
 	{
-		"action":"commit",
-		"subaction":"added",
+		"event":"commit",
+		"action":"added",
 		"chargetype":"file",
 		"chargeref":"*.html",
 		"description":"File specific discount for all HTML files.",
@@ -11,8 +11,8 @@
 		"currency":"CAD"
 	},
 	{
-		"action":"commit",
-		"subaction":"removed",
+		"event":"commit",
+		"action":"removed",
 		"chargetype":"author",
 		"chargeref":"gemartin@gmail.com",
 		"description":"Author specific charge for Greg when he removes something in a commit",
@@ -21,8 +21,18 @@
 		"currency":"CAD"
 	},
 	{
-		"action":"commit",
-		"subaction":"modified",
+                "event":"commit",
+                "action":"removed",
+                "chargetype":"author",
+                "chargeref":"pemartin@gmail.com",
+                "description":"Author specific charge for Preg when he removes something in a commit",
+                "calculationtype":"normal",
+                "chargeamount":"15.42",
+                "currency":"CAD"
+        },
+	{
+		"event":"commit",
+		"action":"modified",
 		"chargetype":"project",
 		"chargeref":"colorstrap",
 		"description":"Project specific charge for Colorstrap when something is modified in a commit",
@@ -31,7 +41,8 @@
 		"currency":"CAD"
 	},
 	{
-		"action":"commit",
+		"event":"commit",
+		"action":"any",
 		"chargetype":"folder",
 		"chargeref":"src/main/java/com/codecode/models",
 		"description":"Folder specific charge for any file in models folder",
@@ -40,7 +51,8 @@
 		"currency":"CAD"
 	},
 	{
-		"action":"commit",
+		"event":"commit",
+		"action":"any",
 		"chargetype":"tax",
 		"description":"HST",
 		"calculationtype":"percent",
