@@ -25,7 +25,7 @@
                 "action":"added",
                 "chargetype":"author",
                 "chargeref":"gemartin@gmail.com",
-                "description":"Author specific charge for Greg when he removes $
+                "description":"Author specific charge for Greg when he adds something in a commit.",
                 "calculationtype":"normal",
                 "chargeamount":"-11.13",
                 "currency":"CAD"
