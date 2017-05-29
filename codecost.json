@@ -1,4 +1,12 @@
 {
+"currency":"CAD",
+"hourly_rates": [
+        {
+                "author_email":"gemartin@gmail.com",
+                "cost_per_hour":"14.25",
+                "description":"The hourly rate for Greg"
+        }
+],
 "charges": [
 	{
 		"event":"commit",
@@ -7,8 +15,7 @@
 		"chargeref":"*.html",
 		"description":"File specific discount for all HTML files.",
 		"calculationtype":"percent",
-		"chargeamount":"-0.25",
-		"currency":"CAD"
+		"chargeamount":"-0.25"
 	},
 	{
 		"event":"commit",
@@ -17,8 +24,7 @@
 		"chargeref":"gemartin@gmail.com",
 		"description":"Author specific charge for Greg when he removes something in a commit",
 		"calculationtype":"normal",
-		"chargeamount":"15.45",
-		"currency":"CAD"
+		"chargeamount":"15.45"
 	},
 	{
                 "event":"commit",
@@ -27,8 +33,7 @@
                 "chargeref":"gemartin@gmail.com",
                 "description":"Author specific charge for Greg when he adds something in a commit.",
                 "calculationtype":"normal",
-                "chargeamount":"-11.13",
-                "currency":"CAD"
+                "chargeamount":"-11.13"
         },
 	{
                 "event":"commit",
@@ -37,8 +42,7 @@
                 "chargeref":"pemartin@gmail.com",
                 "description":"Author specific charge for Preg when he removes something in a commit",
                 "calculationtype":"normal",
-                "chargeamount":"15.42",
-                "currency":"CAD"
+                "chargeamount":"15.42"
         },
 	{
 		"event":"commit",
@@ -47,8 +51,7 @@
 		"chargeref":"colorstrap",
 		"description":"Project specific charge for Colorstrap when something is modified in a commit",
 		"calculationtype":"percent",
-		"chargeamount":"12.36",
-		"currency":"CAD"
+		"chargeamount":"12.36"
 	},
 	{
 		"event":"commit",
@@ -57,8 +60,7 @@
 		"chargeref":"src/main/java/com/codecode/models",
 		"description":"Folder specific charge for any file in models folder",
 		"calculationtype":"percent",
-		"chargeamount":"12.36",
-		"currency":"CAD"
+		"chargeamount":"12.36"
 	},
 	{
 		"event":"commit",
@@ -66,8 +68,7 @@
 		"chargetype":"tax",
 		"description":"HST",
 		"calculationtype":"percent",
-		"chargeamount":"13.20",
-		"currency":"CAD"
+		"chargeamount":"13.20"
 	}
 ]
 }
