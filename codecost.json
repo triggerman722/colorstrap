@@ -69,6 +69,14 @@
 		"description":"HST",
 		"calculationtype":"percent",
 		"chargeamount":"13.20"
+	},
+	{
+		"event":"commit",
+		"action":"any",
+		"chargetype":"tax",
+		"description":"FARF",
+		"calculationtype":"percent",
+		"chargeamount":"1.09"
 	}
 ]
 }
