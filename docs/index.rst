@@ -1,7 +1,7 @@
 Colorstrap
 =========
 
-A CSS library to extend the color range of `Twitter Bootstrap <https://www.getbootstrap.com/>` components.
+A CSS library to extend the color range of `Twitter Bootstrap <https://www.getbootstrap.com/>`_ components.
 
 + Compatible with Bootstrap v3.3.7
 
@@ -10,7 +10,7 @@ Quickstart
 
 Several quick start options are available:
 
-+ `Download the latest release. <https://github.com/triggerman722/colorstrap/dist/zip/colorstrap.zip>`
++ `Download the latest release. <https://github.com/triggerman722/colorstrap/dist/zip/colorstrap.zip>`_
 + Clone the repo: ``git clone https://github.com/triggerman722/colorstrap.git``
 
 What's Included
@@ -67,20 +67,20 @@ Within the download you'll find the following directories and files, logically g
     ├── colorstrap-text.css.map
     └── colorstrap-text.min.css``
 
-We provide compiled CSS (``colorstrap.*``), as well as compiled and minified CSS (``colorstrap.min.*``). CSS `source maps <https://developers.google.com/web/tools/chrome-devtools/debug/readability/source-maps>` (``colorstrap.*.map``) are available for use with certain browsers' developer tools.
+We provide compiled CSS (``colorstrap.*``), as well as compiled and minified CSS (``colorstrap.min.*``). CSS `source maps <https://developers.google.com/web/tools/chrome-devtools/debug/readability/source-maps>`_ (``colorstrap.*.map``) are available for use with certain browsers' developer tools.
 
 Bugs and feature requests
 -------------------------
 
-Have a bug or a feature request? Please `search <https://github.com/triggerman722/colorstrap/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20>` for existing and closed issues. If your problem or idea is not addressed yet, `please open a new issue <https://github.com/triggerman722/colorstrap/issues/new>`.
+Have a bug or a feature request? Please `search <https://github.com/triggerman722/colorstrap/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20>`_ for existing and closed issues. If your problem or idea is not addressed yet, `please open a new issue <https://github.com/triggerman722/colorstrap/issues/new>`_.
 
 Community
 ---------
 
 Get updates on Colorstrap's development and chat with the project maintainers and community members.
 
-+ Implementation help may be found at Stack Overflow (tagged ```colorstrap <https://stackoverflow.com/questions/tagged/colorstrap>).
-+ Developers should use the keyword ``colorstrap`` on packages which modify or add to the functionality of Colorstrap when distributing through `npm <https://www.npmjs.com/browse/keyword/colorstrap>` or similar delivery mechanisms for maximum discoverability.
++ Implementation help may be found at Stack Overflow (tagged `colorstrap <https://stackoverflow.com/questions/tagged/colorstrap>`_).
++ Developers should use the keyword ``colorstrap`` on packages which modify or add to the functionality of Colorstrap when distributing through `npm <https://www.npmjs.com/browse/keyword/colorstrap>`_ or similar delivery mechanisms for maximum discoverability.
 
 Creators
 --------
@@ -88,10 +88,10 @@ Creators
 Triggerman722
 +++++++++++++
 
-+ <https://github.com/triggerman722>
++ `<https://github.com/triggerman722>`_
 
 
 Copyright and license
 ---------------------
 
-Code and documentation copyright 2017 the `Colorstrap Authors <https://github.com/triggerman722/colorstrap/graphs/contributors>` Code released under the `Apache License 2.0 <https://github.com/triggerman722/colorstrap/blob/master/LICENSE>`. Docs released under `Creative Commons <https://github.com/triggerman722/colorstrap/blob/master/docs/LICENSE>`.
+Code and documentation copyright 2017 the `Colorstrap Authors <https://github.com/triggerman722/colorstrap/graphs/contributors>`_ Code released under the `Apache License 2.0 <https://github.com/triggerman722/colorstrap/blob/master/LICENSE>`_. Docs released under `Creative Commons <https://github.com/triggerman722/colorstrap/blob/master/docs/LICENSE>`_.
