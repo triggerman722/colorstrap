@@ -4,8 +4,6 @@ Colorstrap
 A CSS library to extend the color range of `Twitter Bootstrap <https://www.getbootstrap.com/>` components.
 
 + Compatible with Bootstrap v3.3.7
-+ Pure Python - no MapServer dependencies
-+ Open Source License (MIT)
 
 Quickstart
 ----------
