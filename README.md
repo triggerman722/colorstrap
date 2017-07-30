@@ -108,4 +108,4 @@ Get updates on Colorstrap's development and chat with the project maintainers an
 
 ## Copyright and license
 
-Code and documentation copyright 2017 the [Colorstrap Authors](https://github.com/triggerman722/colorstrap/graphs/contributors) Code released under the [Apache License 2.0](https://github.com/triggerman722/colorstrap/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/triggerman722/colorstrap/blob/master/docs/LICENSE).
+Code and documentation copyright 2017 the [Colorstrap Authors](https://github.com/triggerman722/colorstrap/graphs/contributors). Code released under the [Apache License 2.0](https://github.com/triggerman722/colorstrap/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/triggerman722/colorstrap/blob/master/docs/LICENSE).
