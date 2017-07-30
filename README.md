@@ -1,8 +1,7 @@
 <p align="center">
   <a href="https://triggerman722.github.io/colorstrap/#/">
     <img src="https://triggerman722.github.io/colorstrap/data/img/logogreen.png" width=72>
-  </a>
-  
+  </a>  
     <h3 align="center">Colorstrap</h3>
 
   <p align="center">
