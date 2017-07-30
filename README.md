@@ -2,8 +2,7 @@
   <a href="https://triggerman722.github.io/colorstrap/#/">
     <img src="https://triggerman722.github.io/colorstrap/data/img/logogreen.png" width=72>
   </a>
-  
-  <h3 align="center">Colorstrap</h3>
+    <h3 align="center">Colorstrap</h3>
 
   <p align="center">
     Broaden your <a href="https://www.getbootstrap.com/">Bootstrap</a> color vocabulary from 4 to 140 named HTML colors.
