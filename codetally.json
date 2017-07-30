@@ -7,16 +7,7 @@
                 "description":"The hourly rate for Greg"
         }
 ],
-"charges": [
-	{
-		"event":"commit",
-		"action":"added",
-		"chargetype":"file",
-		"chargeref":"*.html",
-		"description":"File specific discount for all HTML files.",
-		"calculationtype":"percent",
-		"chargeamount":"-0.25"
-	},
+"charges": [	
 	{
 		"event":"commit",
 		"action":"removed",
@@ -33,35 +24,17 @@
                 "chargeref":"gemartin@gmail.com",
                 "description":"Author specific charge for Greg when he adds something in a commit.",
                 "calculationtype":"normal",
-                "chargeamount":"-11.13"
+                "chargeamount":"11.13"
         },
 	{
                 "event":"commit",
-                "action":"removed",
+                "action":"modified",
                 "chargetype":"author",
-                "chargeref":"pemartin@gmail.com",
+                "chargeref":"gemartin@gmail.com",
                 "description":"Author specific charge for Preg when he removes something in a commit",
                 "calculationtype":"normal",
-                "chargeamount":"15.42"
+                "chargeamount":"21.42"
         },
-	{
-		"event":"commit",
-		"action":"modified",
-		"chargetype":"project",
-		"chargeref":"colorstrap",
-		"description":"Project specific charge for Colorstrap when something is modified in a commit",
-		"calculationtype":"percent",
-		"chargeamount":"12.36"
-	},
-	{
-		"event":"commit",
-		"action":"any",
-		"chargetype":"folder",
-		"chargeref":"src/main/java/com/codecode/models",
-		"description":"Folder specific charge for any file in models folder",
-		"calculationtype":"percent",
-		"chargeamount":"12.36"
-	},
 	{
 		"event":"commit",
 		"action":"any",
