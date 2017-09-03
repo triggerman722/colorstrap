@@ -7,7 +7,6 @@
     <a href="https://triggerman722.github.io/colorstrap/#/"><strong>Visit Colorstrap &raquo;</strong></a>
   </p>
 </p>
-
 <br>
 
 ## Table of contents
