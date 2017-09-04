@@ -9,7 +9,7 @@
 </p>
 <br>
 
-## Table of contents
+## Table of Contents
 
 - [Quick start](#quick-start)
 - [What's included](#whats-included)
