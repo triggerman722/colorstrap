@@ -13,7 +13,7 @@
 		"action":"removed",
 		"chargetype":"author",
 		"chargeref":"gemartin@gmail.com",
-		"description":"Author specific charge for Greg when he removes something in a commit",
+		"description":"22Author specific charge for Greg when he removes something in a commit",
 		"calculationtype":"normal",
 		"chargeamount":"15.45"
 	},
